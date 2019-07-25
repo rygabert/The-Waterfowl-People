@@ -29,3 +29,4 @@ version: 2019-06-05
 -Shawls on finon-ugric women
 -new "priest" hat
 -Add fill out holdings to the new provinces (Provinces 2015-2021)
+-Okay so, when you play the thing and look for error log in Documents\Paradox Interactive\Crusader Kings II\logs\error.log it has million bugs, would be good that some of them are fixed
