@@ -19,6 +19,7 @@ version: 2019-06-05
    -Bearpet?
    -more and more thematic events
 -Make religion more interesting
+   -assassin hash ritual into mushroom trip?
 -Flags, change and make more
 -Yugran expansion with new provinces, fix old borders and shit
 -Fix history if you see anything weird
