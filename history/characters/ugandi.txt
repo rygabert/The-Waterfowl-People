@@ -1,0 +1,120 @@
+8880230 = {
+	name="Alo"
+	dynasty=9990013
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	751.1.1={
+		birth=yes
+	}
+	838.1.1={
+		death=yes
+	}
+}
+8880231 = {
+	name="Ahti"
+	dynasty=9990013
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=8880230
+	825.7.5={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+8880232 = {
+	name="Ylo"
+	dynasty=9990013
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=8880231
+	885.7.5={
+		birth=yes
+	}
+	970.1.1={
+		death=yes
+	}
+}
+8880233 = {
+	name="Meeme"
+	dynasty=9990013
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=8880232
+	965.7.5={
+		birth=yes
+	}
+	1077.1.1={
+		death=yes
+	}
+}
+8880234 = {
+	name="Keke"
+	dynasty=9990013
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=8880233
+	1064.7.5={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+8880235 = {
+	name="Hurmas"
+	dynasty=9990013
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=8880234
+	1050.5.1={
+		birth=yes
+	}
+	1140.1.1={
+		death=yes
+	}
+}
+8880236 = {
+	name="Sulev"
+	dynasty=9990013
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=8880235
+	1139.5.1={
+		birth=yes
+	}
+	1225.1.1={
+		death=yes
+	}
+}
+8880237 = {
+	name="Kahrulemb"
+	dynasty=9990013
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	father=8880236
+	1210.1.1={
+		birth=yes
+	}
+	1281.1.1={
+	religion=orthodox
+	name=Eliazar
+	}
+	1285.1.1={
+		death=yes
+	}
+}
+8880238 = {
+	name="Ilmar"
+	dynasty=9990013
+	religion="orthodox"
+	culture="ugricbaltic"
+	father=8880237
+	1245.5.1={
+		birth=yes
+	}
+	1337.1.1={
+		death=yes
+	}
+}

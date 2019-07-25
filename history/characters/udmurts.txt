@@ -1,0 +1,351 @@
+8880041 = {
+	name="Dondy"
+	dynasty=9990005 
+	religion="finnish_pagan"
+	culture="udmurt"
+	751.1.1={
+		birth=yes
+	}
+	838.1.1={
+		death=yes
+	}
+}
+8880042 = {
+	name="Idna"
+	dynasty=9990005 
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880041
+	825.7.5={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+8880043 = {
+	name="Oşmeg"
+	dynasty=9990005
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880042
+	885.7.5={
+		birth=yes
+	}
+	970.1.1={
+		death=yes
+	}
+}
+8880044 = {
+	name="Eshterek"
+	dynasty=9990005
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880043
+	965.7.5={
+		birth=yes
+	}
+	1077.1.1={
+		death=yes
+	}
+}
+8880045 = {
+	name="Dondy"
+	dynasty=9990005
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880044
+	1064.7.5={
+		birth=yes
+	}
+	1090.1.1={
+		death=yes
+	}
+}
+8880046 = {
+	name="Idnazui"
+	dynasty=9990005
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880045
+	1050.5.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+8880047 = {
+	name="Ebga"
+	dynasty=9990005
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880046
+	1115.5.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+8880048 = {
+	name="Bursin"
+	dynasty=9990005
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880047
+	1175.5.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+8880049 = {
+	name="Ebga"
+	dynasty=9990005
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880048
+	1245.5.1={
+		birth=yes
+	}
+	1337.1.1={
+		death=yes
+	}
+}
+
+8880051 = {
+	name="Bursin"
+	dynasty=9990006
+	religion="finnish_pagan"
+	culture="udmurt"
+	751.1.1={
+		birth=yes
+	}
+	838.1.1={
+		death=yes
+	}
+}
+8880052 = {
+	name="Chunypi"
+	dynasty=9990006
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880051
+	822.7.5={
+		birth=yes
+	}
+	899.1.1={
+		death=yes
+	}
+}
+8880053 = {
+	name="Burshin"
+	dynasty=9990006
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880052
+	890.7.5={
+		birth=yes
+	}
+	980.1.1={
+		death=yes
+	}
+}
+8880054 = {
+	name="Mardan"
+	dynasty=9990006
+	religion="sunni"
+	culture="udmurt"
+	father = 8880053
+	979.7.5={
+		birth=yes
+	}
+	1067.1.1={
+		death=yes
+	}
+}
+8880055 = {
+	name="Biya"
+	dynasty=9990006
+	religion="sunni"
+	culture="udmurt"
+	father = 8880054
+	1040.7.5={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+8880056 = {
+	name="Ebga"
+	dynasty=9990006
+	religion="sunni"
+	culture="udmurt"
+	father = 8880055
+	1090.5.1={
+		birth=yes
+	}
+	1140.1.1={
+		death=yes
+	}
+}
+
+8880057 = {
+	name="Ebga"
+	dynasty=9990006
+	religion="sunni"
+	culture="udmurt"
+	father = 8880056
+	1115.5.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+8880058 = {
+	name="Biya"
+	dynasty=9990006
+	religion="sunni"
+	culture="udmurt"
+	father = 8880057
+	1175.5.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+8880059 = {
+	name="Biya"
+	dynasty=9990006
+	religion="sunni"
+	culture="udmurt"
+	father = 8880058
+	1245.5.1={
+		birth=yes
+	}
+	1337.1.1={
+		death=yes
+	}
+}
+###########################
+8880061 = {
+	name="Bushin"
+	dynasty=9990007
+	religion="finnish_pagan"
+	culture="udmurt"
+	751.1.1={
+		birth=yes
+	}
+	838.1.1={
+		death=yes
+	}
+}
+8880062 = {
+	name="Mardan"
+	dynasty=9990007
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880061
+	822.7.5={
+		birth=yes
+	}
+	890.1.1={
+		death=yes
+	}
+}
+8880063 = {
+	name="Biya"
+	dynasty=9990007
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880062
+	865.7.5={
+		birth=yes
+	}
+	955.1.1={
+		death=yes
+	}
+}
+8880064 = {
+	name="Mardan"
+	dynasty=9990007
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880063
+	950.7.5={
+		birth=yes
+	}
+	1067.1.1={
+		death=yes
+	}
+}
+8880065 = {
+	name="Bursin"
+	dynasty=9990007
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880064
+	1060.7.5={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+8880066 = {
+	name="Selta"
+	dynasty=9990007
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880065
+	1090.5.1={
+		birth=yes
+	}
+	1140.1.1={
+		death=yes
+	}
+}
+8880067 = {
+	name="Ebga"
+	dynasty=9990007
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880066
+	1115.5.1={
+		birth=yes
+	}
+	1180.1.1={
+		death=yes
+	}
+}
+8880068 = {
+	name="Biya"
+	dynasty=9990007
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880067
+	1175.5.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+8880069 = {
+	name="Selta"
+	dynasty=9990007
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880068
+	1245.5.1={
+		birth=yes
+	}
+	1337.1.1={
+		death=yes
+	}
+}

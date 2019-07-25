@@ -1,0 +1,27 @@
+# 1599 - Joensuu
+
+# County Title
+title = c_joensuu
+
+# Settlements
+max_settlements = 2
+b_joensuu = tribal
+
+#b_iisalmi = temple
+#b_eno = city
+#b_liperi = castle
+#b_kontiolahti = castle
+#b_ilomantsi = castle
+#b_pyhäselkä = castle
+
+# Misc
+culture = lappish
+religion = finnish_pagan
+
+1200.1.1 = {
+	culture = finnish
+}
+
+# History
+1292.1.1  = { b_joensuu = castle }
+1292.1.1 = { religion = catholic }	#Northern Crusades

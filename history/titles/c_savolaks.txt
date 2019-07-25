@@ -1,0 +1,53 @@
+768.1.1={
+	holder=170316
+}
+787.1.1={
+	holder=170317
+}
+821.1.1={
+	holder=170318
+}
+838.1.1={
+	holder=170319
+}
+864.1.1={
+	holder=170116
+}
+899.1.1={
+	holder=170117
+}
+955.1.1={
+	holder=170118
+}
+974.1.1={
+	holder=170119
+}
+1025.1.1={
+	holder=170120
+}
+1066.1.1={
+	holder=28035
+}
+1120.1.1={
+	holder = 144642
+}
+1170.1.1={
+	holder=228035
+}
+1210.1.1={
+	holder = 144643
+}
+1250.1.1={
+	liege="k_sweden"
+	holder=450506 # Valdemar Birgersson
+}
+1302.1.1={
+	liege="d_finland"
+	holder=450607 # Valdemar Magnusson
+}
+1318.2.16={
+	holder=450504 # King Birger
+}
+1320.1.1={
+	holder=450760
+}

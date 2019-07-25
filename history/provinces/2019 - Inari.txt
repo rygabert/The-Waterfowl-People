@@ -1,0 +1,29 @@
+# 1995 - Selikasa
+
+# County Title
+title = c_inari
+
+
+terrain = forest
+
+
+# Settlements
+max_settlements = 2
+
+
+b_njurka = tribal
+#b_sodankyla = tribal
+#b_inari	 = city
+#b_cistay = castle
+#b_aznaqay = castle
+#b_bua = castle
+#b_bawli = castle
+#b_cherm = castle
+
+# Misc
+culture = lappish
+religion = finnish_pagan
+terrain = forest
+
+
+# History

@@ -1,0 +1,23 @@
+# 1996 - Tsepel
+
+# County Title
+title = c_tsepel
+
+# Settlements
+max_settlements = 3
+
+b_yarcali = tribal
+
+#b_zay = city
+
+#b_cisay = castle
+#b_aznqay = castle
+#b_bug = castle
+#b_bali = castle
+#b_chrm = castle
+
+# Misc
+culture = mari
+religion = finnish_pagan
+
+# History

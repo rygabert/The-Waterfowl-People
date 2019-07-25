@@ -1,0 +1,380 @@
+8880011 = {
+	name="Putyayka"
+	dynasty=9990003 #Tsepelid(suvakad)
+	religion="finnish_pagan"
+	culture="mari"
+	752.1.1={
+		birth=yes
+	}
+	835.1.1={
+		death=yes
+	}
+}
+8880012 = {
+	name="Chipaz"
+	dynasty=9990003
+	religion="finnish_pagan"
+	father=8880011 
+	culture="mari"
+	800.7.5={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+8880013 = {
+	name="Tylze"
+	dynasty=9990003
+	religion="finnish_pagan"
+	father=8880012
+	culture="mari"
+	850.7.5={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+8880014 = {
+	name="Malyaka"
+	dynasty=9990003
+	religion="finnish_pagan"
+	father=8880013
+	culture="mari"
+	925.7.5={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+8880015 = {
+	name="Nishkepaz"
+	dynasty=9990003
+	religion="finnish_pagan"
+	father=8880014
+	culture="mari"
+	980.7.5={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+8880016 = {
+	name="Syrka"
+	dynasty=9990003
+	religion="finnish_pagan"
+	father=8880015
+	culture="mari"
+	1050.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+8880017 = {
+	name="Toj"
+	dynasty=9990003
+	religion="finnish_pagan"
+	father=8880016
+	culture="mari"
+	1110.1.1={
+		birth=yes
+	}
+	1170.1.1={
+		death=yes
+	}
+}
+8880018 = {
+	name="Jatman"
+	dynasty=9990003
+	religion="finnish_pagan"
+	father=8880017
+	culture="mari"
+	1150.1.1={
+		birth=yes
+	}
+	1230.1.1={
+		death=yes
+	}
+}
+8880019 = {
+	name="Urse"
+	dynasty=9990003
+	religion="finnish_pagan"
+	father=8880018
+	culture="mari"
+	1215.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		death=yes
+	}
+}
+8880020 = {
+	name="Odo"
+	dynasty=9990003
+	religion="finnish_pagan"
+	father=8880019
+	culture="mari"
+	1255.1.1={
+		birth=yes
+	}
+	1330.1.1={
+		death=yes
+	}
+}
+8880121 = {
+	name="Mamic"
+	dynasty=9990003
+	religion="finnish_pagan"
+	father=8880020
+	culture="mari"
+	1305.1.1={
+		birth=yes
+	}
+	1338.1.1={
+		death=yes
+	}
+}
+999017 = {
+	name="Altybaya"
+        dynasty=1000053374 # Yum
+	religion="finnish_pagan"
+	culture="mari"
+	747.1.1 = {
+		birth = yes
+	}
+	846.1.1 = {
+		death = yes
+	}
+}
+20630 = {
+	name="Tyueykezhut"
+	dynasty = 1053002 #skai
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="finnish_pagan"
+	culture=mari
+	trait="envious"
+	trait="amateurish_plotter"
+	1039.1.1={
+		birth=yes
+	}
+	1089.1.1={
+		death=yes
+	}
+}
+194162 = {
+	name = "Paksyut"
+	dynasty = 1045026
+	religion = finnish_pagan
+	culture = mari
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194163 = {
+	name = "Chipaz"
+	dynasty = 1045026
+	religion = finnish_pagan
+	culture = mari
+	father = 194162
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194164 = {
+	name = "Azyren"
+	dynasty = 1045026
+	religion = finnish_pagan
+	culture = mari
+	father = 194163
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}
+8880021 = {
+	name="Kugo"
+	dynasty =9990004 #cherem/keskmaa
+	religion="finnish_pagan"
+	culture="mari"
+	752.1.1={
+	}
+	835.1.1={
+		death=yes
+	}
+}
+8880022 = {
+	name="Shudyr"
+	dynasty=9990004
+	religion="finnish_pagan"
+	culture="mari"
+	800.7.5={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+8880023 = {
+	name="Küdryo"
+	dynasty=9990004
+	religion="finnish_pagan"
+	culture="mari"
+	850.7.5={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+8880024 = {
+	name="Tuny"
+	dynasty=9990004
+	religion="finnish_pagan"
+	culture="mari"
+	925.7.5={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+8880025 = {
+	name="Kugo"
+	dynasty=9990004
+	religion="finnish_pagan"
+	culture="mari"
+	980.7.5={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+8880026 = {
+	name="Tull"
+	dynasty=9990004
+	religion="finnish_pagan"
+	culture="mari"
+	1050.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+8880070 = {
+	name="Kugyza"
+	dynasty =9990008 #kugyza
+	religion="finnish_pagan"
+	culture="mari"
+	752.1.1={
+		birth=yes
+			create_bloodline = {
+			type = kugyza
+			has_dlc = "Holy Fury"
+		}
+	}
+	835.1.1={
+		death=yes
+	}
+}
+8880071 = {
+	name="Pakshova"
+	dynasty=9990008
+	religion="finnish_pagan"
+	culture="mari"
+	father=8880070 
+	800.7.5={
+		birth=yes
+	}
+	865.1.1={
+		death=yes
+	}
+}
+8880072 = {
+	name="Cimale"
+	dynasty=9990008
+	religion="finnish_pagan"
+	culture="mari"
+	father=8880071
+	855.7.5={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+8880073 = {
+	name="Izim"
+	dynasty=9990008
+	religion="finnish_pagan"
+	culture="mari"
+	father=8880072
+	925.7.5={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+8880074 = {
+	name="Cimale"
+	dynasty=9990008
+	religion="finnish_pagan"
+	culture="mari"
+	father=8880073
+	995.7.5={
+		birth=yes
+	}
+	1064.1.1={
+		death=yes
+	}
+}
+8880075 = {
+	name="Kugyrak"
+	dynasty=9990008 
+	religion="finnish_pagan"
+	culture="mari"
+	father=8880074
+	1051.7.5={
+		birth=yes
+	}
+	1135.1.1={
+		death=yes
+	}
+}
+8880076 = {
+	name="Chumbylat"
+	dynasty=9990008
+	religion="finnish_pagan"
+	father=8880075
+	martial=10
+	diplomacy=5
+	stewardship=6
+	trait="diligent"
+	trait="zealous"
+	culture="mari"
+	1130.1.1={
+		birth=yes
+	}
+	1200.1.1={
+		death=yes
+	}
+}

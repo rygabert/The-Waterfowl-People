@@ -1,0 +1,42 @@
+755.1.1 = {
+	holder = 8880200 
+	liege = d_cheremisa
+}
+854.1.1 = {
+	holder = 8880201
+}
+900.1.1 = {
+	holder = 8880202
+}
+1060.1.1 = {
+	holder = 8880203
+}
+1067.1.1 = {
+	holder = 8880204
+}
+1075.1.1 = {
+	holder = 8880205# Chumbylat 1181 kotelnichti vallutus
+}
+1147.1.1=
+{
+holder=8880206
+}
+1200.1.1={
+liege = 0
+}
+1226.1.1=
+{
+holder=8880207
+}
+1285.1.1=
+{
+holder=8880208
+}
+1337.1.1=
+{
+liege="d_novgorod"
+}
+1337.1.1=
+{
+holder=472319
+}

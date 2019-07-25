@@ -1,0 +1,24 @@
+# 1718 - Khlynov
+
+# County Title
+title = c_khlynov
+
+# Settlements
+max_settlements = 3
+
+b_khlynov = tribal
+
+#b_uchel
+#b_kabachischi
+#b_arsk
+#b_kukmor
+#b_voljsk
+#b_dubyazy
+
+# Misc
+culture = udmurt
+religion = finnish_pagan
+terrain = forest
+
+# History
+1000.1.1 = { b_uchel = temple } 

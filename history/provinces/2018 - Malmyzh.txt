@@ -1,0 +1,34 @@
+# 1995 - Selikasa
+
+# County Title
+title = c_malmyzh
+
+
+terrain = forest
+
+
+# Settlements
+max_settlements = 2
+
+
+b_malmyzh = tribal
+#b_b_Zolotarev
+#b_yarcalli = tribal
+#b_zay = city
+#b_cistay = castle
+#b_aznaqay = castle
+#b_bua = castle
+#b_bawli = castle
+#b_cherm = castle
+
+# Misc
+culture = udmurt
+religion = finnish_pagan
+terrain = forest
+
+
+# History
+
+925.1.1 = {
+culture=mari
+}

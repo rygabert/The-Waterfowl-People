@@ -1,0 +1,114 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+finnish_pagan;Finno-Ugric;suomenusko;Suomenuskowisch;;Soumenusco;;;;;;;;;x
+mari;Mari;Mari;Mari;;Mari;;;;;;;;;x
+udmurt;Udmurt;Udmurt;Udmurt;Udmurt;;;;;;;;;x
+vepsian;Vepsian;Vepsian;Vepsian;;Vepsian;;;;;;;;;x
+bjarmian;Bjarmian;Bjarmian;Bjarmian;;Bjarmian;;;;;;;;;x
+muroma;Muroma;;;;;;;;;x
+vainakh;Vainakh;;;;;;;;;x
+north_caucasian;North Caucasian;;;;;;;;;x
+PROV2015;Tambo;;;;;;;;;x
+PROV2016;Seliksa;;;;;;;;;x
+PROV2017;Arzamas;;;;;;;;;x
+PROV2018;Malmyzh;;;;;;;;;x
+PROV2019;Inari;;;;;;;;;x
+PROV2020;Turaida;;;;;;;;;x
+PROV2021;Vaiga;;;;;;;;;x
+PROV379;Ugandi;;;;;;;;;x
+d_ugandi;Ugandi;;;;;;;;;x
+c_tambov;Tambo;;;;;;;;;x
+b_tambo;Tamb osh;;;;;;;;;x
+c_seliksa;Seliksa;;;;;;;;;x
+b_zolotarev;Zolotarev;;;;;;;;;x
+b_seliksa;Seliksa;;;;;;;;;x
+c_arzamas;Arzamas;;;;;;;;;x
+b_arzamas;Arzama osh;;;;;;;;;x
+b_vad;Vad;;;;;;;;;x
+c_malmyzh;Malmyzh;;;;;;;;;x
+b_malmyzh;Malmyzh;;;;;;;;;x
+c_inari;Inari;;;;;;;;;x
+b_inari;Inari;;;;;;;;;;x
+b_sodankyla;Sodankyla;;;;;;;;;x
+b_njurka;Njurka;;;;;;;;;x
+d_udmurtia;Udmurtia;;;;;;;;;x
+d_maris;Merja;;;;;;;;;x
+d_cheremisa;Mari;;;;;;;;;x
+d_ingeria;Ingria;Ingriens;Ingrier;;Ingrians;;;;;;;;;x
+d_ingeria_adj;Ingrian;ingrienne;Ingrisch;;Ingrianés;;;;;;;;;x
+d_erzya;Erzya;;;;;;;;;x
+d_vytla;Vytla;;;;;;;;;x
+d_mordvins;Murunza;;;;;;;;;x
+d_thorzok;Thorzok;;;;;;;;;x
+d_uusinmaa;Vantaa;;;;;;;;;x
+d_tavastia;Tavastia;;;;;;;;;x
+k_mariel;Mari-El;;;;;;;;;x
+k_mordva;Mordovia;;;;;;;;;x
+k_estonia;Maavald;;;;;;;;;x
+k_vepsia;Vepsänma;;;;;;;;;x
+k_bjarmia;Bjarmia;;;;;;;;;x
+c_zyriane;Yakshan;;;;;;;;;x
+c_tsepel;Tshepel;Tsepel;Tsepel;Tsepel;;;;;;;;;x
+c_selikasa;Selikasa;Ingriens;Ingrier;Ingrians;;;;;;;;;x
+c_udmurts;Chupci;;;;;;;;;x
+e_finnic;Empire of Kaleva;;;;;;;;;x
+e_idel_ural;Volga-Permian Empire;;;;;;;;;x
+PROV395;Väina;;;;;;;;;x
+PROV585;Tsepel;;;;;;;;;x
+PROV589;Kakshan;;;;;;;;;x
+PROV591;Purgaz;;;;;;;;;x
+PROV584;Orban Osh;;;;;;;;;x
+PROV588;Vytla;;;;;;;;;x
+PROV1715;Käkshär;;;;;;;;;;;;;x
+PROV1716;Ari;;;;;;;;;;;;;x
+PROV1717;Mozhga;;;;;;;;;;;;;x
+PROV1718;Cupchy;;;;;;;;;;;;;x
+PROV1719;Kilmez;;;;;;;;;;;;;x
+PROV1720;Kudymkar;;;;;;;;;;;;;x
+PROV1841;Cherdyn;;;;;;;;;;;;;x
+PROV579;Murunza;;;;;;;;;;;;;x
+PROV582;Oka;;;;;;;;;;;;;x
+PROV590;Osh Pando;;;;;;;;;;;;;x
+PROV614;Chuvashia;;;;;;;;;;;;;x
+PROV405;Totma;;;;;;;;;;;;;x
+PROV612;Vatka;;;;;;;;;;;;;x
+RUNO;Manaruno;;;;;;;;;x
+GOD_UKKO;Jum;;;;;;;;;x
+GOD_JUMI;Peko;;;;;;;;;x
+GOD_PERKELE;Ahto;;;;;;;;;x
+GOD_THE_GREAT_BEAR;Suuri Karhu;;;;;;;;;x
+GOD_MASTOR_AVA;Maaemä;;;;;;;;;x
+GOD_TAPIO;Mettsäitsä;;;;;;;;;x
+GOD_KUU;Vesilintu;;;;;;;;;x
+NOITA;Noita;;;;;;;;;x
+RYSELUS;Pühasõda;;;;;;;;;x
+tyushten;Blood of This.GetFirstNameWithNick];Sang de [This.GetFirstNameWithNick];Blut von [This.GetFirstNameWithNick];;Sangre de [This.GetFirstNameWithNick];;;;;;;;;x
+kalev;Blood of [This.GetFirstNameWithNick];Sang de [This.GetFirstNameWithNick];Blut von [This.GetFirstNameWithNick];;Sangre de [This.GetFirstNameWithNick];;;;;;;;;x
+kugyza;Blood of [This.GetFirstNameWithNick];Sang de [This.GetFirstNameWithNick];Blut von [This.GetFirstNameWithNick];;Sangre de [This.GetFirstNameWithNick];;;;;;;;;x
+c_grassland_cheremisa_adj;Kakðanian ;kerjenetsienne;Kerschenezisch;;Kerzhenetsiano;;;;;;;;;x
+c_mountain_cheremisa_adj;Purgazian;tchérémisse;Tscheremissisch;;Cheremisano;;;;;;;;;x
+PROV589;Kerzhenets;Kerjenets;Kerschenez;;Kerzhenets;;;;;;;;;x
+PROV591;Cheremisa;Tchérémisse;Tscheremiss;;Cheremisa;;;;;;;;;x
+LOADING_TIP_0; People back then didn't know much, but they undestood everything. Today we know alot but don't understand anything.;;;;;;;;;x
+LOADING_TIP_1; Paska on talonpojan kultaa - Shit is peasant's gold.;;;;;;;;;x
+LOADING_TIP_2; Mikä laulaen tulee, se viheltäen menee - What comes singing, leaves whistling.;;;;;;;;;x
+LOADING_TIP_3; Joutsen on ihmisestä rikottu linnuksi - A swan has been broken from man into a bird.;;;;;;;;;x
+LOADING_TIP_4; It's not exactly a good idea to heat your home with logs taken from the walls of your own house.;;;;;;;;;x
+LOADING_TIP_5; People back then didn't know much, but they undestood everything. Today we know alot but don't understand anything.;;;;;;;;;x
+LOADING_TIP_6; Ei parta pahoille kasva, turpajouhet joutaville.Joka kuuseen kurkottaa, se katajaan kapsahtaa.Vesi vanhin voitehista.Ei vara venettä kaada.;;;;;;;;;x
+LOADING_TIP_7; Isamaa ilu hoieldes, võõraste vastu võideldes. Varisesid vaprad vallad, kolletasid kihelkonnad muistse põlve mulla alla.;;;;;;;;;x
+LOADING_TIP_8; Olukord on sitt, kuid see on meie tuleviku väetis.;;;;;;;;;x
+LOADING_TIP_9; People back then didn't know much, but they undestood everything. Today we know alot but don't understand anything.;;;;;;;;;x
+LOADING_TIP_10; Paska on talonpojan kultaa - Shit is peasant's gold.;;;;;;;;;x
+LOADING_TIP_11; Mikä laulaen tulee, se viheltäen menee - What comes singing, leaves whistling.;;;;;;;;;x
+LOADING_TIP_12; Don't sell the skin till you have caught the bear;;;;;;;;;x
+LOADING_TIP_13; The Jew cried when the Mulk was born;;;;;;;;x
+LOADING_TIP_14; People back then didn't know much, but they undestood everything. Today we know alot but don't understand anything.;;;;;;;;;x
+LOADING_TIP_15; It's not exactly a good idea to heat your home with logs taken from the walls of your own house.;;;;;;;;;x
+LOADING_TIP_16; Isamaa ilu hoieldes, võõraste vastu võideldes. Varisesid vaprad vallad, kolletasid kihelkonnad muistse põlve mulla alla.;;;;;;;;;x
+LOADING_TIP_17; The situation is shit, but thats the fertilizer for our future.;;;;;;;;;x
+LOADING_TIP_18; Homesick for a time that never came;;;;;;;;;x
+LOADING_TIP_19; Pelmeni are from Udmurtia;;;;;;;;;x
+LOADING_TIP_20; Skiis are Finno-Ugric;;;;;;;;;x
+LOADING_TIP_21; Finno-Ugric and Baltic people believe that the world came to be from an egg of the waterfowl;;;;;;;;;x
+LOADING_TIP_21; Udmurts believe that humans descend from bears;;;;;;;;;x
+LOADING_TIP_22; Forbade the old Väinämöinen, denied the groom of quiet waters: "do not bow before gold, waver over silver";;;;;;;;;x

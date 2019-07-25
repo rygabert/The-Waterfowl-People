@@ -1,0 +1,28 @@
+# County Title
+title = c_vaiga
+
+# Settlements
+max_settlements = 2
+b_kassinurme = tribal
+#b_taravere = city
+#b_alatskivi = temple
+
+
+# Misc
+culture = ugricbaltic
+religion = finnish_pagan
+
+# History
+
+1224.1.1 = { 
+	b_kassinurme = city
+	capital = b_kassinurme
+}
+1224.1.1 = {
+	religion = catholic
+	b_alatskiv = temple
+	b_taravere = ca_keep_1
+	b_taravere = ca_militia_barracks_1
+	b_taravere = ca_wall_1
+	b_taravere = ca_wall_q_1
+}

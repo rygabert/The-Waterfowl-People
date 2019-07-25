@@ -1,0 +1,30 @@
+# 1995 - Selikasa
+
+# County Title
+title = c_seliksa
+
+
+terrain = forest
+
+
+# Settlements
+max_settlements = 3
+
+
+b_seliksa = tribal
+#b_b_Zolotarev
+#b_yarcalli = tribal
+#b_zay = city
+#b_cistay = castle
+#b_aznaqay = castle
+#b_bua = castle
+#b_bawli = castle
+#b_cherm = castle
+
+# Misc
+culture = mordvin
+religion = finnish_pagan
+terrain = forest
+
+
+# History

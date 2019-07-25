@@ -1,0 +1,28 @@
+# 1596 - Riga
+
+# County Title
+title = c_turaida
+
+# Settlements
+max_settlements = 3
+b_turaida = tribal
+#b_metsapoul = temple
+#b_venden = castle
+#b_salaspils = city
+
+#b_sigulda = castle
+#b_ikskile = castle
+#b_turaida = castle
+#b_ropazi = castle
+
+
+# Misc
+culture = ugricbaltic
+religion = finnish_pagan
+
+# History
+
+1206.1.1 = { 
+	religion = catholic
+	b_metsapoul = temple
+}
