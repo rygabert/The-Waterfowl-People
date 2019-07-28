@@ -23166,6 +23166,11 @@ e_idel_ural = {
 			c_kolguyev = {
 				color={ 204 144 114 }
 				color2={ 255 255 255 }
+				
+				samoyed="Kholnggov"
+				bjarmian="Kholnggov"
+				ugricbaltic="Kholnggov"
+				finnish="Kholnggov"
 
 				b_kolguyev = {}
 				b_velikaya = {}
