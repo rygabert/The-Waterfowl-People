@@ -4,10 +4,6 @@ by Rygabert, with the help of Finno-Ugristica discord server
 
 ### TO PLAY the thing, PUT "The waterfowl people.mod" FILE into [Paradox Interactive\Crusader Kings II\mod], the Main folder has to be named "The Waterfowl People" and has to be in the same place#### Fuck github, gay site
 
-Mod uses:
-###ARKOpack by Arko###
-version: 2019-06-05
-
 ############################################################################################################
 ########## Features need to be added, who ever wants to commit, write your name next to it into [] #########
 ############################################################################################################
