@@ -11,7 +11,8 @@ version: 2019-06-05
 ############################################################################################################
 ########## Features need to be added, who ever wants to commit, write your name next to it into [] #########
 ############################################################################################################
--Names, names, names, names (Udmurts, nenets etc, in common\cultures\00_cultures.txt)
+-Names, names, and more names (Udmurts, nenets etc, in common\cultures\00_cultures.txt)
+-Map with fixed Ob river and ural mountains
 -Culturally appropriate dynasty names (common\dynasties)
 -Events and descisions from 0
   -Islamic Hajj changed to finno-ugric exploration to the north (not easy as it sounds, who ever bothers doing it)
