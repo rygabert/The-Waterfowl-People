@@ -3,6 +3,8 @@
 # County Title
 title = c_north_dvina
 
+terrain = forest
+
 # Settlements
 max_settlements = 3
 b_kholmogory = tribal

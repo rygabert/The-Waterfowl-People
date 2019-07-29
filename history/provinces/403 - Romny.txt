@@ -3,6 +3,8 @@
 # County Title
 title = c_romny
 
+terrain = forest
+
 # Settlements
 max_settlements = 2
 

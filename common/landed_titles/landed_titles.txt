@@ -23263,6 +23263,10 @@ e_idel_ural = {
 				
 				b_tambo = {
 				}
+				b_kuzmino = {
+				}
+				b_tonbova = {
+				}
 			}
 			c_seliksa = {
 				color={ 220 191 19 }

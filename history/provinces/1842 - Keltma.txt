@@ -1,14 +1,16 @@
-# 1824 - Yezhuga
+# 1842 - Keltma
 
 # County Title
-title = c_yezhuga
+title = c_keltma
+
+terrain = forest
 
 # Settlements
 max_settlements = 1
-b_yezhuga = tribal
+b_keltma = tribal
 
 # Misc
-culture = bjarmian
+culture = komi
 religion = finnish_pagan
-terrain = forest
+
 # History

@@ -3,6 +3,8 @@
 # County Title
 title = c_onega_peninsula
 
+terrain = forest
+
 # Settlements
 max_settlements = 1
 b_onega_peninsula = tribal
