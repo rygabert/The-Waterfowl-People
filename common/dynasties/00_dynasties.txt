@@ -1,3 +1,26 @@
+9990114 = {
+	name="Pienijoke"
+	culture = bjarmian
+}
+9990113 = {
+	name="Toimit"
+	culture = bjarmian
+}
+9990112 = {
+	name="Karhunpuoli"   
+	culture = "vepsian"
+	religion = "finnish_pagan"
+}
+9990111 = {
+	name="Karhunpuoli"   
+	culture = "vepsian"
+	religion = "finnish_pagan"
+}
+9990110 = {
+	name="Lyydit"   
+	culture = "vepsian"
+	religion = "finnish_pagan"
+}
 9990013 = {
 	name="Tarva"   
 	culture = "ugricbaltic"
