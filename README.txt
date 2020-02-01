@@ -10,6 +10,9 @@ by Rygabert, with the help of Finno-Ugristica discord server
 
 Update 1.02.2020
   -Most of the features are not going to be added, because of lack of intrest and not having anyone willing to develope
+  
+ -Known issues atm:
+  -Bad river crossings in some places, some COA are buggy looking, characters too young at certain dates, localization at some places etc.
 
 -Names, names, and more names (Udmurts, nenets etc, in common\cultures\00_cultures.txt)
 -Map with fixed Ob river and ural mountains
