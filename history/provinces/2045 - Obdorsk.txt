@@ -1,0 +1,14 @@
+
+# County Title
+title = c_obdorsk #Polnovat-Vozh
+
+
+# Settlements
+max_settlements = 1
+b_polnovat-vozh = tribal
+
+# Misc
+culture = khanty
+religion = finnish_pagan
+
+# History

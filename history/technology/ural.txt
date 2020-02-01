@@ -21,12 +21,13 @@ technology = {
 		d_erzya
 		d_vytla
 		d_udmurtia
+		d_khanty
 	}
 
 	769 = {
 		military = 0.1
 		economy = 0.1
-		culture = 0.1
+		culture = 0.2
 		TECH_CAVALRY = 2
 		TECH_SKIRMISH = 2
 

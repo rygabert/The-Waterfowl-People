@@ -1,0 +1,259 @@
+8880240 = {
+	name="Yurak"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	culture="samoyed"
+	745.1.1={
+		birth=yes
+	}
+	835.1.1={
+		death=yes
+	}
+}
+8880241 = {
+	name="Tatva"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	father=8880240 
+	culture="samoyed"
+	800.7.5={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+8880242 = {
+	name="Sarak"
+	dynasty=9990115 
+	father=8880241 
+	religion="finnish_pagan"
+	culture="samoyed"
+	850.7.5={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+8880243 = {
+	name="Hasaba"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	culture="samoyed"
+	father=8880242
+	925.7.5={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+8880244 = {
+	name="Varaka"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	father=8880243 
+	culture="samoyed"
+	980.7.5={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+8880245 = {
+	name="Nyalku"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	father=8880244 
+	culture="samoyed"
+	1050.5.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+8880246 = {
+	name="Syudbya"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	culture="samoyed"
+	father=8880245
+	1100.5.1={
+		birth=yes
+	}
+	1190.1.1={
+		death=yes
+	}
+}
+8880247 = {
+	name="Samatu"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	culture="samoyed"
+	father=8880246 
+	1188.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+8880248 = {
+	name="Nerkag"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	culture="samoyed"
+	father=8880247  
+	1230.5.1={
+		birth=yes
+	}
+	1300.1.2={
+		death=yes
+	}
+}
+8880249 = {
+	name="Mandak"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	culture="samoyed"
+	father=8880248 
+	1270.5.1={
+		birth=yes
+	}
+	1337.1.2={
+		death=yes
+	}
+}
+##############
+8880260 = {
+	name="Nabtiko"
+	dynasty=9990116
+	religion="finnish_pagan"
+	culture="samoyed"
+	745.1.1={
+		birth=yes
+	}
+	835.1.1={
+		death=yes
+	}
+}
+8880261 = {
+	name="Neka"
+	dynasty=9990116
+	religion="finnish_pagan"
+	father=8880260 
+	culture="samoyed"
+	800.7.5={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+8880262 = {
+	name="Irikei"
+	dynasty=9990116
+	father=8880261 
+	religion="finnish_pagan"
+	culture="samoyed"
+	850.7.5={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+8880263 = {
+	name="Perabts"
+	dynasty=9990116
+	religion="finnish_pagan"
+	culture="samoyed"
+	father=8880262
+	925.7.5={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+8880264 = {
+	name="Ye'eikrne"
+	dynasty=9990116
+	religion="finnish_pagan"
+	father=8880263 
+	culture="samoyed"
+	980.7.5={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+8880265 = {
+	name="Temko"
+	dynasty=9990116
+	religion="finnish_pagan"
+	father=8880264 
+	culture="samoyed"
+	1050.5.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+8880266 = {
+	name="Vychu"
+	dynasty=9990116
+	religion="finnish_pagan"
+	culture="samoyed"
+	father=8880265
+	1100.5.1={
+		birth=yes
+	}
+	1190.1.1={
+		death=yes
+	}
+}
+8880267 = {
+	name="perabts"
+	dynasty=9990116
+	religion="finnish_pagan"
+	culture="samoyed"
+	father=8880266 
+	1188.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+8880268 = {
+	name="Nerkag"
+	dynasty=9990116
+	religion="finnish_pagan"
+	culture="samoyed"
+	father=8880267  
+	1230.5.1={
+		birth=yes
+	}
+	1300.1.2={
+		death=yes
+	}
+}
+8880269 = {
+	name="Kako"
+	dynasty=9990116
+	religion="finnish_pagan"
+	culture="samoyed"
+	father=8880268 
+	1270.5.1={
+		birth=yes
+	}
+	1337.1.2={
+		death=yes
+	}
+}

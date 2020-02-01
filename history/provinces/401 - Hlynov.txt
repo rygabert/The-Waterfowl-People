@@ -16,7 +16,7 @@ b_hlynov = tribal
 #b_wotka = castle
 
 # Misc
-culture = mari
+culture = vepsian
 religion = finnish_pagan
 terrain = forest
 

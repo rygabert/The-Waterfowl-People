@@ -1,4 +1,4 @@
-max_provinces = 2022
+max_provinces = 2046
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -31,6 +31,7 @@ sea_zones = { 1846 1847 }
 sea_zones = { 1891 1894 }
 sea_zones = { 1995 2000 }
 sea_zones = { 2008 2011 }
+sea_zones = { 2036 2044 }
 
 # Indian Seas
 sea_zones = { 1307 1317 }
@@ -48,7 +49,7 @@ sea_zones = { 1990 1992 }
 
 
 ocean_region = {	# European Ocean
-	sea_zones = { 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 }
+	sea_zones = { 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 }
 }
 
 ocean_region = {	# Indian Ocean
@@ -59,7 +60,11 @@ ocean_region = {	# Indian Ocean
 tree = { 3 4 7 10 }
 
 major_rivers = 
-{ 
+{ 	
+	2036 2037 2038 #Dvina
+	2039 #Narva
+	2040 #Kama
+	2041 2042 2043 2044 #Pechora
 	# India
 	1307 1308 1309 1310 # Indus
 	1311 1312 1313 1314 1315 # Ganges

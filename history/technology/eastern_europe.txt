@@ -59,6 +59,7 @@ technology = {
 		d_thorzok
 		d_uusinmaa
 		d_tavastia
+		d_ugandi
 	}
 	
 	769 = {

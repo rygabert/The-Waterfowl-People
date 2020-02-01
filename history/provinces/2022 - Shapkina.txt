@@ -1,0 +1,14 @@
+# 1832 - Tobysh
+
+# County Title
+title = c_shapkina
+
+# Settlements
+max_settlements = 2
+b_pylemets = tribal
+
+# Misc
+culture = samoyed
+religion = finnish_pagan
+
+# History

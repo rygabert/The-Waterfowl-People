@@ -1,0 +1,15 @@
+# 1832 - Tobysh
+
+# County Title
+title = c_kazym
+
+
+# Settlements
+max_settlements = 1
+b_kunovat = tribal
+
+# Misc
+culture = khanty
+religion = finnish_pagan
+
+# History

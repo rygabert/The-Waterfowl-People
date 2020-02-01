@@ -1,0 +1,85 @@
+austvegr_trade_route = {
+	wealth = 20			# Total base wealth of trade route
+	trade_post_display_trigger = {
+		OR = {
+			province_id = 674	#derbent post
+			province_id = 610 	#Bolghar
+			province_id = 574	#Yaroslavl/timerovo
+			province_id = 409	#Ladoga
+			province_id = 378	#Rävala
+			province_id = 1841	#Cherdyn
+			province_id = 290	#Birka/uppland
+			province_id = 264	#Hedeby
+			province_id = 395	#Bjarmia
+			province_id = 383 	#Häme
+			province_id = 419	#Polotsk
+			province_id = 547	#Kiev
+			province_id = 560	#Cherson
+		}
+	}
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.05
+		city_tax_modifier = 0.05
+		temple_tax_modifier = 0.05
+		tribal_tax_modifier = 0.40
+		trade_route_value = 20
+		local_movement_speed = 0.05
+		tech_growth_modifier = 0.10
+		icon = 127
+	}
+
+	start = {				# Start provinces of trade route
+		693 # Baghdad
+		395 #bjarmia
+		383 #Häme
+		
+	}
+
+	### Inland route - Bure
+	path = {	# Baghdad - Gilan 
+		693 688 657 658 715 664 666
+	}
+	path = {	# Gilan - Derbent
+		666 674
+	}
+	path = {	# Polotsk-kiev-dniepr
+		419 417 418 1659 554 547 1657 1658 558 560
+	}
+	path = {	# Derbent - Itil
+		674 604
+	}
+	path = {	# Itil - Saray - Bolghar
+		604 619 1812 1814 609 610 611
+	}
+	path = {	# Bolgar - rävala
+		611 589 584 585 586 583 572 571 408 404 1660 409 411 380 378
+	}
+	path = {	# rävala-  riga - Polotsk
+		378 376 1596 1594 416 419 
+	}
+	path = {	# rävala- suomi
+		378 382
+	}
+	path = {	# häme-  suomi
+		383 384 382
+	}
+	path = {	# Novgorod- Ladoga
+		419 415 1662 414 409
+	}
+	path = {	# suomi-  birka
+		382 291 290
+	}
+	path = {	# Bolghar - Cherdyn
+		611 1716 1717 1845 886 1841
+	}
+	path = {	#  Cherdyn - Pelym
+		1841 889 892
+	}
+	path = {	# birka Hedeby
+		290 301 300 305 266 264
+	}
+	path = {	# -Beloozero Bjarmia
+		395 399 1818 402 401 406 408
+	}
+}

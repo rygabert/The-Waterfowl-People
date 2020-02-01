@@ -1,0 +1,14 @@
+# 1832 - Tobysh
+
+# County Title
+title = c_varkut
+
+# Settlements
+max_settlements = 2
+b_khalmer-yu = tribal
+
+# Misc
+culture = samoyed
+religion = finnish_pagan
+
+# History

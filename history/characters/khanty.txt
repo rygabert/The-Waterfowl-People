@@ -409,7 +409,7 @@
 260374 = {
 	name = "Aymort"
 	religion = finnish_pagan
-	culture = khanty
+	culture = selkup
 	dynasty = 1062194
 	741.1.1 = {
 		birth = yes
@@ -422,7 +422,7 @@
 260375 = {
 	name = "Nylog"
 	religion = finnish_pagan
-	culture = khanty
+	culture = selkup
 	dynasty = 1062195
 	805.1.1 = {
 		birth = yes
@@ -435,7 +435,7 @@
 260376 = {
 	name = "Ovtay"
 	religion = finnish_pagan
-	culture = khanty
+	culture = selkup
 	dynasty = 1062196
 	1051.1.1 = {
 		birth = yes
@@ -448,7 +448,7 @@
 260377 = {
 	name = "Ohmeg"
 	religion = finnish_pagan
-	culture = khanty
+	culture = selkup
 	dynasty = 1062196
 	father = 260376
 	1100.1.1 = {
@@ -462,7 +462,7 @@
 260378 = {
 	name = "Parush"
 	religion = finnish_pagan
-	culture = khanty
+	culture = selkup
 	dynasty = 1062196
 	father = 260377
 	1150.1.1 = {
@@ -476,7 +476,7 @@
 260379 = {
 	name = "Irter"
 	religion = finnish_pagan
-	culture = khanty
+	culture = selkup
 	dynasty = 1062196
 	father = 260378
 	1198.1.1 = {
@@ -490,7 +490,7 @@
 260380 = {
 	name = "Hulyen"
 	religion = finnish_pagan
-	culture = khanty
+	culture = selkup
 	dynasty = 1062196
 	father = 260379
 	1240.1.1 = {
@@ -504,7 +504,7 @@
 260381 = {
 	name = "Biyar"
 	religion = finnish_pagan
-	culture = khanty
+	culture = selkup
 	dynasty = 1062196
 	father = 260380
 	1280.1.1 = {
@@ -541,12 +541,272 @@
 261077 = {
 	name = "Velmyaka"
 	religion = finnish_pagan
-	culture = khanty
+	culture = selkup
 	dynasty = 1062515
 	919.1.1 = {
 		birth = yes
 	}
 	959.1.1 = {
 		death = yes
+	}
+}
+#########################################################################
+8880250 = {
+	name="Syudbya"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	culture="khanty"
+	745.1.1={
+		birth=yes
+	}
+	835.1.1={
+		death=yes
+	}
+}
+8880251 = {
+	name="Yadne"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	father=8880250 
+	culture="khanty"
+	800.7.5={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+8880252 = {
+	name="Tatva"
+	dynasty=9990115 
+	father=8880251 
+	religion="finnish_pagan"
+	culture="khanty"
+	850.7.5={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+8880253 = {
+	name="Samu"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	culture="khanty"
+	father=8880252 
+	925.7.5={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+8880254 = {
+	name="Varaka"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	father=8880253 
+	culture="khanty"
+	980.7.5={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+8880255 = {
+	name="Noumea"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	father=8880254 
+	culture="khanty"
+	1050.5.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+8880256 = {
+	name="Somatu"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	culture="khanty"
+	father=8880255 
+	1100.5.1={
+		birth=yes
+	}
+	1190.1.1={
+		death=yes
+	}
+}
+8880257 = {
+	name="Vesei"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	culture="khanty"
+	father=8880256 
+	1188.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+8880258 = {
+	name="Kekei"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	culture="khanty"
+	father=8880257 
+	1230.5.1={
+		birth=yes
+	}
+	1300.1.2={
+		death=yes
+	}
+}
+8880259 = {
+	name="Kolik"
+	dynasty=9990115 
+	religion="finnish_pagan"
+	culture="khanty"
+	father=8880258 
+	1270.5.1={
+		birth=yes
+	}
+	1337.1.2={
+		death=yes
+	}
+}
+#####################
+8880270 = {
+	name="Yuvan"
+	dynasty=9990117
+	religion="finnish_pagan"
+	culture="khanty"
+	745.1.1={
+		birth=yes
+	}
+	835.1.1={
+		death=yes
+	}
+}
+8880271 = {
+	name="Maurizio"
+	dynasty=9990117
+	religion="finnish_pagan"
+	father=8880270 
+	culture="khanty"
+	800.7.5={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+8880272 = {
+	name="Zlata"
+	dynasty=9990117
+	father=8880271 
+	religion="finnish_pagan"
+	culture="khanty"
+	850.7.5={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+8880273 = {
+	name="Sheshkin"
+	dynasty=9990117
+	religion="finnish_pagan"
+	culture="khanty"
+	father=8880272 
+	925.7.5={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+8880274 = {
+	name="Kyntsha"
+	dynasty=9990117
+	religion="finnish_pagan"
+	father=8880273 
+	culture="khanty"
+	980.7.5={
+		birth=yes
+	}
+	1060.1.1={
+		death=yes
+	}
+}
+8880275 = {
+	name="Kashlyk"
+	dynasty=9990117
+	religion="finnish_pagan"
+	father=8880274 
+	culture="khanty"
+	1050.5.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+8880276 = {
+	name="Kunkan"
+	dynasty=9990117
+	religion="finnish_pagan"
+	culture="khanty"
+	father=8880275 
+	1100.5.1={
+		birth=yes
+	}
+	1190.1.1={
+		death=yes
+	}
+}
+8880277 = {
+	name="Tagil"
+	dynasty=9990117
+	religion="finnish_pagan"
+	culture="khanty"
+	father=8880276 
+	1188.1.1={
+		birth=yes
+	}
+	1250.1.1={
+		death=yes
+	}
+}
+8880278 = {
+	name="Murza"
+	dynasty=9990117
+	religion="finnish_pagan"
+	culture="khanty"
+	father=8880277 
+	1230.5.1={
+		birth=yes
+	}
+	1300.1.2={
+		death=yes
+	}
+}
+8880279 = {
+	name="Nahratsh"
+	dynasty=9990117 
+	religion="finnish_pagan"
+	culture="khanty"
+	father=8880278 
+	1270.5.1={
+		birth=yes
+	}
+	1337.1.2={
+		death=yes
 	}
 }

@@ -6,7 +6,7 @@
 	intrigue=7
 	stewardship=8
 	religion="finnish_pagan"
-	culture=bjarmian
+	culture=vepsian
 	trait="lustful"
 	trait="wroth"
 	trait="martial_cleric"
@@ -144,7 +144,7 @@
 160080 = {
 	name="Nerkag" #
 	religion="finnish_pagan"
-	culture=bjarmian
+	culture=vepsian
 	dynasty=1029141
 	father=20619
 	1060.1.1={
@@ -157,7 +157,7 @@
 160081 = {
 	name="Kharuchi" #
 	religion="finnish_pagan"
-	culture=bjarmian
+	culture=vepsian
 	dynasty=1029141
 	father=20619
 	1061.1.1={
@@ -170,7 +170,7 @@
 160082 = {
 	name="Alik" #
 	religion="finnish_pagan"
-	culture=bjarmian
+	culture=vepsian
 	dynasty=1029141
 	father=20619
 	1062.1.1={

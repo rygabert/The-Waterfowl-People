@@ -38,6 +38,7 @@ technology = {
 		d_ob
 		d_tarbagatai
 		d_irtysh
+		d_nenetsia
 	}
 
 	769 = {

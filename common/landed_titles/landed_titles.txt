@@ -1439,6 +1439,37 @@ e_finnic = {
 				b_staroye = {
 				}
 			}
+			c_hlynov = {
+				color={ 116 131 71 }
+				color2={ 255 255 255 }
+				
+				b_hlynov = {
+				}
+				b_egra = {
+				}
+				b_glazkar = {
+				}
+				b_izkar = {
+				}
+				b_kambarka = {
+				}
+				b_mozjga = {
+				}
+				b_wotka = {
+				}
+			}
+			c_velsk = {
+				color={ 130 120 60 }
+				color2={ 255 255 255 }
+
+				b_velsk = {}
+				b_vaga_velsk = {}
+				b_vel_velsk = {}
+				b_kuloy_velsk = {}
+				b_shunema = {}
+				b_pezhma = {}
+				b_shilovskaya = {}
+			}
 			c_chud = {
 				color={ 138 154 94 }
 				color2={ 255 255 255 }
@@ -1696,18 +1727,6 @@ e_finnic = {
 			
 			capital = 1826 # Ugra
 			
-			c_velsk = {
-				color={ 130 120 60 }
-				color2={ 255 255 255 }
-
-				b_velsk = {}
-				b_vaga_velsk = {}
-				b_vel_velsk = {}
-				b_kuloy_velsk = {}
-				b_shunema = {}
-				b_pezhma = {}
-				b_shilovskaya = {}
-			}
 			c_syrj = {
 				color={ 122 137 77 }
 				color2={ 255 255 255 }
@@ -22521,18 +22540,6 @@ e_tartaria = {
 				b_karlushka = {}
 				b_manzherok = {}
 			}
-			c_ket = {
-				color={ 125 115 35 }
-				color2={ 255 255 255 }
-				
-				b_ket = {}
-				b_asino = {}
-				b_ketkas = {}
-				b_sochur = {}
-				b_chachamga = {}
-				b_ketino = {} #Fictional, for prosperity
-				b_alchach = {} #Fictional, for prosperity
-			}
 			c_zaysan = {
 				color={ 120 110 30 }
 				color2={ 255 255 255 }
@@ -22556,6 +22563,18 @@ e_tartaria = {
 				b_zhanatan = {}
 				b_koyanbay = {}
 				b_shoktal = {}
+			}
+			c_ket = { #ei ole ket
+				color={ 125 115 35 }
+				color2={ 255 255 255 }
+				
+				b_ket = {}
+				b_asino = {}
+				b_ketkas = {}
+				b_sochur = {}
+				b_chachamga = {}
+				b_ketino = {} #Fictional, for prosperity
+				b_alchach = {} #Fictional, for prosperity
 			}
 		}
 
@@ -22889,6 +22908,8 @@ e_tartaria = {
 			c_mansia = {
 				color={ 223 170 27 }
 				color2={ 255 255 255 }
+				
+				khanty = "Pelym"
 			
 				b_mansiysk = {
 				}
@@ -22910,6 +22931,8 @@ e_tartaria = {
 			c_khantia = {
 				color={ 249 223 152 }
 				color2={ 255 255 255 }
+				
+				khanty="Konda"
 			
 				b_chanty = {
 				}
@@ -22928,9 +22951,71 @@ e_tartaria = {
 				b_sherkala = {
 				}
 			}
+			c_sosva = {
+				color={ 214 215 145 }
+				color2={ 255 255 255 }
+			
+				b_narykary = {
+				}
+			}
+			c_koda = {
+				color={ 254 210 147 }
+				color2={ 255 255 255 }
+			
+				b_sukhorukova = {
+				}
+			}
+			c_lyapin = {
+				color={ 254 220 155 }
+				color2={ 255 255 255 }
+			
+				b_sumgut-vosh = {
+				}
+			}
+		}
+		d_khanty = {
+			color={ 240 240 150 }
+			color2={ 255 255 255 }
+
+			capital = 2035# Om
+
+			c_surgut= {
+				color={ 212 179 110 }
+				color2={ 255 255 255 }
+
+				b_surgut = {}
+				b_ultyagun = {}
+				b_tromagan = {}
+			}
+			c_altym= {
+				color={ 218 160 130 }
+				color2={ 255 255 255 }
+
+				b_altym = {}
+				b_kyshik = {}
+				b_kamen = {}
+
+			}
+			c_kazym= {
+				color={ 238 170 144 }
+				color2={ 255 255 255 }
+
+				b_kunovat = {}
+				b_sorum = {}
+				b_polnovat = {}
+			}
+			c_obdorsk= {
+				khanty="Polnovat-Vozh"
+				color={ 258 180 154 }
+				color2={ 255 255 255 }
+
+				b_polnovat-vozh = {}
+			}
 			c_yamalia = {
 				color={ 240 214 143 }
 				color2={ 255 255 255 }
+				
+				khanty= "Yugan"
 			
 				b_polnovatvozh = {
 				}
@@ -22992,6 +23077,24 @@ e_tartaria = {
 				b_aruz = {} #Fictional, for prosperity
 				b_uros = {} #Fictional, for prosperity
 			}
+			c_erchis = {
+				color = { 130 128 230 }
+				
+				b_erchis = {
+				}
+				b_korya = {
+				}#Pavlodar
+				b_semey = {
+				}
+				b_aqsw = {
+				}
+				b_ekibastuz = {
+				}
+				b_ertis = {
+				}
+				b_koktobe = {
+				}
+			}
 		}
 		d_vasyugan = {
 			color={ 220 220 120 }
@@ -23015,6 +23118,8 @@ e_tartaria = {
 			c_bolshoy = {
 				color={ 210 160 160 }
 				color2={ 255 255 255 }
+				
+				khanty = "Urgut"
 
 				b_bolshoy = {}
 				b_lempino = {}
@@ -23071,6 +23176,54 @@ e_idel_ural = {
 				OR = {
 					ai = no
 					culture = samoyed
+				}
+			}
+		}
+		d_nenetsia = {
+			color={ 110 125 65 }
+			color2={ 255 255 255 }
+
+			capital = 2022
+
+			c_shapkina = {
+				color={ 120 115 60 }
+				color2={ 255 255 255 }
+				
+				
+				b_pylemets = {
+				}
+			}
+			c_laya = {
+				color={ 115 135 55 }
+				color2={ 255 255 255 }
+				
+				
+				
+				b_khorey-ver= {
+				}
+			}
+			c_sozva = {
+				color={ 135 145 66 }
+				color2={ 255 255 255 }
+				
+				
+				b_diyur = {
+				}
+			}
+			c_kolvavis = {
+				color={ 110 145 66 }
+				color2={ 255 255 255 }
+				
+				
+				b_karatayka = {
+				}
+			}
+			c_varkut = {
+				color={ 110 145 66 }
+				color2={ 255 255 255 }
+				
+				
+				b_khalmer-yu= {
 				}
 			}
 		}
@@ -23660,25 +23813,6 @@ e_idel_ural = {
 			
 			culture = mari
 
-			c_hlynov = {
-				color={ 116 131 71 }
-				color2={ 255 255 255 }
-				
-				b_hlynov = {
-				}
-				b_egra = {
-				}
-				b_glazkar = {
-				}
-				b_izkar = {
-				}
-				b_kambarka = {
-				}
-				b_mozjga = {
-				}
-				b_wotka = {
-				}
-			}
 			c_kostroma = {
 				color={ 181 195 137 }
 				color2={ 255 255 255 }
@@ -23831,6 +23965,10 @@ e_idel_ural = {
 			c_perm = {
 				color={ 237 211 140 }
 				color2={ 255 255 255 }
+
+				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
+
 				
 				komi="Kosva"
 				udmurt="Kosva"
@@ -23940,9 +24078,6 @@ e_idel_ural = {
 				color={ 246 240 100 }
 				color2={ 255 255 255 }
 				
-				holy_site = finnish_pagan
-				holy_site = finnish_pagan_reformed
-
 				b_vishera = {}
 				b_akchim = {}
 				b_yazva = {}
@@ -23991,6 +24126,22 @@ e_idel_ural = {
 				b_kadamskoye = {}
 				b_okos = {}
 			}
+			c_severnaya = {
+				color={ 246 166 136 }
+				color2={ 255 255 255 }
+
+				komi="Dzhedzhim"
+				udmurt="Dzhedzhim"
+
+				b_severnaya = {}
+				b_pokcha = {}
+				b_ilych = {}
+				b_sherlyaga = {}
+				b_abar = {}
+				b_ust_ilych = {}
+				b_sevkcha = {} # Fictitious 
+			}
+
 		}
 		d_ustug = {
 			color={ 140 130 40 }
@@ -24057,7 +24208,7 @@ e_idel_ural = {
 				b_zakharvan = {}
 			}
 			c_kozhva = {
-				color={ 234 154 124 }
+				color={ 234 194 154 }
 				color2={ 255 255 255 }
 
 				b_kozhva = {}
@@ -24092,20 +24243,32 @@ e_idel_ural = {
 				b_vuktyl_vel = {}
 				b_kyrta = {}
 			}
-			c_severnaya = {
-				color={ 246 166 136 }
+			c_inta = {
+				color={ 249 189 138 }
 				color2={ 255 255 255 }
 
-				komi="Dzhedzhim"
-				udmurt="Dzhedzhim"
+				b_kozym = {}
+				b_kosyu = {}
+				b_synya = {}
+			}
+			c_petschora = {
+				color={ 200 166 136 }
+				color2={ 255 255 255 }
 
-				b_severnaya = {}
-				b_pokcha = {}
-				b_ilych = {}
+				b_petschora = {}
+				b_kurta = {}
+				b_dutovo = {}
+				b_priural = {}
+				b_lemtybozh = {}
+
+			}
+			c_ilysh = {
+				color={ 233 130 134 }
+				color2={ 255 255 255 }
+
+				b_vuktyl = {}
 				b_sherlyaga = {}
-				b_abar = {}
-				b_ust_ilych = {}
-				b_sevkcha = {} # Fictitious 
+				b_pokcha = {}
 			}
 		}
 		d_zyriane = {

@@ -1,0 +1,18 @@
+# County Title
+title = c_erchis
+
+# Settlements
+max_settlements = 3
+
+b_erchis = tribal
+
+#b_korya = city
+#b_semey =
+#b_aqsw =
+#b_ekibastuz =
+#b_ertis =
+#b_koktobe =
+
+# Misc
+culture = selkup
+religion = finnish_pagan

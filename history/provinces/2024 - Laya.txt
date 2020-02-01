@@ -1,0 +1,14 @@
+# 1832 - Tobysh
+
+# County Title
+title = c_laya
+
+# Settlements
+max_settlements = 1
+b_khorey-ver = tribal
+
+# Misc
+culture = samoyed
+religion = finnish_pagan
+
+# History

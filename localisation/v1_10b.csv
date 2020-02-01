@@ -4,8 +4,8 @@ d_nubia_adj;Makurian;makourienne;Makurisch;;Makurrana;;;;;;;;;x
 LIEGEPIETY_HEADER;[Player.Religion.GetPietyName] to Liege;[Player.Religion.GetPietyName] pour le seigneur lige;[Player.Religion.GetPietyName] für Lehnsherr;;[Player.Religion.GetPietyName] para el Señor;;;;;;;;;x
 major_river_crossing;Major River crossing;Franchissement d'un fleuve majeur;bedeutende Furt;;Cruzar un río importante;;;;;;;;;x
 realm_job_spiritual;Realm $TITLE$s;$TITLE$s vassaux;Reichs-$TITLE$;;$TITLE$s del Reino;;;;;;;;;x
-job_spiritual_finnish_pagan;Teadja;Devin;Wahrsager;;Augur;;;;;;;;;x
-job_spiritual_finnish_pagan_reformed;Teadja;Devin;Wahrsager;;Augur;;;;;;;;;x
+job_spiritual_finnish_pagan;Diviner;Devin;Wahrsager;;Augur;;;;;;;;;x
+job_spiritual_finnish_pagan_reformed;Diviner;Devin;Wahrsager;;Augur;;;;;;;;;x
 job_spiritual_baltic_pagan;Diviner;Devin;Wahrsager;;Augur;;;;;;;;;x
 job_spiritual_baltic_pagan_reformed;Diviner;Devin;Wahrsager;;Augur;;;;;;;;;x
 job_spiritual_slavic_pagan;Diviner;Devin;Wahrsager;;Augur;;;;;;;;;x
