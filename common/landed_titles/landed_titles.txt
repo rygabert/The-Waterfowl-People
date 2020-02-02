@@ -20240,207 +20240,6 @@ e_pontic_steppe = {
 			}
 		}
 	}
-
-	k_volga_bulgaria = {
-		color={ 94 83 70 }
-		color2={ 255 255 255 }
-			
-		capital = 610 # Bulgar
-		
-		culture = bolghar
-		
-		tengri_pagan_reformed = 500 # Crusade target weight
-		finnish_pagan_reformed = 200
-		slavic_pagan_reformed = 100
-		
-		allow = {
-			hidden_tooltip = {
-				OR = {
-					ai = no
-					culture_group = altaic
-				}
-			}
-		}
-
-		d_bashkirs = {
-			color={ 220 220 150 }
-			color2={ 255 255 255 }
-
-			capital = 615 # Bashkirs
-
-			c_bashkirs = {
-				color={ 209 174 79 }
-				color2={ 255 255 255 }
-			
-				b_ufa = {
-				}
-				b_belebey = {
-				}
-				b_chishmy = {
-				}
-				b_bajmaq = {
-				}
-				b_isembaj = {
-				}
-				b_beloret = {
-				}
-				b_meleus = {
-				}
-				b_sterlitamak = {
-				}
-			}
-			c_belaya = {
-				color={ 200 160 60 }
-				color2={ 255 255 255 }
-
-				b_belaya = {}
-				b_shipovo = {}
-				b_asy = {}
-				b_urunda = {}
-				b_slutka = {}
-				b_akberdino = {}
-				b_balazhi = {}
-			}
-		}
-		d_bulgar = {
-			color={ 110 90 67 }
-			color2={ 255 255 255 }
-			
-			capital = 610 # Bulgar
-		
-			c_bilyar = {
-				color={ 201 166 71 }
-				color2={ 255 255 255 }
-			
-				b_bilyar = {
-				}
-				b_tukhchin = {
-				}
-				b_cukataw = {
-				}
-				b_urussu = {
-				}
-				b_bogulma = {
-				}
-				b_bryakhimov = {
-				}
-				b_nurlat = {
-				}
-				b_dzhalil = {
-				}
-			}
-			c_bulgar = {
-				color={ 193 158 63 }
-				color2={ 255 255 255 }
-			
-				b_bulgar = {
-				}
-				b_suar = {
-				}
-				b_balimer = {
-				}
-				b_arbuga = {
-				}
-				b_tawille = {
-				}
-				b_tetyushi = {
-				}
-				b_koshki = {
-				}
-				b_iq = {
-				}
-			}
-			c_naberezhnye = {		#Changed Volga Bulgaria's province of Naberezhnye
-                color={ 173 128 43 }
-                color2={ 255 255 255 }
-                
-                b_naberezhnye = {
-                }
-				b_bugulma = {
-                }
-				b_aznakayevo = {
-                }
-				b_chatyr-tau = {
-                }
-				b_tuymazy = {
-                }
-				b_nizhnekamsk = {
-				}
-				b_almetyevsk = {
-                }
-            }
-		}
-		d_kazan = {
-			color = { 89 62 30 }
-			color2 = { 255 255 255 }
-			
-			capital = 611 # Kazan
-			
-			c_qazan = {
-				color={ 190 164 69 }
-				color2={ 255 255 255 }
-			
-				b_qazan = {
-				}
-				b_osa = {
-				}
-				b_chastye = {
-				}
-				b_usttuntor = {
-				}
-				b_krmayak = {
-				}
-				b_pal = {
-				}
-				b_uymuzh = {
-				}
-				b_belyaevka = {
-				}
-				b_pakli = {
-				}
-			}
-			c_syrt = {
-				color={ 205 170 75 }
-				color2={ 255 255 255 }
-			
-				b_samara = {
-				}
-				b_kinel = {
-				}
-				b_syzran = {
-				}
-				b_tashia = {
-				}
-				b_sarbay = {
-				}
-				b_osinki = {
-				}
-				b_shungut = {
-				}
-			}
-			c_ashli = {
-				color={ 207 172 77 }
-				color2={ 255 255 255 }
-				
-				b_ashli = {
-				}
-				b_boro = {
-				}
-				b_durtojle = {
-				}
-				b_daulakan = {
-				}
-				b_blagovescen = {
-				}
-				b_tuimasy = {
-				}
-				b_janauyl = {
-				}
-				b_yamantaw = {
-				}
-			}
-		}
-	}
 	k_magyar = {
 		color={ 187 70 70 }
 		culture = hungarian
@@ -23165,6 +22964,206 @@ e_idel_ural = {
 
 	capital = 1715 # Käkshar
 
+	k_volga_bulgaria = {
+		color={ 94 83 70 }
+		color2={ 255 255 255 }
+			
+		capital = 610 # Bulgar
+		
+		culture = bolghar
+		
+		tengri_pagan_reformed = 500 # Crusade target weight
+		finnish_pagan_reformed = 200
+		slavic_pagan_reformed = 100
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					culture_group = altaic
+				}
+			}
+		}
+
+		d_bashkirs = {
+			color={ 220 220 150 }
+			color2={ 255 255 255 }
+
+			capital = 615 # Bashkirs
+
+			c_bashkirs = {
+				color={ 209 174 79 }
+				color2={ 255 255 255 }
+			
+				b_ufa = {
+				}
+				b_belebey = {
+				}
+				b_chishmy = {
+				}
+				b_bajmaq = {
+				}
+				b_isembaj = {
+				}
+				b_beloret = {
+				}
+				b_meleus = {
+				}
+				b_sterlitamak = {
+				}
+			}
+			c_belaya = {
+				color={ 200 160 60 }
+				color2={ 255 255 255 }
+
+				b_belaya = {}
+				b_shipovo = {}
+				b_asy = {}
+				b_urunda = {}
+				b_slutka = {}
+				b_akberdino = {}
+				b_balazhi = {}
+			}
+		}
+		d_bulgar = {
+			color={ 110 90 67 }
+			color2={ 255 255 255 }
+			
+			capital = 610 # Bulgar
+		
+			c_bilyar = {
+				color={ 201 166 71 }
+				color2={ 255 255 255 }
+			
+				b_bilyar = {
+				}
+				b_tukhchin = {
+				}
+				b_cukataw = {
+				}
+				b_urussu = {
+				}
+				b_bogulma = {
+				}
+				b_bryakhimov = {
+				}
+				b_nurlat = {
+				}
+				b_dzhalil = {
+				}
+			}
+			c_bulgar = {
+				color={ 193 158 63 }
+				color2={ 255 255 255 }
+			
+				b_bulgar = {
+				}
+				b_suar = {
+				}
+				b_balimer = {
+				}
+				b_arbuga = {
+				}
+				b_tawille = {
+				}
+				b_tetyushi = {
+				}
+				b_koshki = {
+				}
+				b_iq = {
+				}
+			}
+			c_naberezhnye = {		#Changed Volga Bulgaria's province of Naberezhnye
+                color={ 173 128 43 }
+                color2={ 255 255 255 }
+                
+                b_naberezhnye = {
+                }
+				b_bugulma = {
+                }
+				b_aznakayevo = {
+                }
+				b_chatyr-tau = {
+                }
+				b_tuymazy = {
+                }
+				b_nizhnekamsk = {
+				}
+				b_almetyevsk = {
+                }
+            }
+		}
+		d_kazan = {
+			color = { 89 62 30 }
+			color2 = { 255 255 255 }
+			
+			capital = 611 # Kazan
+			
+			c_qazan = {
+				color={ 190 164 69 }
+				color2={ 255 255 255 }
+			
+				b_qazan = {
+				}
+				b_osa = {
+				}
+				b_chastye = {
+				}
+				b_usttuntor = {
+				}
+				b_krmayak = {
+				}
+				b_pal = {
+				}
+				b_uymuzh = {
+				}
+				b_belyaevka = {
+				}
+				b_pakli = {
+				}
+			}
+			c_syrt = {
+				color={ 205 170 75 }
+				color2={ 255 255 255 }
+			
+				b_samara = {
+				}
+				b_kinel = {
+				}
+				b_syzran = {
+				}
+				b_tashia = {
+				}
+				b_sarbay = {
+				}
+				b_osinki = {
+				}
+				b_shungut = {
+				}
+			}
+			c_ashli = {
+				color={ 207 172 77 }
+				color2={ 255 255 255 }
+				
+				b_ashli = {
+				}
+				b_boro = {
+				}
+				b_durtojle = {
+				}
+				b_daulakan = {
+				}
+				b_blagovescen = {
+				}
+				b_tuimasy = {
+				}
+				b_janauyl = {
+				}
+				b_yamantaw = {
+				}
+			}
+		}
+	}
 	k_nenets = {
 		color={ 150 130 85 }
 		color2={ 255 255 255 }

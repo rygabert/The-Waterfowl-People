@@ -55,6 +55,14 @@
 	name="Kugyza"
 	culture = "mari"
 	religion = "finnish_pagan"
+	coat_of_arms=
+	{
+		data=
+		{
+0 0 0 2 1 3 1
+	}
+		religion="finnish_pagan"
+	}
 }
 
 9990007 = {
@@ -93,7 +101,7 @@
 	{
 		data=
 		{
-0 1 0 15 1 10 5 			}
+0 4 0 3 5 9 8 			}
 		religion="finnish_pagan"
 	}
 }
@@ -21675,7 +21683,7 @@
 	{
 		data=
 		{
-0 0 0 11 13 10 7 			}
+0 0 0 5 5 5 5 			}
 		religion="finnish_pagan"
 	}
 }
@@ -22367,7 +22375,7 @@
 	{
 		data=
 		{
-0 0 0 4 0 6 6 			}
+0 0 0 4 0 5 5 			}
 		religion="finnish_pagan"
 	}
 }
@@ -22419,7 +22427,7 @@
 	{
 		data=
 		{
-0 0 0 5 0 10 10 			}
+0 0 0 5 1 3 3 			}
 		religion="finnish_pagan"
 	}
 }
@@ -31266,34 +31274,17 @@
 	name="Muromid"
 	culture="mordvin"
 	religion="finnish_pagan"
-	coat_of_arms=
-	{
-		data=
-		{
-0 1 0 15 0 2 5 			}
-		religion="finnish_pagan"
-	}
-}
-1029105=
-{
-	name="Mordvanid"
-	culture="mordvin"
-	religion="finnish_pagan"
-	coat_of_arms=
-	{
-		religion="finnish_pagan"
-	}
 }
 1029106=
 {
 	name="Meshcheravid"
 	culture="meshchera"
 	religion="finnish_pagan"
-	coat_of_arms=
-	{
+	coat_of_arms = {
 		data=
 		{
-0 1 0 15 1 5 2 			}
+		0 0 0 2 2 5 2
+		}
 		religion="finnish_pagan"
 	}
 }
@@ -31306,7 +31297,7 @@
 	{
 		data=
 		{
-0 0 0 6 9 5 5 			}
+0 1 0 6 4 1 3 	}
 		religion="finnish_pagan"
 	}
 }
@@ -31319,7 +31310,7 @@
 	{
 		data=
 		{
-0 0 0 6 0 10 10 			}
+0 0 0 6 0 4 5 			}
 		religion="finnish_pagan"
 	}
 }
@@ -36267,7 +36258,7 @@
 	{
 		data=
 		{
-0 0 0 16 1 11 11 			}
+0 0 0 15 1 3 1 			}
 		religion="finnish_pagan"
 	}
 }
@@ -43828,14 +43819,14 @@
 }
 1051137=
 {
-	name="Kazym"
-	culture="khanty"
+	name="Yermolai"
+	culture="komi"
 	religion="finnish_pagan"
-	coat_of_arms=
-	{
+		coat_of_arms = {
 		data=
 		{
-0 1 0 20 13 6 6 			}
+		0 5 0 5 3 5 8
+		}
 		religion="finnish_pagan"
 	}
 }

@@ -838,7 +838,6 @@ culture =
 		{ 150 0 30 } 	#3  	De sang 
 		{ 70 120 40 }	#4  	Vert
 		{ 20 20 20 }	#5  	Sable
-		{ 120 5 120 }	#6  	Pourpre
 	}
 	
 	rebel_colors = { 1 2 5 }

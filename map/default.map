@@ -32,6 +32,7 @@ sea_zones = { 1891 1894 }
 sea_zones = { 1995 2000 }
 sea_zones = { 2008 2011 }
 sea_zones = { 2036 2044 }
+sea_zones = { 2062 2064 }	#27	MNR Caspian Zone
 
 # Indian Seas
 sea_zones = { 1307 1317 }
