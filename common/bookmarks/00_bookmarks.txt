@@ -8,12 +8,56 @@ bm_charlemagne = {
 
 	selectable_character = {
 		id = 9194152 # Tyusthen
+		age = 26
+		name = ERA_FUG1
+		title = k_mordva
+		title_name = k_mordva
+		
+		character = {
+			dna = oxrluaahlep
+			properties = aj0aca000000
+			religion="finnish_pagan"
+			culture="mordvin"
+			government = tribal_government
+			dynasty=1029105
+		}
 	}
 	
 	selectable_character = {
-		id = 170347 # Tyusthen
+		id = 170347 # Kalevipoegadest
+		age = 28
+		name = ERA_FUG2
+		title = d_esthonia
+		title_name = d_esthonia
+		
+		character = {
+			dna = kchwlybpkgi
+			properties = aj0aca000000
+			religion="finnish_pagan"
+			culture="ugricbaltic"
+			government = tribal_government
+			dynasty=1040225
+		}
 	}
 	
+	selectable_character = {
+		id = 170306 # Kalevipoegadest
+		age = 31
+		name = ERA_FUG3
+		title = d_finland
+		title_name = d_finland
+		
+		character = {
+			dna = wtbgzmpcbmm
+			properties = aj0aca000000
+			religion="finnish_pagan"
+			culture="finnish"
+			government = tribal_government
+			dynasty=1040225
+		}
+	}
+	
+
 	selectable_character = {
 		id = 6392 # Charlemagne
 		age = 26
@@ -45,23 +89,6 @@ bm_charlemagne = {
 			culture="old_frankish"
 			government = feudal_government
 			dynasty=25061
-		}
-	}
-
-	selectable_character = {
-		id = 190347 # Desiderius
-		age = 52
-		name = ERA_CHAR_NAME_190347
-		title = k_lombardy
-		title_name = LOMBARD_KINGDOM
-		
-		character = {
-			dna = aldccxlhgaf
-			properties = ai0afa000000
-			religion="catholic"
-			culture="lombard"
-			government = feudal_government
-			dynasty=1044053
 		}
 	}
 

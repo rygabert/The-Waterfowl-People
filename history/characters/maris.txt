@@ -353,7 +353,7 @@
 	religion="finnish_pagan"
 	culture="mari"
 	father=8880074
-	1051.7.5={
+	1061.9.5={
 		birth=yes
 	}
 	1135.1.1={

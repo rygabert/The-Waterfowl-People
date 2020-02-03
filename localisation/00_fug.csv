@@ -163,6 +163,17 @@ c_grassland_cheremisa_adj;Kakðanian ;kerjenetsienne;Kerschenezisch;;Kerzhenetsia
 c_mountain_cheremisa_adj;Purgazian;tchérémisse;Tscheremissisch;;Cheremisano;;;;;;;;;x
 PROV589;Kerzhenets;Kerjenets;Kerschenez;;Kerzhenets;;;;;;;;;x
 PROV591;Cheremisa;Tchérémisse;Tscheremiss;;Cheremisa;;;;;;;;;x
+ERA_FUG1; Tyushten of Murunza;;;;;;;;;x
+
+ERA_CHAR_INFO_9194152; Tyushten was a legendary Mokshan king. Folk tales tell that he united the lands of the Moksha, Erzya and Mescheran people. Some even say that during his rule, Mokshan land stretched from Volga to Dnieper and from the Oka to the Black Sea.;;;;;;;;;x
+
+ERA_FUG2; Kaupo of Iru;;;;;;;;;x
+
+ERA_CHAR_INFO_170347; Fictional high Chief of Iru and great-grandsons of Kalev. His ancestors established Rävala after the great calamity centuries ago;;;;;;;;;x
+
+ERA_FUG3; Ihala of Eura;;;;;;;;;x
+
+ERA_CHAR_INFO_170306; Fictional high Chief of Eura and great-grandson of Kalev who established Kaukamieli clan after great calamity struck the Baltic sea peoples;;;;;;;;;x
 LOADING_TIP_0; People back then didn't know much, but they undestood everything. Today we know alot but don't understand anything.;;;;;;;;;x
 LOADING_TIP_1; Paska on talonpojan kultaa - Shit is peasant's gold.;;;;;;;;;x
 LOADING_TIP_2; Mikä laulaen tulee, se viheltäen menee - What comes singing, leaves whistling.;;;;;;;;;x

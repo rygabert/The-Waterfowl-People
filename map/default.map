@@ -31,14 +31,14 @@ sea_zones = { 1846 1847 }
 sea_zones = { 1891 1894 }
 sea_zones = { 1995 2000 }
 sea_zones = { 2008 2011 }
-sea_zones = { 2036 2044 }
-sea_zones = { 2062 2064 }	#27	MNR Caspian Zone
+sea_zones = { 2036 2044 } #16
 
 # Indian Seas
 sea_zones = { 1307 1317 }
 sea_zones = { 1382 1407 }
 sea_zones = { 1409 1412 }
 sea_zones = { 1293 1293 }
+sea_zones = { 1800 1804 } #21 
 
 # Non-accessible sea zones
 sea_zones = { 944 944 }
@@ -49,12 +49,13 @@ sea_zones = { 1855 1855 }
 sea_zones = { 1990 1992 }
 
 
+
 ocean_region = {	# European Ocean
-	sea_zones = { 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 }
+	sea_zones = { 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 }
 }
 
 ocean_region = {	# Indian Ocean
-	sea_zones = { 16 17 18 19 }
+	sea_zones = { 16 17 18 19 20 }
 }
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
@@ -89,7 +90,6 @@ major_rivers =
 	1073 1074 1075 #Desna
 	1056 1057 1627 #Dniester
 	1058 1059 1060 1061 1063 1065 1066 1067 1068 1069 #Danube
-	1062 952 1064 972 1800 1801 1802 1803 1804 #Caspian Sea
 	958 #Ladoga
 	997 #Onega
 	944 #Aral Sea

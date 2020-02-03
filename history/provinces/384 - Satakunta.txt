@@ -28,3 +28,8 @@ terrain = forest
 1300.1.1 = {
 	b_liinmaa = castle
 }
+
+765.1.1 = {
+	b_liinmaa = tb_hillfort_2
+	b_liinmaa = tb_market_town_1
+}

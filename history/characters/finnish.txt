@@ -1102,7 +1102,7 @@
 	name="Sulevi"                                    #Kalevite liin
 	dynasty=1040225
 	religion="finnish_pagan"
-	culture="ugricbaltic"
+	culture="finnish"
 	father=1000001
 	597.12.10={
 		birth=yes
@@ -1123,6 +1123,130 @@
 		birth=yes
 	}
 	745.1.1={
+		death=yes
+	}
+}
+
+
+1000014 = {
+	name="Vanaisa"                                    #Fornjot/Ymir /
+	dynasty=1040225
+	religion="finnish_pagan"
+	culture="bjarmian"
+	father=1000001
+	470.12.10={
+		birth=yes
+	}
+	555.1.1={
+		death=yes
+	}
+}
+
+1000015 = {
+	name="Iku-Turso"                                    #Fornjot/Ymir 
+	dynasty=9990014
+	religion="finnish_pagan"
+	culture="finnish"
+	father=1000014
+	536.12.10={
+		birth=yes
+	}
+	601.1.1={
+		death=yes
+	}
+}
+
+1000016 = {
+	name="Kaari Puhuri"                                    #Fornjot/Ymir 
+	dynasty=9990014
+	religion="finnish_pagan"
+	culture="finnish"
+	father=1000015
+	585.12.10={
+		birth=yes
+	}
+	630.1.1={
+		death=yes
+	}
+}
+
+1000017 = {
+	name="Pakkanen Puhuri"                                    #Fornjot/Ymir 
+	dynasty=9990014
+	religion="finnish_pagan"
+	culture="finnish"
+	father=1000016
+	620.12.10={
+		birth=yes
+	}
+	699.1.1={
+		death=yes
+	}
+}
+
+1000018 = {
+	name="Niera Ukko"                                    #Fornjot/Ymir 
+	dynasty=9990014
+	religion="finnish_pagan"
+	culture="finnish"
+	father=1000017
+	695.11.10={
+		birth=yes
+	}
+	749.1.1={
+		death=yes
+	}
+}
+
+1000019 = {
+	name="Iku-Tiera"                                    #Fornjot/Ymir 
+	dynasty=9990014
+	religion="finnish_pagan"
+	culture="finnish"
+	father=1000018
+	736.11.10={
+		birth=yes
+	}
+	790.1.1={
+		death=yes
+	}
+}
+1000020 = {
+	name="Ahti"                                    #Fornjot/Ymir 
+	dynasty=9990014
+	religion="finnish_pagan"
+	culture="finnish"
+	father=1000019
+	767.11.10={
+		birth=yes
+	}
+	840.1.1={
+		death=yes
+	}
+}
+1000021 = {
+	name="Gisi"                                    #Fornjot/Ymir 
+	dynasty=9990014
+	religion="finnish_pagan"
+	culture="finnish"
+	father=1000020
+	826.11.10={
+		birth=yes
+	}
+	899.1.1={
+		death=yes
+	}
+}
+1000022 = {
+	name="Loge"                                    #Fornjot/Ymir 
+	dynasty=9990014
+	religion="finnish_pagan"
+	culture="finnish"
+	father=1000021
+	888.11.10={
+		birth=yes
+	}
+	970.1.1={
 		death=yes
 	}
 }
@@ -1228,6 +1352,7 @@
 	dynasty=100383
 	religion="finnish_pagan"
 	culture="finnish"
+	father=1000012
 	737.1.1={
 		birth=yes
 	}

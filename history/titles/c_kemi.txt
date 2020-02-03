@@ -6,7 +6,6 @@
 }
 857.12.12={			#Fictional
 	holder=256024
-	liege = "d_ostrobothnia"
 }
 936.1.1 = {
 	holder = 261098
