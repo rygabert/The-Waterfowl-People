@@ -15,6 +15,7 @@ austvegr_trade_route = {
 			province_id = 419	#Polotsk
 			province_id = 547	#Kiev
 			province_id = 560	#Cherson
+			province_id = 1596	#Riga
 		}
 	}
 
@@ -53,7 +54,7 @@ austvegr_trade_route = {
 		604 619 1812 1814 609 610 611
 	}
 	path = {	# Bolgar - rävala
-		611 589 584 585 586 583 572 571 408 404 1660 409 411 380 378
+		611 589 584 585 583 572 571 408 404 1660 409 411 380 378
 	}
 	path = {	# rävala-  riga - Polotsk
 		378 376 1596 1594 416 419 
@@ -62,7 +63,7 @@ austvegr_trade_route = {
 		378 382
 	}
 	path = {	# häme-  suomi
-		383 384 382
+		383 384 2046 382
 	}
 	path = {	# Novgorod- Ladoga
 		419 415 1662 414 409

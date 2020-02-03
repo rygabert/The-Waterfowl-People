@@ -1,12 +1,6 @@
 1060.1.1={			#Fictional
-	holder=256025
+	holder=1000024
 }
-1095.12.24={			#Fictional
-	holder=256026
-}
-1123.8.11={			#Fictional
-	holder=256027
-}
-1158.1.1={
-	holder=0
+1090.12.24={			#Fictional
+	holder=1000025
 }

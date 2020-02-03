@@ -11,16 +11,13 @@
 	holder=1000022
 }
 970.1.1={
-	holder=170129
+	holder=1000023
 }
-1013.1.1={
-	holder=170130
+1030.1.1={
+	holder=1000024
 }
-1066.1.1={
-	holder=28003
-}
-1120.1.1={
-	holder=144626
+1090.1.1={
+	holder=1000025
 }
 1158.1.1={
 	liege="k_sweden" # Erik the Holy's crusade

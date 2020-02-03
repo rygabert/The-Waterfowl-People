@@ -1,4 +1,4 @@
-max_provinces = 2046
+max_provinces = 2047
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -90,7 +90,6 @@ major_rivers =
 	1073 1074 1075 #Desna
 	1056 1057 1627 #Dniester
 	1058 1059 1060 1061 1063 1065 1066 1067 1068 1069 #Danube
-	958 #Ladoga
 	997 #Onega
 	944 #Aral Sea
 	1628 1629 1630 #Kama

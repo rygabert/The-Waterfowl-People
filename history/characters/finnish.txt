@@ -194,6 +194,7 @@
 	father=28011
 	1100.1.1={
 		birth="1100.1.1"
+		capital = c_satakunta
 	}
 	1158.1.1={
 		death="1158.1.1"
@@ -376,6 +377,7 @@
 	trait="scholarly_theologian"
 	1150.1.1={
 		birth="1150.1.1"
+		capital = c_satakunta
 	}
 	1200.1.1={
 		death="1200.1.1"
@@ -489,6 +491,7 @@
 	father=170135
 	1050.1.1={
 		birth="1050.1.1"
+		capital = c_satakunta
 	}
 	1120.1.1={
 		death="1120.1.1"
@@ -780,6 +783,7 @@
 	father=170308
 	844.1.1={
 		birth=yes
+		capital = c_satakunta
 	}
 	901.1.1={
 		death=yes
@@ -794,6 +798,7 @@
 	father=170131
 	881.1.1={
 		birth="881.1.1"
+		capital = c_satakunta
 	}
 	957.1.1={
 		death="957.1.1"
@@ -808,6 +813,7 @@
 	father=170132
 	926.1.1={
 		birth="926.1.1"
+		capital = c_satakunta
 	}
 	978.1.1={
 		death="978.1.1"
@@ -822,6 +828,7 @@
 	father=170133
 	950.1.1={
 		birth="950.1.1"
+		capital = c_satakunta
 	}
 	1020.1.1={
 		death="1020.1.1"
@@ -836,6 +843,7 @@
 	father=170134
 	1003.1.1={
 		birth="1003.1.1"
+		capital = c_satakunta
 	}
 	1066.1.1={
 		death="1066.1.1"
@@ -1098,158 +1106,7 @@
 		death=yes
 	}
 }
-1000012 = {
-	name="Sulevi"                                    #Kalevite liin
-	dynasty=1040225
-	religion="finnish_pagan"
-	culture="finnish"
-	father=1000001
-	597.12.10={
-		birth=yes
 
-	}
-	662.1.1={
-		death=yes
-	}
-}
-
-1000013 = {
-	name="Toivo"                                    #Kalevite liin
-	dynasty=1040225
-	religion="finnish_pagan"
-	culture="finnish"
-	father=1000012
-	645.12.10={
-		birth=yes
-	}
-	745.1.1={
-		death=yes
-	}
-}
-
-
-1000014 = {
-	name="Vanaisa"                                    #Fornjot/Ymir /
-	dynasty=1040225
-	religion="finnish_pagan"
-	culture="bjarmian"
-	father=1000001
-	470.12.10={
-		birth=yes
-	}
-	555.1.1={
-		death=yes
-	}
-}
-
-1000015 = {
-	name="Iku-Turso"                                    #Fornjot/Ymir 
-	dynasty=9990014
-	religion="finnish_pagan"
-	culture="finnish"
-	father=1000014
-	536.12.10={
-		birth=yes
-	}
-	601.1.1={
-		death=yes
-	}
-}
-
-1000016 = {
-	name="Kaari Puhuri"                                    #Fornjot/Ymir 
-	dynasty=9990014
-	religion="finnish_pagan"
-	culture="finnish"
-	father=1000015
-	585.12.10={
-		birth=yes
-	}
-	630.1.1={
-		death=yes
-	}
-}
-
-1000017 = {
-	name="Pakkanen Puhuri"                                    #Fornjot/Ymir 
-	dynasty=9990014
-	religion="finnish_pagan"
-	culture="finnish"
-	father=1000016
-	620.12.10={
-		birth=yes
-	}
-	699.1.1={
-		death=yes
-	}
-}
-
-1000018 = {
-	name="Niera Ukko"                                    #Fornjot/Ymir 
-	dynasty=9990014
-	religion="finnish_pagan"
-	culture="finnish"
-	father=1000017
-	695.11.10={
-		birth=yes
-	}
-	749.1.1={
-		death=yes
-	}
-}
-
-1000019 = {
-	name="Iku-Tiera"                                    #Fornjot/Ymir 
-	dynasty=9990014
-	religion="finnish_pagan"
-	culture="finnish"
-	father=1000018
-	736.11.10={
-		birth=yes
-	}
-	790.1.1={
-		death=yes
-	}
-}
-1000020 = {
-	name="Ahti"                                    #Fornjot/Ymir 
-	dynasty=9990014
-	religion="finnish_pagan"
-	culture="finnish"
-	father=1000019
-	767.11.10={
-		birth=yes
-	}
-	840.1.1={
-		death=yes
-	}
-}
-1000021 = {
-	name="Gisi"                                    #Fornjot/Ymir 
-	dynasty=9990014
-	religion="finnish_pagan"
-	culture="finnish"
-	father=1000020
-	826.11.10={
-		birth=yes
-	}
-	899.1.1={
-		death=yes
-	}
-}
-1000022 = {
-	name="Loge"                                    #Fornjot/Ymir 
-	dynasty=9990014
-	religion="finnish_pagan"
-	culture="finnish"
-	father=1000021
-	888.11.10={
-		birth=yes
-	}
-	970.1.1={
-		death=yes
-	}
-}
 170306 = {
 	name="Ihala"
 	dynasty=100384
@@ -1258,6 +1115,7 @@
 	father=1000012
 	738.1.1={
 		birth=yes
+		capital = c_satakunta
 	}
 	800.1.1={
 		death=yes
@@ -1272,6 +1130,7 @@
 	father=170306
 	767.1.1={
 		birth=yes
+		capital = c_satakunta
 	}
 	835.1.1={
 		death=yes
@@ -1286,6 +1145,7 @@
 	father=170307
 	809.1.1={
 		birth=yes
+		capital = c_satakunta
 	}
 	867.1.1={
 		death=yes
@@ -1313,6 +1173,7 @@
 	father=170309
 	771.1.1={
 		birth=yes
+
 	}
 	818.1.1={
 		death=yes
@@ -1355,6 +1216,8 @@
 	father=1000012
 	737.1.1={
 		birth=yes
+
+
 	}
 	792.1.1={
 		death=yes
@@ -1383,6 +1246,7 @@
 	father=170314
 	806.1.1={
 		birth=yes
+
 	}
 	865.1.1={
 		death=yes

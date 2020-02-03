@@ -1024,13 +1024,33 @@ e_finnic = {
 				}
 				b_harviala = {
 				}
-				b_vesilahti = {
-				}
 				b_hattula = {
 				}
 				b_haikonen = {
 				}
 			}
+
+			c_pirkanmaa = {
+				color={ 115 35 35 }
+				color2={ 255 255 255 }
+				
+				swedish = "pirkanmaa"
+				norwegian = "pirkanmaa"
+				danish = "pirkanmaa"
+				norse = "pirkanmaa"
+				finnish = Vesilahti
+				lappish = Vesilahti
+				ugricbaltic = Vesilahti
+				vepsian = Vesilahti
+				bjarmian = Vesilahti
+
+				b_tampere = {
+				}
+				b_vesilahti = {
+				}
+
+			}
+
 			c_osterbotten = {	#moved here in HF
 				color={ 152 66 66 }
 				color2={ 255 255 255 }
@@ -1039,7 +1059,7 @@ e_finnic = {
 				norwegian = "Østerbotten"
 				danish = "Østerbotten"
 				norse = "Austerbotn"
-				finnish = Pohjanmaa
+				finnish = Kvenland
 				lappish = Pohjanmaa
 				ugricbaltic = Pohjanmaa
 			
@@ -1112,9 +1132,9 @@ e_finnic = {
 			norwegian = "Østerbotten"
 			danish = "Østerbotten"
 			norse = "Austerbotn"
-			finnish = Pohjanmaa
-			lappish = Pohjanmaa
-			ugricbaltic = Põhjamaa
+			finnish = "Kainuu"
+			lappish = "Gaidnulas"
+			ugricbaltic = "Kainu"
 
 			
 			c_oulu = {		#New with HF
@@ -1167,7 +1187,11 @@ e_finnic = {
 			c_kajaani = {		#New with HF
 				color={ 152 86 86 }
 				color2={ 255 255 255 }
-			
+
+				finnish = "Kainuu"
+				lappish = "Gaidnulas"
+				ugricbaltic = "Kainu"
+
 				b_kajaani = {
 					swedish = "Kajana"
 					norse = "Kajana"

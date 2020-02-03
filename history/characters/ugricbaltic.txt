@@ -410,6 +410,7 @@
 	dynasty=1040225
 	religion="finnish_pagan"
 	culture="ugricbaltic"
+	father=1000014 
 	521.1.1={
 		birth=yes
 			create_bloodline = {

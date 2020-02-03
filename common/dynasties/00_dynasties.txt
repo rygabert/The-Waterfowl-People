@@ -25,6 +25,11 @@
 	culture = "vepsian"
 	religion = "finnish_pagan"
 }
+9990015 = {
+	name="Kurki"   
+	culture = "ugricbaltic"
+	religion = "finnish_pagan"
+}
 9990014 = {
 	name="Ymerä"   
 	culture = "ugricbaltic"
@@ -36256,7 +36261,7 @@
 }
 1029140=
 {
-	name="Hasabid"
+	name="Kuso"
 	culture="samoyed"
 	religion="finnish_pagan"
 	coat_of_arms=

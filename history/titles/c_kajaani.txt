@@ -25,6 +25,7 @@
 1012.1.1={
 	holder=170145
 }
+liege="d_ostrobothnia"
 1095.12.24={			#Fictional
 	holder=256026
 }

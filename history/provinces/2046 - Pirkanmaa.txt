@@ -1,0 +1,23 @@
+# County Title
+title = c_pirkanmaa
+
+# Settlements
+max_settlements = 4
+b_tampere = tribal
+
+b_vesilahti = temple
+#b_lahti = city
+
+#b_mattila = castle
+#b_harviala = castle
+##b_vesilahti = city
+#b_haikonen = castle
+#b_hattula = temple
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+terrain = forest
+
+# History
+
