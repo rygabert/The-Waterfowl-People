@@ -27,6 +27,7 @@ holder=8880008
 1239.1.1=
 {
 holder=8880009 
+liege="e_golden_horde"
 }
 #1243.1.1={holder=34938}
 1244.1.1=

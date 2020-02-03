@@ -29,6 +29,10 @@ holder=8880038
 {
 holder=8880039
 }
+1237.1.1=
+{
+liege="e_golden_horde"
+}
 1243.4.9=
 {
 holder=8880141
