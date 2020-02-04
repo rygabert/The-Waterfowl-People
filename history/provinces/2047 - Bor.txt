@@ -1,0 +1,23 @@
+# County Title
+title = c_bor
+
+# Settlements
+max_settlements = 1
+b_bor = tribal
+
+#b_uzhara = temple
+#b_lahti = city
+
+#b_mattila = castle
+#b_harviala = castle
+##b_vesilahti = city
+#b_haikonen = castle
+#b_hattula = temple
+
+# Misc
+culture = mari
+religion = finnish_pagan
+terrain = forest
+
+# History
+

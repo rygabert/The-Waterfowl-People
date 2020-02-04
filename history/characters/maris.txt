@@ -356,7 +356,7 @@
 	1061.9.5={
 		birth=yes
 	}
-	1135.1.1={
+	1145.1.1={
 		death=yes
 	}
 }
@@ -371,10 +371,46 @@
 	trait="diligent"
 	trait="zealous"
 	culture="mari"
-	1130.1.1={
+	1140.1.1={
 		birth=yes
 	}
-	1200.1.1={
+	1220.1.1={
+		death=yes
+	}
+}
+8880077 = {
+	name="Eolman "
+	dynasty=9990016
+	religion="finnish_pagan"
+	father=8880076
+	martial=7
+	diplomacy=5
+	stewardship=6
+	trait="diligent"
+	trait="zealous"
+	culture="mari"
+	1218.1.1={
+		birth=yes
+	}
+	1290.1.1={
+		death=yes
+	}
+}
+8880078 = {
+	name="Eolman "
+	dynasty=9990016
+	religion="finnish_pagan"
+	father=8880077
+	martial=7
+	diplomacy=5
+	stewardship=6
+	trait="diligent"
+	trait="zealous"
+	culture="mari"
+	1270.1.1={
+		birth=yes
+	}
+	1338.1.1={
 		death=yes
 	}
 }

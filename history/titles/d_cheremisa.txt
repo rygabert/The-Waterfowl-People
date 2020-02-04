@@ -23,6 +23,10 @@
 {
 holder=8880018
 }
+1220.1.1=
+{
+	liege="e_golden_horde"
+}
 1236.1.1=
 {
 holder=8880019
@@ -34,8 +38,4 @@ holder=8880020
 1310.1.1=
 {
 holder=8880021
-}
-1337.1.1=
-{
-liege="d_novgorod"
 }

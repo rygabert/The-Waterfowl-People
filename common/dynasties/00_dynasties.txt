@@ -25,6 +25,11 @@
 	culture = "vepsian"
 	religion = "finnish_pagan"
 }
+9990016 = {
+	name="Berdei"   
+	culture = "mari"
+	religion = "finnish_pagan"
+}
 9990015 = {
 	name="Kurki"   
 	culture = "ugricbaltic"

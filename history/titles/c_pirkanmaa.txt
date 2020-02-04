@@ -30,10 +30,6 @@
 	liege="k_sweden"
 	holder=1000035
 }
-1220.1.1={
-	liege="k_sweden"
-	holder=1000036
-}
 1302.1.1={
 	liege="d_finland"
 	holder=450607 # Valdemar Magnusson

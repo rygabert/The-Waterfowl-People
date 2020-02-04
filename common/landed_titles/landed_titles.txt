@@ -23417,7 +23417,7 @@ e_idel_ural = {
 		color={ 122 40 33}
 		color2={ 255 255 255 }
 		
-		capital = 588 # Vytla
+		capital = 588 # 
 		
 		finnish_pagan_reformed = 500 # Crusade target weight
 		slavic_pagan_reformed = 100 # Crusade target weight
@@ -23817,7 +23817,7 @@ e_idel_ural = {
 				}
 				b_kitezh = {
 				}
-				b_bor = {
+				b_jurino = {
 				}
 				b_puchishche = {
 				}
@@ -23826,6 +23826,19 @@ e_idel_ural = {
 				b_chistoye_pole = {
 				}
 				b_spasskoye = {
+				}
+			}
+			c_bor = {
+				color={ 173 217 169 }
+				color2={ 255 255 255 }
+						
+				b_bor = {
+				}
+				b_uzhara = {
+				}
+				b_rustav = {
+				}
+				b_valki = {
 				}
 			}
 		}			
