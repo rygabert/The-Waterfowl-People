@@ -19,23 +19,12 @@
 1118.1.1 = {
 	holder = 8880076 # Chumbylat 1181 kotelnichti vallutus
 }
-1199.1.1=
-{
-holder=8880018
-}
 1220.1.1=
 {
+holder=8880077
 	liege="e_golden_horde"
 }
-1236.1.1=
+1290.1.1=
 {
-holder=8880019
-}
-1270.1.1=
-{
-holder=8880020
-}
-1310.1.1=
-{
-holder=8880021
+holder=8880078
 }

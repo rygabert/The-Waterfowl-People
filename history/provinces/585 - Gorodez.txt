@@ -21,10 +21,4 @@ terrain = plains
 
 # History
 
-1172.1.1 = {
-	b_gorodez = castle
-	b_kitezh = city
-}
-1239.1.1 = {
-	remove_settlement = b_kitezh	#Mongol invasion
-}
+
