@@ -1,3 +1,11 @@
+9990117 = {
+	name="Yura"
+	culture = khanty
+}
+9990116 = {
+	name="Sheshkin"
+	culture = samoyed
+}
 9990115 = {
 	name="Varnek"
 	culture = samoyed

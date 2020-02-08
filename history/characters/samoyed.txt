@@ -677,7 +677,7 @@
 	name = "Alik"
 	dynasty = 1062140
 	religion = finnish_pagan
-	culture = nenet
+	culture = samoyed
 	732.1.1 = {
 		birth = yes
 	}

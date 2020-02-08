@@ -29,11 +29,10 @@
 
 
 1000014 = {
-	name="Vanaisa"                                    #Fornjot/Ymir /father of Kalev
+	name="Taar"                                    #Fornjot/Ymir /father of Kalev
 	dynasty=1040225
 	religion="finnish_pagan"
 	culture="bjarmian"
-	father=1000001
 	470.12.10={
 		birth=yes
 	}
@@ -150,19 +149,7 @@
 		death=yes
 	}
 }
-1000022 = {
-	name="Kaukamöinen"                                    #Fornjot/Ymir 
-	dynasty=9990014
-	religion="finnish_pagan"
-	culture="finnish"
-	father=1000021
-	888.11.10={
-		birth=yes
-	}
-	970.1.1={
-		death=yes
-	}
-}
+
 1000023 = {
 	name="Toivo"                                    #Fornjot/Ymir 
 	dynasty=9990014

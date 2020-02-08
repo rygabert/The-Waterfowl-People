@@ -4,7 +4,6 @@ austvegr_trade_route = {
 		OR = {
 			province_id = 674	#derbent post
 			province_id = 610 	#Bolghar
-			province_id = 574	#Yaroslavl/timerovo
 			province_id = 409	#Ladoga
 			province_id = 378	#Rävala
 			province_id = 1841	#Cherdyn
@@ -16,13 +15,14 @@ austvegr_trade_route = {
 			province_id = 547	#Kiev
 			province_id = 560	#Cherson
 			province_id = 1596	#Riga
+			province_id = 572	#Yaroslavl
 		}
 	}
 
 	modifier = {			# How the trade route modifies the provinces it passes
 		castle_tax_modifier = 0.05
 		city_tax_modifier = 0.05
-		temple_tax_modifier = 0.05
+		temple_tax_modifier = 0.15
 		tribal_tax_modifier = 0.40
 		trade_route_value = 20
 		local_movement_speed = 0.05
@@ -34,9 +34,16 @@ austvegr_trade_route = {
 		693 # Baghdad
 		395 #bjarmia
 		383 #Häme
-		
+		1602 #sortavala
+		382
+		378
+		301 #Ahvenamaa
+		1596 #Riga
+		373 #Grobina
+		376 #Saaremaa
+		290 #uppland
 	}
-
+	
 	### Inland route - Bure
 	path = {	# Baghdad - Gilan 
 		693 688 657 658 715 664 666
@@ -54,7 +61,7 @@ austvegr_trade_route = {
 		604 619 1812 1814 609 610 611
 	}
 	path = {	# Bolgar - rävala
-		611 589 584 585 583 572 571 408 404 1660 409 411 380 378
+		611 589 585 584 2047 582 583 572 571 408 404 1660 409 411 380 378
 	}
 	path = {	# rävala-  riga - Polotsk
 		378 376 1596 1594 416 419 
@@ -63,13 +70,25 @@ austvegr_trade_route = {
 		378 382
 	}
 	path = {	# häme-  suomi
-		383 384 2046 382
+		383 2046 384 382
 	}
 	path = {	# Novgorod- Ladoga
 		419 415 1662 414 409
 	}
+	path = {	# Sorta- Ladoga
+		1602 409
+	}
 	path = {	# suomi-  birka
 		382 291 290
+	}
+	path = {	# Gotland - Grobina - Truso - bornholm
+		301 373 371 368 305
+	}
+	path = {	# Gotland - Saaremaa Riga
+		301 376
+	}
+	path = {	# Riga -Grobina
+		1596 1592 373
 	}
 	path = {	# Bolghar - Cherdyn
 		611 1716 1717 1845 886 1841
@@ -78,9 +97,9 @@ austvegr_trade_route = {
 		1841 889 892
 	}
 	path = {	# birka Hedeby
-		290 301 300 305 266 264
+		290 301 300 305 266 265 264
 	}
-	path = {	# -Beloozero Bjarmia
-		395 399 1818 402 401 406 408
+	path = {	# Beloozero Bjarmia
+		395 1819 399 1818 402 401 406 408
 	}
 }

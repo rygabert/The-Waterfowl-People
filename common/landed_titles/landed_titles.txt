@@ -293,7 +293,7 @@ e_finnic = {
 				color={ 125 50 50 }
 				color2={ 255 255 255 }
 
-				ugricbaltic = Sakala
+				ugricbaltic = "Sakala"
 				swedish = Sakala
 				norse = Sakala
 				danish = Sakala
@@ -898,11 +898,11 @@ e_finnic = {
 				color={ 185 65 65 }
 				color2={ 255 255 255 }
 				
-				swedish = "Nyland"
-				norse = "Nyland"
-				norwegian = "Nyland"
-				danish = "Nyland"
-				finnish = "Vironlahti"
+				swedish = "Kymmenedalen"
+				norse = "Kymmenedalen"
+				norwegian = "Kymmenedalen"
+				danish = "Kymmenedalen"
+				finnish = "Kymenlaakso"
 				ugricbaltic = "Virulahe"
 				vepsian = "Vironlahti"
 			
