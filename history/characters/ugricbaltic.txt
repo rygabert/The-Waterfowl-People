@@ -196,7 +196,26 @@
 	}
 	1191.1.1={
 		religion="catholic"
+		add_claim = d_sakala
 	}
+	1207.1.1={
+		effect = {
+			spawn_unit = {
+				province = 2020 # Turaida
+				owner = ROOT
+				#leader = ROOT
+				troops = {
+					light_infantry = { 1500 1500 }
+					heavy_infantry = { 100 100 }
+					pikemen = { 150 150 }
+					archers = { 400 400 }
+					light_cavalry = { 300 300 }
+					knights = { 100 100 }
+				}
+				attrition = 0.5
+			}
+	}
+}
 	1217.9.21={
 		death=yes # Battle of St. Matthew's Day
 	}
@@ -540,6 +559,10 @@
 	1176.3.20 = {
 		birth = yes
 	}
+		1207.1.1 = {
+		add_claim = k_estonia
+	}
+	
 	1217.9.21 = {
 		death = yes
 	}
@@ -601,6 +624,7 @@
 	dynasty = 1061003
 	religion = finnish_pagan
 	culture = ugricbaltic
+	father = 28026
 	1051.8.19 = {
 		birth = yes
 	}

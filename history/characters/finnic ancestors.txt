@@ -27,7 +27,6 @@
 	}
 }
 
-
 1000014 = {
 	name="Taar"                                    #Fornjot/Ymir /father of Kalev
 	dynasty=1040225

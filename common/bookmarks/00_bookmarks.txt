@@ -32,7 +32,7 @@ bm_charlemagne = {
 		
 		character = {
 			dna = kchwlybpkgi
-			properties = aj0aca000000
+			properties = th0ebd000000
 			religion="finnish_pagan"
 			culture="ugricbaltic"
 			government = tribal_government
@@ -49,7 +49,7 @@ bm_charlemagne = {
 		
 		character = {
 			dna = wtbgzmpcbmm
-			properties = aj0aca000000
+			properties = ae00e0
 			religion="finnish_pagan"
 			culture="finnish"
 			government = tribal_government
@@ -158,14 +158,6 @@ bm_the_old_gods = {
 	era = yes						## Will be shown on Era screen.
 	picture = GFX_pick_era_image_2
 
-	selectable_character = {
-		id = 167735 # Eesti
-	}
-	
-	selectable_character = {
-		id = 170131 # Soome
-	}
-	
 	selectable_character = {
 		id = 163112 # Halfdan Whiteshirt
 		age = 42
@@ -681,6 +673,121 @@ bm_the_latin_empire = {
 
 	selectable_character = {
 		id = 34187 # Kilij Arslan III of Rum
+	}
+}
+
+bm_the_northeen_crusades = {
+	name = "BM_THE_NORTHERN_CRUSADES"
+	desc = "BM_THE_NORTHERN_CRUSADES_DESC"
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_5
+	
+	date = 1208.1.1
+
+	selectable_character = {
+		id = 256005 # Lembitu
+		age = 31
+		name = ERA_FUG4
+		title = d_sakala
+		title_name = d_sakala
+		
+		character = {
+			dna = dfhjcbjcdbt
+			properties = xb0dad000000000000000000000000000000000
+			religion="finnish_pagan"
+			culture="ugricbaltic"
+			government = tribal_government
+			dynasty=1061003
+		}
+	}	
+	selectable_character = {
+		id = 8880076 # Chumbylat
+		age = 68
+		name = ERA_FUG5
+		title = d_cheremisa
+		title_name = d_cheremisa
+		
+		character = {
+			dna = scanpcksohn
+			properties = fg0aha000000
+			religion="finnish_pagan"
+			culture="ugricbaltic"
+			government = tribal_government
+			dynasty=9990008
+		}
+	}
+	selectable_character = {
+		id = 201501 # Valdermar 
+		age = 37
+		name = ERA_FUG6
+		title = k_denmark
+		title_name = k_denmark
+		
+		character = {
+			dna = agbceeccebr
+			properties = aj0bh0000000
+			religion="catholic"
+			culture="danish"
+			government = feudal_government
+			dynasty=487
+		}
+	}
+	
+	selectable_character = {
+		id = 93052 # Mohammed Ala ed-Din of Khwarezian Empire
+		age = 50
+		name = ERA_CHAR_NAME_93052
+		title = k_persia
+		title_name = ERA_KHWAREZM
+		coa_dynasty = yes
+		dlc = "The Sword of Islam"
+		
+		character = {
+			dna = cgeeapcdeaf
+			properties = ag0bha000000
+			religion="sunni"
+			culture="turkish"
+			government = muslim_government
+			dynasty=101866
+		}
+	}
+	selectable_character = {
+		id = 125501 # Genghis Khan
+		age = 58
+		name = ERA_CHAR_NAME_125501
+		title = e_mongol_empire
+		title_name = e_mongol_empire
+		#coa_dynasty = yes
+		dlc = "Horse Lords"
+		
+		character = {
+			dna = bggmkufdfae
+			properties = k000cd000000
+			religion="tengri_pagan"
+			culture="mongol"
+			government = nomadic_government
+			dynasty=11100
+		}
+	}
+
+	selectable_character = {
+		id = 170193 # Iltutmish, Sultan of Delhi
+		age = 50
+		name = ERA_CHAR_NAME_170193
+		title = e_rajastan
+		title_name = k_delhi
+		coa_dynasty = yes
+		dlc = "The Sword of Islam"
+		
+		character = {
+			dna = aefgiqfbeae
+			properties = ob00b0000000
+			religion="sunni"
+			culture="turkish"
+			government = muslim_government
+			dynasty=1040202
+		}
 	}
 }
 

@@ -1,0 +1,31 @@
+name = "Northern Crusade"
+
+casus_belli = {
+	actor = 30443
+	recipient = 256005
+	casus_belli = religious
+	landed_title=k_estonia
+	date=1208.1.1
+}
+
+1208.1.1 = {
+	add_attacker = 30443
+	add_attacker = 228023
+	add_attacker = 8880300
+	add_attacker = 200540 #rootslased
+	add_attacker = 200541 #rootslased
+	add_defender = 256005
+	add_defender = 8880236
+	add_defender = 256020
+}
+
+1227.1.1 = {
+	rem_attacker = 30443
+	rem_attacker = 228023
+	rem_attacker = 8880300
+	rem_attacker = 200540 #rootslased
+	rem_attacker = 200541 #rootslased
+	rem_defender = 256005
+	rem_defender = 8880236
+	rem_defender = 256020
+}

@@ -1,0 +1,94 @@
+8880300 = {
+	name = "Visvaldis"
+	dynasty = 705
+	religion = orthodox
+	culture = lettigallish
+	father = 222562
+	1170.1.1 = {
+		birth = yes
+	}
+	1239.1.1 = {
+		death = yes
+	}
+}
+228020 = {
+	name="Talivaldis"
+	dynasty=9534
+	religion="baltic_pagan"
+	culture="orthodox"
+	father = 144628
+	1160.1.1={
+		birth=yes
+	}
+	1215.1.1={
+		death=yes
+	}
+}
+
+8880301 = {
+	name="Remeka"
+	dynasty=9534
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 228020
+	1195.1.1={
+		birth=yes
+	}
+	1224.1.1={
+		death=yes
+	}
+}
+
+8880302 = {
+	name="Sabe"
+	dynasty=100373
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 228075
+	1197.1.1={
+		birth=yes
+	}
+	1266.1.1={
+		death=yes
+	}
+}
+
+8880303 = {
+	name="Viestards"
+	dynasty=9990118
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 220603
+	1189.1.1={
+		birth=yes
+	}
+	1234.1.1={
+		death=yes
+	}
+}
+8880304 = {
+	name="Shanis"
+	dynasty=9990118
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 8880303
+	1195.1.1={
+		birth=yes
+	}
+	1259.1.1={
+		death=yes
+	}
+}
+8880305 = {
+	name="Nameisis"
+	dynasty=9990118
+	religion="baltic_pagan"
+	culture="lettigallish"
+	father = 8880304
+	1230.1.1={
+		birth=yes
+	}
+	1281.1.1={
+		death=yes
+	}
+}

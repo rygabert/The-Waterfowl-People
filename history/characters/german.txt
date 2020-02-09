@@ -15246,7 +15246,27 @@
 	}
 	1202.1.1 = {
 		trait="crusader" 
+		add_claim = d_sakala
+		add_claim = d_ugandi
 	}
+
+	1207.1.1={
+		effect = {
+			spawn_unit = {
+				province = 1596 # Riga
+				owner = ROOT
+				#leader = ROOT
+				troops = {
+					heavy_infantry = { 500 500 }
+					pikemen = { 150 150 }
+					archers = { 300 300 }
+					knights = { 250 250 }
+				}
+				attrition = 0.1
+			}
+	}
+}
+
 	1209.1.1 = {
 		death="1209.1.1"
 	}
@@ -15263,6 +15283,8 @@
 	}
 	1209.1.1 = {
 		trait="crusader" 
+		add_claim = d_sakala
+		add_claim = d_ugandi
 	}
 	1209.1.1 = {
 		capital="c_livs" 

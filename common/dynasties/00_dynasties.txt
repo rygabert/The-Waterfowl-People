@@ -1,3 +1,9 @@
+9990118 = {
+	name="Tervete"
+	culture = "lettigallish"
+	religion = "finnish_pagan"
+
+}
 9990117 = {
 	name="Yura"
 	culture = khanty
@@ -22396,9 +22402,6 @@
 	religion="finnish_pagan"
 	coat_of_arms=
 	{
-		data=
-		{
-0 0 0 4 0 5 5 			}
 		religion="finnish_pagan"
 	}
 }
@@ -22409,9 +22412,6 @@
 	religion="finnish_pagan"
 	coat_of_arms=
 	{
-		data=
-		{
-0 0 0 15 1 6 6 			}
 		religion="finnish_pagan"
 	}
 }
@@ -22422,9 +22422,6 @@
 	religion="finnish_pagan"
 	coat_of_arms=
 	{
-		data=
-		{
-0 0 0 15 6 1 1 			}
 		religion="finnish_pagan"
 	}
 }

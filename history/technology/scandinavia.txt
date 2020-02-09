@@ -46,7 +46,7 @@ technology = {
 		culture = 0.6
 		
 		TECH_NAVAL = 2.0
-	}	
+	}
 	
 	1337 = {
 		military = 3.5

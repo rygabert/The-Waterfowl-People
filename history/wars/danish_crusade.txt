@@ -1,0 +1,21 @@
+name = "Danish Northren Crusade"
+
+casus_belli = {
+	actor = 201501 
+	recipient = 228026 
+	casus_belli = invasion
+	landed_title=d_esthonia
+	date=1208.1.1
+}
+
+1208.1.1 = {
+	add_attacker = 201501 #Valdemar
+	add_defender = 228026 #Alo/rävala
+	add_defender = 256020 #Kekke
+}
+
+1227.1.1 = {
+	rem_attacker = 201501 #Valdemar
+	rem_defender = 228026 #Alo/rävala
+	rem_defender = 256020 #Kekke
+}
