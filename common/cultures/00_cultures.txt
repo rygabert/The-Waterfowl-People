@@ -1796,7 +1796,7 @@ finno_ugric = {
 			Mielitty Miemo Mikko_Michael Oiva Onni Otso Pyry Päiviö Pentti Reko Sampo Satajalka Satatieto Seppo Susi Tapani Terho Toivo Ukko Uoti Urho Väinö
 			Valta Valto Veli Vesa Voitto Erkki_Erik Kaarle_Charles Johannes_John Risto_Christopher Olavi_Olaf Petri_Peter Henri_Henry Yrjö_George 
 			Valteri_Walter Riku_Richard Matti_Matthew Jaakoppi_Jacob Taisto Paavo_Paul Aatso_Adam Ahvo Aarto_Artur Asko Tuokko_David Rieti_Frederick
-			Kauro_Gabriel Kuuti_Knut Pekko Soini_Sven Tuure Turo Tommo Tohmas_Thomas
+			Kauro_Gabriel Kuuti_Knut Pekko Soini_Sven Tuure Turo Tommo Tohmas_Thomas Ihalempi Mielivalta Kauko Kaukovalta Kaukomieli Arijoutsi Kukurtaja Urtti Keiho Kotarikko Vihavaino Valtari Janakka Kurikka Sotijalo Kaukopäivä Utujoutsi
 		}
 		female_names = {
 			Aamu Aino Hellä Helmi Ilta Kaarina_Catherine Käpy Kielo Kukka Lauha Lempi Mahla Maija Marja Mesi Metta Päivä Päivi Pihla Pilvi Rauha Sisko Suoma
@@ -1820,7 +1820,7 @@ finno_ugric = {
 		female_names = {
 			Anni Aamu Aino Hellä Helmi Ilta Kaarina_Catherine Käpy Kielo Kukka Lauha Lempi Mahla Maija Marja Mesi Metta Päivä Päivi Pihla Pilvi Rauha Sisko Suoma
 			Taimi Terhi Titti Tuija Tuovi Tuuli Tuulikki Tyyne Tyyni Vanamo Venla Mielikki Hertta Loviisa Inkeri Ilmatar Irene_Irene Ilona_Helen Kristiina_Christina
-			Elisabet_Elizabeth Sohvi_Sofia Auni_Agnes Liekko_Helen Kivutar Lemmikki Lyylikki Salme Talvikki Tuulitar Aira Ahruk Öðuk
+			Elisabet_Elizabeth Sohvi_Sofia Auni_Agnes Liekko_Helen Kivutar Lemmikki Lyylikki Salme Talvikki Tuulitar Aira Ahruk Ö?uk
 		}
 		from_dynasty_prefix = "of "
 
@@ -1907,13 +1907,13 @@ finno_ugric = {
 			Ohetõiv Ohevald Olev_Olaf Onni Otelemb Ott Pihl Piho Pikne Päevalemb Pärt Raak Raho Rahuleid Sulev Susi Sutemeel
 			Sutepelg Tambet Tarva Tarvet Tasulemb Toivo Toom Tunne Tutkas Tuul Tõeleid Tõiv Tõivulemb Tõll Tõnn Uku
 			Urmas Uru Valdur Vambola Vandemeel Varjelemb Veli Vello Venno Vesse Vihavald Vililemb Vilimeel Vilitõiv Vilivald
-			Vootele Väino Värvo Õigemeel Ülo
+			Vootele Väino Värvo Õigemeel Ülo Meeme Enno Kulle Kekke Kirjavana Leemet Õnnepäev
 		}
 		female_names = {
 			Aasa Ahma Aime Aimo Aita Aldi Ann Anni Annika Are Auli Aune Eha Elo Ere Helbe Hele Helgi Heli Helina Helmi Helve
 			Hiie Hämarik Hüüp Ida Ilme Ilmi Ilo Kai Kaili Kaja Kalli Kare Kati Kiir Kiire Killu Käbi Lagle Laine Lee Leek Leelo Leili
 			Lemme Liis Lill Linda Luule Maija Mari Marja Meeli Niine Ninni Oie Pilve Päivi Põim Salme Sirje Säde Taimi Talvi Tiiu
-			Tuuli Urve Viire Vilja Virge Virve Värvu Õie Õnne Ülane Ülle
+			Tuuli Urve Viire Vilja Virge Virve Värvu Õie Õnne Ülane Ülle Viio Lonni
 		}
 
 		from_dynasty_prefix = "of "
@@ -1928,17 +1928,14 @@ finno_ugric = {
 		color = { 0.5 0.75 0.25 }
 
 		male_names = {
-			Andyamo Arnaz Arti Artis Arvo Aymort Azeg Biur Biyar Burmort Chichayka Chuga Dergun Deryab Dobrinya Dokya Dondy Gazheg Hulyen Inzhay Irter Lyneg Lysko Kezhapa Kezhay Kezhedey
-			Kezhevat Kichay Koksha Kuaz Kudym-Osh Kya Kyldysin Malyaka Malyy Meltsayka Mosheg Nalka Nuyaksha Nuyanza Nuyat Nydog Nylog Odeg Onika Osh Oshmar Oshypel Ovtay Ozheg Ozhmeg
-			Pakstyan Paksyay Paksyut Parush Pivtsay Pokshayka Putyayka Pyera Rateg Rayda Sarin Sektev Setyamka Shindyay Shypicha Shyrpuzh Spira Syrka Tikshayka Tuhan Tyueykezhut
-			Tyutyuk Tugan Turush Uchva Varaka Vechkas Velmayka Virdyan Viryas Viryay Vokan Yirkap Ylvan Zarny Zhebeg Zhuneg Zyryan 
+			Arnas Arti Artis Arvo Aimort Azeg Biur Lysko Kudym-Osh Kya Osh Pjera Syrka Jirkap Vörmort Jaur Oshpi Köin Jöra Jugydmort Vezhaika Gulen Kirjan Varjan Körtmort Kyska Meleika Oshlapei Paljaika Pam Tjuvö Shipicha Jurka Tunnyrjak Jagmort Tyngos Tugan Kudem Sektev Gacheg Zhebeg Zhuneg Irteg Luneg Mosheg Nydog Nylog Ozheg Odeg Rateg Polokalö Chushkanzi Mizja Lunmort Shudamort Vokan Tun Odöl Örti Ven Jövgin Kaljö Köstja Pash Jarö Byzydyny Viljos Viljog Gut Dozmör Zhun Zon Ichöt Katshös Kalog Kushpel Kyk Kyrny Kyrnysh Kys Kychi Lyjur Ljampa Micha Möskok Mosh Oshkok Pors Purt Raka Röch Ruch Sizim Cheran Sjuz Batyj Chöt Shudeg Voleg Koleg Uzheg Baseg Kuch Syrchik Kushman Baddjain Maibyr Kuz Kyzjur Izjur Zuk Komimort
 		}
 		female_names = {
-			Anava Ashava Asrava Avya Azra-Va Chechama Chenksa Cherava Chichayka Chindyapa Chindyayka Chinzhay Chitska Elyuva Inyava Kanyava Kanyuva
-			Kirdyava Kunava Kunyavka Litava Liyava Mazava Megurka Mel'shay Nezayka Nulzyava Nyal'ka Nyayka Nyumina Nyv Olota Ordava Oshama Öshkamöshka Parava Pekshayka
-			Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Rayda Ruzava Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shochynava Shonzhava
-			Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga
-			Utyayka Valdava Vergava Vezhav Vidyava Virtyava Yalgava Yugörka
+			Anava Ashava Asrava Avya Azra-Va Chechama Chenksa Cherava Chichaika Chindyapa Chindjaika Chinzhai Chitska Eljuva Injava Kanjava Kanjuva
+			Kirdjava Kunava Kunjavka Litava Lijava Mazava Megurka Melshai Nezaika Nulzjava Njalka Njaika Njumina Nyv Olota Ordava Oshama Öshkamöshka Parava Pekshaika
+			Pemka Pokshava Poshaika Potekai Potjava Putjaika Ravzhava Raida Ruzava Sanalka Sangasa Sernjava Serzhai Setjamka Sejamka
+			Shukshtoroika Sinjava Sijamka Sljuganka Sochava Stjaka Syrjava Tatka Tekai Tetjava Tikshaika Tojaksha Tundava Tundja Unzhutka Upurga
+			Utjaika Valdava Vergava Vezhav Vidjava Virtjava Jalgava Jugörka Sizju Götyr Pevsin Rajda Zarni Avja Rajö Mashö Öksin Köch Kyn Kyr Pysta Siz Chöskyd Chush Jus Lun Chöd Pistög Uljana
 		}
 		from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
@@ -1955,18 +1952,10 @@ finno_ugric = {
 		color = { 0.3 0.75 0.30 }
 
 		male_names = {
-			Andyamo Arnaz Arti Artis Arvo Aymort Azeg Biur Biyar Burmort Chichayka Chuga Dergun Deryab Dobrinya Dokya Dondy Gazheg Hulyen Inzhay Irter Lyneg Lysko Kezhapa Kezhay Kezhedey
-			Kezhevat Kichay Koksha Kuaz Kudym-Osh Kya Kyldysin Malyaka Malyy Meltsayka Mosheg Nalka Nuyaksha Nuyanza Nuyat Nydog Nylog Odeg Onika Osh Oshmar Oshypel Ovtay Ozheg Ozhmeg
-			Pakstyan Paksyay Paksyut Parush Pivtsay Pokshayka Putyayka Pyera Rateg Rayda Sarin Sektev Setyamka Shindyay Shypicha Shyrpuzh Spira Syrka Tikshayka Tuhan Tyueykezhut
-			Tyutyuk Tugan Turush Uchva Varaka Vechkas Velmayka Virdyan Viryas Viryay Vokan Yirkap Ylvan Zarny Zhebeg Zhuneg Zyryan Ðurma Kilmez Itykaj Donda Idna Vesja Gurja Bursin Selta Kuþmo Mardan Moþga Bija Zui
-
+			Shurma Kilmez Itykai Dondy Idna Vesja Gurja Bursin Selta Kuzhmo Mardan Bija Zui Tutoi Eshterek Jadygar Vukuzjo Ozhmeg Topor Samorub Atas Baljan Gondyr Kojyk Juber Tutygysh Zhaky Kuaz Kuazhy Kajsy Dzjankei Kamai Kurbanai Apas Esekei Edei Budja Bekeldei Tuktash Dzjuika Zjanhvat Begenei Keldyk Tuktar Padek Zjanderysh Datugym Bekta Dzjamemet Abyl Abei Agym Adai Adanash Adyr Azijan Azmak Azmaket Aisuly Aitemysh Akbai Akzjan Akki Akman Akmaja Aksabei Aksjabei Akchubei Jagi Jazbike Janchabei Jarhei Jarkipei Sezjai Sjaskan Sjaskabei Kokon Sedyk Arkash Param Poma Bagysh Jurtai Kalmez Kyldysin Dunaje Kyzmy Tuno Chipei Badei Zor Gerei Kaban Chyzhyt Shahta Bazak Dangyr Kazmas Kuzhmo Ondok Sadik Tyl Agai Dun Jady Vizmo Dzhog Pijash
 		}
 		female_names = {
-			Anava Ashava Asrava Avya Azra-Va Chechama Chenksa Cherava Chichayka Chindyapa Chindyayka Chinzhay Chitska Elyuva Inyava Kanyava Kanyuva
-			Kirdyava Kunava Kunyavka Litava Liyava Mazava Megurka Mel'shay Nezayka Nulzyava Nyal'ka Nyayka Nyumina Nyv Olota Ordava Oshama Öshkamöshka Parava Pekshayka
-			Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Rayda Ruzava Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shochynava Shonzhava
-			Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga
-			Utyayka Valdava Vergava Vezhav Vidyava Virtyava Yalgava Yugörka
+			Savi Pisleg Sjala Tulivit Syrchik Palja Dydyk Sadyk Chima Setym Dzusvan Uzan Zjansula Shady Bisultan Nylka Begichan Almas Chana Italmas Evika Chachabei Zangari Anni Nadi Pekla Aino Invu Anna Nuny Sez Shuda Muljy Mosh Anai Pichi Puchy Kuso Anjy Ygy Cheber Nylash Nyl
 		}
 		from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
@@ -1980,17 +1969,10 @@ finno_ugric = {
 		color = { 0.4 0.65 0.20 }
 
 		male_names = {
-			Andyamo Arnaz Arti Artis Arvo Aymort Azeg Biur Biyar Burmort Chichayka Chuga Dergun Deryab Dobrinya Dokya Dondy Gazheg Hulyen Inzhay Irter Lyneg Lysko Kezhapa Kezhay Kezhedey
-			Kezhevat Kichay Koksha Kuaz Kudym-Osh Kya Kyldysin Malyaka Malyy Meltsayka Mosheg Nalka Nuyaksha Nuyanza Nuyat Nydog Nylog Odeg Onika Osh Oshmar Oshypel Ovtay Ozheg Ozhmeg
-			Pakstyan Paksyay Paksyut Parush Pivtsay Pokshayka Putyayka Pyera Rateg Rayda Sarin Sektev Setyamka Shindyay Shypicha Shyrpuzh Spira Syrka Tikshayka Tuhan Tyueykezhut
-			Tyutyuk Tugan Turush Uchva Varaka Vechkas Velmayka Virdyan Viryas Viryay Vokan Yirkap Ylvan Zarny Zhebeg Zhuneg Zyryan 	Samar Matug Kutonja Kuksa Wasa Oojka Ooter Mejk Waèi Laè Janyg Kelp Igièej Onða Paltyð Alaè Jumðan Kolpu Asyka Pytkoj Luguj Agaj Kosalim Asypkoj Kynèa Satyga Osip Mamruk Ermak Molik Gynda Tuèabalda Tajða Pewgej Sengep Juwan Byldan Akða Pajduk Jusor Bardak Tonja Sujeta Kalpik Teèik Moldan Agataj Kihek Ablegirim Èetyrko Taustej Uèjut
+			Samar Matug Kutonja Kuksa Wasa Oika Oter Meik Wachi Lach Janyg Kelp Igichei Onsha Paltysh Alach Jumshan Kolpu Asyka Pytkoi Lugui Agai Kosalim Asypkoi Kyncha Satyga Osip Mamruk Ermak Molik Gynda Tuchapalda Taisha Pewgei Sengep Juwan Pyldan Aksha Paiduk Jusor Pardak Tonja Sujeta Kalpik Techik Moltan Agatai Kihek Aplegirim Chetyrko Taustei Uchjut Argin Wah Sorup Jangui Jag Lunt Ker Hum Saly Tal Moipar Ike Pyres Wuly Iki Kon Wanho Eltan Kacheta Kilim Agna Sepeta Pynzha Ahtamak Oloko Aptja Ulja Sertush Unhu Njaroh Aipoh Kulkatli Kuchum Soter Alwali Perki Aji Jiny Kusha Shuny Poti Kanta Mikul Sawka Polwan Urt Kirikori Roman
 		}
 		female_names = {
-			Anava Ashava Asrava Avya Azra-Va Chechama Chenksa Cherava Chichayka Chindyapa Chindyayka Chinzhay Chitska Elyuva Inyava Kanyava Kanyuva
-			Kirdyava Kunava Kunyavka Litava Liyava Mazava Megurka Mel'shay Nezayka Nulzyava Nyal'ka Nyayka Nyumina Nyv Olota Ordava Oshama Öshkamöshka Parava Pekshayka
-			Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Rayda Ruzava Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shochynava Shonzhava
-			Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga
-			Utyayka Valdava Vergava Vezhav Vidyava Virtyava Yalgava Yugörka
+			Logar Chachka Jucho Koste Kalpa Hotel Kaltash Nai Senkw At Tur Sjan Oma Heste Wot Ne Huramang Wonsimet Pelen Wehsar Jem Ai Anki Ekwa Arehta Newi Imi Tjoras Ueng Unapelki Horom Katja Mosne Ewi Taskuw Parkuw Neny Otjut Enko Ewja Alwa Enny Sura Nai
 		}
 		from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
@@ -2004,17 +1986,10 @@ finno_ugric = {
 		color = { 0.2 0.55 0.25 }
 
 		male_names = {
-			Andyamo Arnaz Arti Artis Arvo Aymort Azeg Biur Biyar Burmort Chichayka Chuga Dergun Deryab Dobrinya Dokya Dondy Gazheg Hulyen Inzhay Irter Lyneg Lysko Kezhapa Kezhay Kezhedey
-			Kezhevat Kichay Koksha Kuaz Kudym-Osh Kya Kyldysin Malyaka Malyy Meltsayka Mosheg Nalka Nuyaksha Nuyanza Nuyat Nydog Nylog Odeg Onika Osh Oshmar Oshypel Ovtay Ozheg Ozhmeg
-			Pakstyan Paksyay Paksyut Parush Pivtsay Pokshayka Putyayka Pyera Rateg Rayda Sarin Sektev Setyamka Shindyay Shypicha Shyrpuzh Spira Syrka Tikshayka Tuhan Tyueykezhut
-			Tyutyuk Tugan Turush Uchva Varaka Vechkas Velmayka Virdyan Viryas Viryay Vokan Yirkap Ylvan Zarny Zhebeg Zhuneg Zyryan 	Samar Matug Kutonja Kuksa Wasa Oojka Ooter Mejk Waèi Laè Janyg Kelp Igièej Onða Paltyð Alaè Jumðan Kolpu Asyka Pytkoj Luguj Agaj Kosalim Asypkoj Kynèa Satyga Osip Mamruk Ermak Molik Gynda Tuèabalda Tajða Pewgej Sengep Juwan Byldan Akða Pajduk Jusor Bardak Tonja Sujeta Kalpik Teèik Moldan Agataj Kihek Ablegirim Èetyrko Taustej Uèjut
+			Wonja Kichei Taibohta Ira Marga Anga Vargmyka Sagol Ojin Kyytyk Chynyn Muundija Sjeepak Iondra Kurak Chat Koga Soolak Kamnach Koga Kacha Pitynyl Sery-Oly Sjakol Koski-Menty Tymyra Pjakkana Kura-Ira Kyta-Ija Limpi-Ira Kolka-Ira Njenakai-Ira  Tjapja-Sai Njutika Kolkai-Ira Iraka Pirkjashyi-Ira Sycha Chaptja Aras-Ira Piltuk Ilcha Merkum Karja Kerja Senkjata
 		}
 		female_names = {
-			Anava Ashava Asrava Avya Azra-Va Chechama Chenksa Cherava Chichayka Chindyapa Chindyayka Chinzhay Chitska Elyuva Inyava Kanyava Kanyuva
-			Kirdyava Kunava Kunyavka Litava Liyava Mazava Megurka Mel'shay Nezayka Nulzyava Nyal'ka Nyayka Nyumina Nyv Olota Ordava Oshama Öshkamöshka Parava Pekshayka
-			Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Rayda Ruzava Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shochynava Shonzhava
-			Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga
-			Utyayka Valdava Vergava Vezhav Vidyava Virtyava Yalgava Yugörka
+			Memqi Kyta Kypta Mata Jeska Nishqa Okka Pjeega Tabak Tana Tuuky Pekja-Ima Pakjai-Ima Ima Lontyra Keptjai-Imyja
 		}
 		from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
@@ -2028,11 +2003,10 @@ finno_ugric = {
 		color = { 0.3 0.75 0.75 }
 
 		male_names = {
-			Alik Hasaba Kako Kharuchi Kolik Mandak Nabtiko Nenyts Nga Ngënoh Noumea Num Nyalku Panay Pudak Salinder Samatu Sarak Sirtya Somatu Syudbya Tatva Tolik Vesei Wayngachi Xëryuchi Yadne Yapti Yar Yavlad Yurak
-			Jarni Okatatto Hudi Wawlo Nyla Serako
+			Jarni Okatatto Hudi Wawlo Nyla Serako Ledereiko Wagai Wadjo Jerwko Jonko Jiko Ilko Mjusena Mjatsi Noiko Njakotsja Natena Paniko Papako Satako Sewtja Hadko Hasawato Jabko Sjarati Wawlja Mjusen Jasawei Jebtsota Sjunz Jabtso Nolako Wena Jengsu Mabja Momdjo Sumsi Nynelja Jaban Wesako Iriko Hasawako Pedawa Sata Jalja Jabta Jeiko Noleiko Pjane Sewsi Hasi Nenjang Lidjang Ljodjer Hasawa Hibjari Hora Nisja Lambie Syryqa Taibula Djuhade Tubjaku Demnime Labtimaku Kataraku Tolja
 		}
 		female_names = {
-			Atpälha Auli Galya Ilme Kat Khatyako Kontäw Kujku Laptsui Ngeva Senda Syeju Tada Tadane Yar
+			Watanje Jewanje Jedeinje Jelja Majanje Nedko Neko Papakonje Puinje Sawanje Satanje Sywnje Serakonje Hadnje Hoinje Jaljanje Jabtanje Jarunje Puhutsja Hadako Jebtsotanje Papanje Pedawanje Jabtanje Sernje Sernjeko Sernjekotsja Sernjeja Varka Nje Neiming Nobopte
 		}
 		from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
@@ -2045,17 +2019,10 @@ finno_ugric = {
 		color = { 0.3 0.7 0.7 }
 
 		male_names = {
-			Alyona Andyamo Chichayka Chumbulat Dergun Deryab Dobrinya Erziya Inzhay Kezhapa Kezhay Kezhedey Kezhevat Kichay Kubrat Malyaka Malyy Meltsayka Mordvinko Moksha
-			Nalka Nuyaksha Nuyanza Nuyat Ovtay Pakstyan Paksyay Paksyut Parush Pivtsay Pokshayka Putyayka Setyamka Shindyay Shoksha Syrka Tikshayka
-			Tyueykezhut Uchva Varaka Vechkas Velmayka Virdyan Viryas Viryay Atyamas Azyren Chipaz Kardaz Kinyak Koshel Murunza Naruchad Nishkepaz Orunza Puresh Purysho 
-			Saksa Shkay Surt Tul Tunya Tutyra Tylmache Tylze Tyushten Tyushtya Uzhara Varmanpaz 
+			Kezhai Kezhut Kezhapa Kezhevat Kezhedei Parush Vechkas Vechkush Vechkan Vechkovat Vechkenza Uchai Uchvat Uches Uchan Paksjai Paksjut Pakstjan Virjai Virjas Virdjan Nujat Nujanza Nujaksha Pivtsai Kirdjai Ovtai Pinjai Pinjas Kargai Kargash Pichai Tumai Kadysh Keldjush Marjes Azrapa Kochkur Kechush Poldjas Sudos Syrjes Kirdjash Kudash Kochemas Chalmai Sabai Kitai Jamash Kutjai Veljai Altysh Kazei Inzhai Inzhevat Kudas Kudai Oshai Oshas Oshapa Oshes Vidjai Nujat Nujanea Nujaksha Chervov Arejut Antjas Chekulai Kutor Atsapa Kichat Nachar Tenjaksha Chindjas Sjulga Panzi Meche Pileksh Puchkargan Turtas Turtash Turpur Kargata Tundas Tjargon Tjargas Tjelga Torai Kaval Kutskan Uvksni Tsjofks Shavacha Sjazgata Sjakshata Shurman Jaksjarga Suzi Suvozi Puluksh Purgaz Atjamshkai Puresh Tjushtja Tjushtjen
 		}
 		female_names = {
-			Anava Ashava Asrava Azra-Va Chechama Chenksa Cherava Chichayka Chindyapa Chindyayka Chinzhay Chitska Elyuva Inyava Kanyava Kanyuva
-			Kirdyava Kunava Kunyavka Litava Liyava Mazava Megurka Mel'shay Nezayka Nulzyava Nuyanza Nyal'ka Nyayka Olota Ordava Oshama Parava Pekshayka
-			Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Ruzava Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shonzhava
-			Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga
-			Utyayka Valdava Vergava Vezhav Vidyava Virtyava Yalgava Litova Mastorava Noroava
+			Maka Nahja Pashtenja Tsebarka Litova Samanka Syrzha Akamka Mazjargo Pajo Snaltjo Atjuta Nujal Kastusha Tsjetsa Senjasha Vitova Kanjova Jeljuva Kirdjava Virtjava Sijamka Ljukshamka Vasjalga Azravka Sirjava Stirjava Utjasha Ange Alguzha Alkazha Anjelina Arguma Arta Artana Ashava Ashnaza Baigusha Bazhana Bazhata Bazhjena Bazhuta Vazhava Vazhena Valdava Valdasja Valdusha Valguzha Vandola Vastanja Vedeneja Vezhana Vezhava Velmata Vechkana Vidjava Vitava Vijana Virineja Zehel Inzhanja Ines Injuva Injuta Istarta Kastargo Kastusha Kastus Kanjova Kanjava Kanjuva Kiljava Kevganja Kevge Kemal Kemelte Kuljasha Lijana Lada Ladava Laimar Lamzur Mazanja Metkaza Mijanza Mazava Najana Nuja Narusha Nalkuma Pijada Pijana Pijanza Paksjaltja Paksjuta Parava Selema Sijana Sola Solanja Syrnezha Senjezha Setmela Sjumerge Tashtana Telena Teshtela Tejana Tikshana Tirjana Tundal Tundalja Tundanja Chevgine Chipanja Eizjural Eljuva Erjana Ergana Ergela Ermeza Jamzjur Kara Jaga Kizor Algas Ramas Erjekai Pangai Kujama Paranza Narchatka
 		}
 		from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
@@ -2068,17 +2035,10 @@ finno_ugric = {
 		color = { 0.3 0.5 0.5 }
 
 		male_names = {
-			Andyamo Chichayka Chumbulat Dergun Deryab Dobrinya Erziya Inzhay Kezhapa Kezhay Kezhedey Kezhevat Kichay Kubrat Malyaka Malyy Meltsayka Mordvinko Moksha
-			Nalka Nuyaksha Nuyanza Nuyat Ovtay Pakstyan Paksyay Paksyut Parush Pivtsay Pokshayka Putyayka Setyamka Shindyay Shoksha Syrka Tikshayka
-			Tyueykezhut Uchva Varaka Vechkas Velmayka Virdyan Viryas Viryay Atyamas Azyren Chipaz Kardaz Kinyak Koshel Murunza Naruchad Nishkepaz Orunza Puresh Purysho 
-			Saksa Shkay Surt Tul Tunya Tutyra Tylmache Tylze Tyushten Tyushtya Uzhara Varmanpaz
+			Kezhai Kezhut Kezhapa Kezhevat Kezhedei Parush Vechkas Vechkush Vechkan Vechkovat Vechkenza Uchai Uchvat Uches Uchan Paksjai Paksjut Pakstjan Virjai Virjas Virdjan Nujat Nujanza Nujaksha Pivtsai Kirdjai Ovtai Pinjai Pinjas Kargai Kargash Pichai Tumai Kadysh Keldjush Marjes Azrapa Kochkur Kechush Poldjas Sudos Syrjes Kirdjash Kudash Kochemas Chalmai Sabai Kitai Jamash Kutjai Veljai Altysh Kazei Inzhai Inzhevat Kudas Kudai Oshai Oshas Oshapa Oshes Vidjai Nujat Nujanea Nujaksha Chervov Arejut Antjas Chekulai Kutor Atsapa Kichat Nachar Tenjaksha Chindjas Sjulga Panzi Meche Pileksh Puchkargan Turtas Turtash Turpur Kargata Tundas Tjargon Tjargas Tjelga Torai Kaval Kutskan Uvksni Tsjofks Shavacha Sjazgata Sjakshata Shurman Jaksjarga Suzi Suvozi Puluksh Purgaz Atjamshkai Puresh Tjushtja Tjushtjen
 		}
 		female_names = {
-			Anava Ashava Asrava Azra-Va Chechama Chenksa Cherava Chichayka Chindyapa Chindyayka Chinzhay Chitska Elyuva Inyava Kanyava Kanyuva
-			Kirdyava Kunava Kunyavka Litava Liyava Mazava Megurka Mel'shay Nezayka Nulzyava Nuyanza Nyal'ka Nyayka Olota Ordava Oshama Parava Pekshayka
-			Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Ruzava Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shonzhava
-			Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga
-			Utyayka Valdava Vergava Vezhav Vidyava Virtyava Yalgava Litova Mastorava Noroava
+			Maka Nahja Pashtenja Tsebarka Litova Samanka Syrzha Akamka Mazjargo Pajo Snaltjo Atjuta Nujal Kastusha Tsjetsa Senjasha Vitova Kanjova Jeljuva Kirdjava Virtjava Sijamka Ljukshamka Vasjalga Azravka Sirjava Stirjava Utjasha Ange Alguzha Alkazha Anjelina Arguma Arta Artana Ashava Ashnaza Baigusha Bazhana Bazhata Bazhjena Bazhuta Vazhava Vazhena Valdava Valdasja Valdusha Valguzha Vandola Vastanja Vedeneja Vezhana Vezhava Velmata Vechkana Vidjava Vitava Vijana Virineja Zehel Inzhanja Ines Injuva Injuta Istarta Kastargo Kastusha Kastus Kanjova Kanjava Kanjuva Kiljava Kevganja Kevge Kemal Kemelte Kuljasha Lijana Lada Ladava Laimar Lamzur Mazanja Metkaza Mijanza Mazava Najana Nuja Narusha Nalkuma Pijada Pijana Pijanza Paksjaltja Paksjuta Parava Selema Sijana Sola Solanja Syrnezha Senjezha Setmela Sjumerge Tashtana Telena Teshtela Tejana Tikshana Tirjana Tundal Tundalja Tundanja Chevgine Chipanja Eizjural Eljuva Erjana Ergana Ergela Ermeza Jamzjur Kara Jaga Kizor Algas Ramas Erjekai Pangai Kujama Paranza Narchatka
 		}
 		from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
@@ -2091,17 +2051,10 @@ finno_ugric = {
 		color = { 0.4 0.6 0.6 }
 
 		male_names = {
-			Andyamo Chichayka Chumbulat Dergun Deryab Dobrinya Erziya Inzhay Kezhapa Kezhay Kezhedey Kezhevat Kichay Kubrat Malyaka Malyy Meltsayka Mordvinko Moksha
-			Nalka Nuyaksha Nuyanza Nuyat Ovtay Pakstyan Paksyay Paksyut Parush Pivtsay Pokshayka Putyayka Setyamka Shindyay Shoksha Syrka Tikshayka
-			Tyueykezhut Uchva Varaka Vechkas Velmayka Virdyan Viryas Viryay Atyamas Azyren Chipaz Kardaz Kinyak Koshel Murunza Naruchad Nishkepaz Orunza Puresh Purysho 
-			Saksa Shkay Surt Tul Tunya Tutyra Tylmache Tylze Tyushten Tyushtya Uzhara Varmanpaz
+			Kezhai Kezhut Kezhapa Kezhevat Kezhedei Parush Vechkas Vechkush Vechkan Vechkovat Vechkenza Uchai Uchvat Uches Uchan Paksjai Paksjut Pakstjan Virjai Virjas Virdjan Nujat Nujanza Nujaksha Pivtsai Kirdjai Ovtai Pinjai Pinjas Kargai Kargash Pichai Tumai Kadysh Keldjush Marjes Azrapa Kochkur Kechush Poldjas Sudos Syrjes Kirdjash Kudash Kochemas Chalmai Sabai Kitai Jamash Kutjai Veljai Altysh Kazei Inzhai Inzhevat Kudas Kudai Oshai Oshas Oshapa Oshes Vidjai Nujat Nujanea Nujaksha Chervov Arejut Antjas Chekulai Kutor Atsapa Kichat Nachar Tenjaksha Chindjas Sjulga Panzi Meche Pileksh Puchkargan Turtas Turtash Turpur Kargata Tundas Tjargon Tjargas Tjelga Torai Kaval Kutskan Uvksni Tsjofks Shavacha Sjazgata Sjakshata Shurman Jaksjarga Suzi Suvozi Puluksh Purgaz Atjamshkai Puresh Tjushtja Tjushtjen
 		}
 		female_names = {
-			Anava Ashava Asrava Azra-Va Chechama Chenksa Cherava Chichayka Chindyapa Chindyayka Chinzhay Chitska Elyuva Inyava Kanyava Kanyuva
-			Kirdyava Kunava Kunyavka Litava Liyava Mazava Megurka Mel'shay Nezayka Nulzyava Nuyanza Nyal'ka Nyayka Olota Ordava Oshama Parava Pekshayka
-			Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Ruzava Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shonzhava
-			Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga
-			Utyayka Valdava Vergava Vezhav Vidyava Virtyava Yalgava Litova Mastorava Noroava
+			Maka Nahja Pashtenja Tsebarka Litova Samanka Syrzha Akamka Mazjargo Pajo Snaltjo Atjuta Nujal Kastusha Tsjetsa Senjasha Vitova Kanjova Jeljuva Kirdjava Virtjava Sijamka Ljukshamka Vasjalga Azravka Sirjava Stirjava Utjasha Ange Alguzha Alkazha Anjelina Arguma Arta Artana Ashava Ashnaza Baigusha Bazhana Bazhata Bazhjena Bazhuta Vazhava Vazhena Valdava Valdasja Valdusha Valguzha Vandola Vastanja Vedeneja Vezhana Vezhava Velmata Vechkana Vidjava Vitava Vijana Virineja Zehel Inzhanja Ines Injuva Injuta Istarta Kastargo Kastusha Kastus Kanjova Kanjava Kanjuva Kiljava Kevganja Kevge Kemal Kemelte Kuljasha Lijana Lada Ladava Laimar Lamzur Mazanja Metkaza Mijanza Mazava Najana Nuja Narusha Nalkuma Pijada Pijana Pijanza Paksjaltja Paksjuta Parava Selema Sijana Sola Solanja Syrnezha Senjezha Setmela Sjumerge Tashtana Telena Teshtela Tejana Tikshana Tirjana Tundal Tundalja Tundanja Chevgine Chipanja Eizjural Eljuva Erjana Ergana Ergela Ermeza Jamzjur Kara Jaga Kizor Algas Ramas Erjekai Pangai Kujama Paranza Narchatka
 		}
 		from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
@@ -2114,20 +2067,10 @@ finno_ugric = {
 		color = { 0.4 0.75 0.6 }
 
 		male_names = {
-			Akpars Andyamo Chichayka Èumbylat Dergun Deryab Dobrinya Inzhay Kezhapa Kezhay Kezhedey Kezhevat Kichay Kubrat Malyaka Malyy Meltsayka 
-			Nalka Nuyaksha Nuyanza Nuyat Ovtay Pakstyan Paksyay Paksyut Parush Pivtsay Pokshayka Putyayka Setyamka Shindyay Syrka Tikshayka
-			Tyueykezhut Uchva Varaka Vechkas Velmayka Virdyan Viryas Viryay Kai Kardaz Kinyak Koshel Naruchad Orunza
-			Saksa Surt Tutyra Tylmache Tylze Uþara Poltyð Jeratlem Ðuet Tükan Èimale Kukarka Altyð Akpatyr Sjar Kotsa Bai Pondað Akmazik Kildibek 
-			Kugyrak Onar Onaj Jorok Salij Orèama Izim Alataj Iserge Kori Keèe Vylyp Akaz Janjygyt Küðyla Kuèma Pakðova Roð Sarbosa Ðerekej Patyj 
-			Patyras Patyk Odo Èolman Torkan Marþan Ponjaj Seze Kenèyvaj Kambar Jamyð Pyrgynde Paðbek Tajmyr Rjaþan Ajmak Karmaj Èoraj Aðplat Almakaj 
-			Ðabyk Sapar Pajgyð Èemekej Jatman Janduð Pektemyr Èotkar Pinþe Toi Saran Jagelde Pasjyvy Tsuèka Onèep Eðtrek Janakta Ursa Ðengðe Nekoð Adaj Mamiè-Berdej Kaèak Örtömö Erkeèe Iðko Toktauð Pajmas Kuntsems
+			Akpars Chumbylat Tylze Uzhara Poltysh Jeratlem Shuet Tükan Chimale Kukarka Altysh Akpatyr Sjar Kotsa Bai Pondash Akmazik Kildibek Kugyrak Onar Onai Jorok Sali Orchama Izim Alatai Izerge Kori Keche Vylyp Akaz Janjygyt Küshyla Kuchma Pakshova Rosh Sarbosa Sherekei Patyi Patyras Patyk Odo Cholman Torkan Marzhan Ponjai Seze Kenchyvai Kambar Jamysh Pyrgynde Pashbek Taimyr Rjazhan Aimak Karmai Chorai Ashplat Almakai Shabyk Sapar Paigysh Chemekei Jatman Jandush Pektemyr Chotkar Pinzhe Toi Saran Jagelde Pasjyvy Tsuchka Onchep Janakta Ursa Shengshe Adai Mamich Berdei Kachak Örtömö Erkeche Ishko Toktaush Paimas Kuntsems Epanai Akrei Saran Kai Aigobek Aidush Aiplat Aigelde Paimet Toimet Aimet Samet Sibator Jangul Aktanai Ipai Shemvui Vasli Lapkas Korak Janygit Erkai Kubakai Sarandai Aivika Julavi Shamrat Sarman Toiderek Akterek Ishterek Jamet Paigelde Saigelde Anzyl Varash Kürtnjypatyr Jolagai Jükserge Jüshterge Maska Ozanai Osherge Parsai Shemvui Shumat Jumpatyr Jamshan Pötyr Vödyr Jyvan Iden Kamai Pashkan Boltush Patyr Aideme
 		}
 		female_names = {
-			Anava Ashava Asrava Azra-Va Chechama Chenksa Cherava Chichayka Chindyapa Chindyayka Chinzhay Chitska Elyuva Inyava Kanyava Kanyuva
-			Kirdyava Kunava Kunyavka Litava Liyava Mazava Megurka Mel'shay Nezayka Nulzyava Nuyanza Nyal'ka Nyayka Olota Ordava Oshama Parava Pekshayka
-			Pemka Pokshava Poshayka Potekay Potyava Putyayka Ravzhava Ruzava Sanal'ka Sangasa Sernyava Serzhay Setyamka Seyamka Shonzhava
-			Shukshtoroyka Sinyava Siyamka Slyugan'ka Sochava Styaka Syryava Tatka Tekay Tetyava Tikshayka Toyaksha Tundava Tundya Unzhutka Upurga
-			Utyayka Valdava Vergava Vezhav Vidyava Virtyava Yalgava Litova Mastorava Noroava
+			Pampalche Jüktalche Parnjakai Asylbi Pijambar Ovda Uvani Chachavi Evika Erika Elika Lystavi Sylvi Ervi Aivi Astalche Jüksüdyr Kechevi Kugüdyr Oshalche Pashache Salika Tulpeledysh Peledysh Uvi Shymai Sonimak Irga Jükse Ava Üdyr Vate Üdyramash Jytyra Chever Saska Merang
 		}
 		from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
