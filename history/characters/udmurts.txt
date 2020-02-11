@@ -16,36 +16,50 @@
 	religion="finnish_pagan"
 	culture="udmurt"
 	father = 8880041
-	825.7.5={
+	827.7.5={
 		birth=yes
 	}
-	890.1.1={
+	910.1.1={
 		death=yes
 	}
 }
 8880043 = {
-	name="Oşmeg"
+	name="Ozshmeg"
 	dynasty=9990005
 	religion="finnish_pagan"
 	culture="udmurt"
 	father = 8880042
-	885.7.5={
+	895.7.5={
 		birth=yes
 	}
-	970.1.1={
+	1030.1.1={
 		death=yes
 	}
 }
+8880079 = {
+	name="Spira"
+	dynasty=9990005
+	religion="finnish_pagan"
+	culture="udmurt"
+	father = 8880043
+	1010.7.5={
+		birth=yes
+	}
+	1065.1.1={
+		death=yes
+	}
+}
+
 8880044 = {
 	name="Eshterek"
 	dynasty=9990005
 	religion="finnish_pagan"
 	culture="udmurt"
-	father = 8880043
-	965.7.5={
+	father = 8880079
+	1040.1.1={
 		birth=yes
 	}
-	1077.1.1={
+	1087.1.1={
 		death=yes
 	}
 }

@@ -27,12 +27,12 @@ e_pirates = {
 # SPECIAL TITLES
 
 e_finnic = {
-	color={ 70 150 90 }
+	color={ 75 176 170}
 	color={ 255 255 255 }
 	capital = 378 #kaleva
 
 	k_estonia = {			#new with HF
-		color={ 125 75 75 }
+		color={ 80 115 159 }
         color2={ 255 255 255 }
         
         culture = ugricbaltic
@@ -46,7 +46,8 @@ e_finnic = {
         baltic_pagan_reformed = 250 # Crusade target weight
 		
 		d_esthonia = {
-			color={ 150 75 75 }
+			color={ 27 90 165 }
+			
 			color2={ 255 255 255 }
 			
 			capital = 378 # Kalevan
@@ -54,7 +55,7 @@ e_finnic = {
 			culture = ugricbaltic
 		
 			c_reval = {
-				color={ 160 85 85 }
+				color={ 24 87 155 }
 				color2={ 255 255 255 }
 				
 				ugricbaltic = "Rävala"
@@ -102,7 +103,7 @@ e_finnic = {
 				}
 			}
 			c_narva = {
-				color={ 175 55 55 }
+				color={ 80 115 158 }
 				color2={ 255 255 255 }
 				
 				ugricbaltic = Viru
@@ -128,7 +129,7 @@ e_finnic = {
 				}
 			}
 			c_livs = {
-				color={ 170 50 50 }
+				color={ 71 136 196 }
 				color2={ 255 255 255 }
 
 				ugricbaltic = Läänemaa
@@ -161,7 +162,7 @@ e_finnic = {
 			}
 
 			c_osel = {
-				color={ 101 48 48 }
+				color={ 80 115 159 }
 				color2={ 255 255 255 }
 				
 				swedish = "Ösel"
@@ -207,7 +208,7 @@ e_finnic = {
 			}
 		}
 		d_ugandi = {		#New with HF
-			color={ 185 80 58}
+			color={ 74 174 169}
 			color2={ 255 255 255 }   
 			
 			capital = 375 # Lettigaliens = Liivimaa
@@ -215,7 +216,7 @@ e_finnic = {
 			culture = ugricbaltic
 		
 			c_dorpat = {		#Moved here with HF
-				color={ 115 5 5 }
+				color={ 60 144 103}
 				color2={ 255 255 255 }
 				
 				swedish = "Dorpat"
@@ -247,7 +248,7 @@ e_finnic = {
 				}
 			}
 			c_izborsk = {
-				color={ 160 180 120 }
+				color={ 137 168 182 }
 				color2={ 255 255 255 }
 				
 				ugricbaltic = "Seto"
@@ -282,7 +283,7 @@ e_finnic = {
 			}
 		}
 		d_sakala = {		#New with HF
-			color={ 140 60 60 }
+			color={ 77 134 203 }
 			color2={ 255 255 255 }
 			
 			capital = 375 # Lettigaliens = Liivimaa
@@ -290,7 +291,7 @@ e_finnic = {
 			culture = ugricbaltic
 		
 			c_lettigalians = {
-				color={ 125 50 50 }
+				color={ 3 167 236 }
 				color2={ 255 255 255 }
 
 				ugricbaltic = "Sakala"
@@ -350,7 +351,7 @@ e_finnic = {
 				}
 			}			
 			c_vaiga = {
-				color={ 120 45 45 }
+				color={ 77 160 204 }
 				color2={ 255 255 255 }
 
 				b_kassinurme = {
@@ -361,7 +362,7 @@ e_finnic = {
 				}
 			}
 			c_jarva = {
-				color={ 98 40 40 }
+				color={ 5 121 171 }
 				color2={ 255 255 255 }
 				
 				swedish = "Järvamaa"
@@ -384,7 +385,7 @@ e_finnic = {
 			}
 		}
 		d_ingeria = {		
-			color={ 145 155 85 }
+			color={ 104 128 142 }
 			color2={ 250 245 235 }
 			
 			capital = 409 # Ladoga
@@ -397,7 +398,7 @@ e_finnic = {
 				swedish = "Ingermanland"
 
 			c_vodi = {
-				color={ 113 0 0 }
+			color={ 88 154 184 }
 				color2={ 255 255 255 }
 				
 				ugricbaltic = "Vadja"
@@ -441,7 +442,7 @@ e_finnic = {
 				}
 			}
 			c_bezhetsky_verh = { # Ladoga
-				color={ 144 161 101 }
+				color={ 119 145 155 }
 				color2={ 255 255 255 }
 				
 				ugricbaltic  = "Laadoga"
@@ -464,7 +465,7 @@ e_finnic = {
 			}
 		}
 		d_livonia = {
-			color={ 110 50 50 }
+			color={ 62 126 101 }
 			color2={ 255 255 255 }
 			
 			capital = 375 # Liivimaa
@@ -482,7 +483,7 @@ e_finnic = {
 				religion = "norse_pagan"
 			}
 			c_riga = {
-				color={ 100 50 50 }
+				color={ 58 126 101 }
 				color2={ 255 255 255 }
 
 				ugricbaltic = "Riia"
@@ -506,7 +507,7 @@ e_finnic = {
 				}
 			}
 			c_turaida = {
-				color={ 109 55 55 }
+				color={ 21 140 145 }
 				color2={ 255 255 255 }
 
 				ugricbaltic = "Turaida"
@@ -525,7 +526,7 @@ e_finnic = {
 				}
 			}
 			c_tukums = {
-				color={ 100 50 75 }
+				color={ 112 121 119 }
 				color2={ 255 255 255 }
 				
 				b_tukums = {
@@ -1316,7 +1317,7 @@ e_finnic = {
 		}
 	}
 	k_vepsia = {
-		color={ 224 108 157 }
+		color={ 170 190 137 }
 		color2={ 255 255 255 }
 		
 		capital = 404
@@ -1517,7 +1518,7 @@ e_finnic = {
 			}
 		}	
 		d_kargopol = {
-			color={ 100 40 10 }
+			color={ 161 170 107 }
 			color2={ 255 255 255 }
 
 			capital = 1819 # Kargopol
@@ -1537,7 +1538,7 @@ e_finnic = {
 				khanty = "Karhunpuoli"
 
 			c_kargopol = {
-				color={ 100 40 10 }
+				color={ 151 167 103 }
 				color2={ 255 255 255 }
 				
 				bjarmian = "Karhunpuoli"
@@ -1624,8 +1625,8 @@ e_finnic = {
 			}
 		}
 	}
-	k_bjarmia = {
-		color={ 180 110 80 }
+	k_bjarmia = 
+		color = { 79 144 132 }
 		color2={ 255 255 255 }
 
 		capital = 1828 # Zavarot
@@ -1647,7 +1648,7 @@ e_finnic = {
 			culture = bjarmian
 			
 			c_north_dvina = {
-				color={ 106 121 61 }
+				color={ 65 144 159 }
 				color2={ 255 255 255 }
 
 				finnish = "Väina"
@@ -1724,7 +1725,7 @@ e_finnic = {
 				b_kyanda = {}
 			}
 			c_pinega = {
-				color={ 100 175 40 }
+				color={ 79 170 178 }
 				color2={ 255 255 255 }
 				
 				finnish = "Pienijoki"
@@ -13730,7 +13731,7 @@ e_italy = {
 }
 
 e_scandinavia = {
-	color={ 62 122 189 }
+	color={ 11 110 255 }
 	color2={ 255 255 0 }
 	capital = 290 # Uppland
 	
@@ -13750,7 +13751,7 @@ e_scandinavia = {
 	}
 
 	k_sweden = {
-		color={ 55 112 170 }
+		color={ 20 20 230 }
 		color2={ 255 255 0 }
 		capital = 290 # Uppland
 		
@@ -22828,8 +22829,10 @@ e_tartaria = {
 				b_polnovat = {}
 			}
 			c_obdorsk= {
+			
 				khanty="Polnovat-Vozh"
-				color={ 258 180 154 }
+				
+				color={ 201 124 80 }
 				color2={ 255 255 255 }
 
 				b_polnovat-vozh = {}
@@ -23189,7 +23192,7 @@ e_idel_ural = {
 		}
 	}
 	k_nenets = {
-		color={ 150 130 85 }
+		color={ 191 218 218 }
 		color2={ 255 255 255 }
 
 		capital = 1828 # Zavarot
@@ -23203,13 +23206,13 @@ e_idel_ural = {
 			}
 		}
 		d_nenetsia = {
-			color={ 110 125 65 }
+			color={ 200 210 225 }
 			color2={ 255 255 255 }
 
 			capital = 2022
 
 			c_shapkina = {
-				color={ 120 115 60 }
+				color={ 175 237 219 }
 				color2={ 255 255 255 }
 				
 				
@@ -23217,7 +23220,7 @@ e_idel_ural = {
 				}
 			}
 			c_laya = {
-				color={ 115 135 55 }
+				color={ 186 211 220 }
 				color2={ 255 255 255 }
 				
 				
@@ -23226,7 +23229,7 @@ e_idel_ural = {
 				}
 			}
 			c_sozva = {
-				color={ 135 145 66 }
+				color={ 183 209 230 }
 				color2={ 255 255 255 }
 				
 				
@@ -23234,7 +23237,7 @@ e_idel_ural = {
 				}
 			}
 			c_kolvavis = {
-				color={ 110 145 66 }
+				color={ 165 200 215 }
 				color2={ 255 255 255 }
 				
 				
@@ -23242,7 +23245,7 @@ e_idel_ural = {
 				}
 			}
 			c_varkut = {
-				color={ 110 145 66 }
+				color={ 180 200 225 }
 				color2={ 255 255 255 }
 				
 				
@@ -23257,7 +23260,7 @@ e_idel_ural = {
 			capital = 397
 
 			c_samoyeds = {
-				color={ 100 115 55 }
+				color={ 100 124 74 }
 				color2={ 255 255 255 }
 				
 				b_verkhmgla = {
@@ -23414,7 +23417,7 @@ e_idel_ural = {
 		}
 	}
 	k_mordva  = {
-		color={ 122 40 33}
+		color={ 206 176 25 }
 		color2={ 255 255 255 }
 		
 		capital = 588 # 
@@ -23533,7 +23536,7 @@ e_idel_ural = {
 				}
 			}
 			c_mountain_cheremisa = { 
-				color={ 240 180 19 }
+				color={ 221 185 25 }
 				color2={ 255 255 255 }
 			
 				b_simbirsk = {
@@ -23757,7 +23760,7 @@ e_idel_ural = {
 		}
 	}
 	k_mariel = {
-		color={ 175 39 76 }
+		color={ 118 185 27 }
 		color2={ 255 255 255 }
 		
 		capital = 588 # Vytla
@@ -23784,7 +23787,7 @@ e_idel_ural = {
 			capital = 588 # Cheremisa
 			
 			c_merya = { # Actually Vetluga				
-				color={ 234 174 13 }
+				color={ 172 235 90 }
 				color2={ 255 255 255 }
 			
 				b_yoshkarola = {
@@ -23805,7 +23808,7 @@ e_idel_ural = {
 				}
 			}
 			c_gorodez = {
-				color={ 193 207 149 }
+				color={ 140 235 101 }
 				color2={ 255 255 255 }
 				
 				holy_site = finnish_pagan
@@ -23899,7 +23902,7 @@ e_idel_ural = {
 			capital = 591 # Cheremisa
 	
 			c_grassland_cheremisa = { # Kerzhenets
-				color={ 231 171 10 }
+				color={ 110 185 25 }
 				color2={ 255 255 255 }
 			
 				b_yarcalli = {
@@ -23918,7 +23921,7 @@ e_idel_ural = {
 				}
 			}
 			c_zyriane = {
-				color={ 195 160 65 }
+				color={ 115 190 50 }
 				color2={ 255 255 255 }
 
 				mari = "Yakshan"
@@ -23941,16 +23944,14 @@ e_idel_ural = {
 				}
 			}
 			c_malmyzh = {
-				color={ 200 170 60 }
+				color={ 105 148 62 }
 				color2={ 255 255 255 }
-				
-				
 
 				b_malmyzh = {
 				}
 			}
 			c_vetluga = { #käkshar
-				color={ 205 174 80 }
+				color={ 124 151 41 }
 				color2={ 255 255 255 }
 				
 				b_vetluga = {
@@ -23993,7 +23994,7 @@ e_idel_ural = {
 		}
 	
 		d_perm = {
-			color={ 234 208 137 }
+			color={ 245 139 75 }
 			color2={ 255 255 255 }
 			
 			capital = 886 # Perm
@@ -24186,7 +24187,7 @@ e_idel_ural = {
 			capital = 402 # Veliky Ustug
 
 			c_veliky_ustug = {
-				color={ 125 140 80 }
+				color={ 115 130 70 }
 				color2={ 255 255 255 }
 				
 				b_velikyustug = {}
@@ -24199,7 +24200,7 @@ e_idel_ural = {
 				b_oparino = {}
 			}
 			c_bolshaya = {
-				color={ 145 160 75 }
+				color={ 145 160 44 }
 				color2={ 255 255 255 }
 
 				b_bolshaya = {}
@@ -24211,7 +24212,7 @@ e_idel_ural = {
 				b_tyva = {}
 			}
 			c_syktyvkar = {
-				color={ 120 140 95 }
+				color={ 114 166 34 }
 				color2={ 255 255 255 }
 
 				komi="Lökchim"
@@ -24354,13 +24355,13 @@ e_idel_ural = {
 			}
 		}
 		d_udmurtia = {
-			color={ 124 232 67 }
+			color={ 230 185 85 }
 			color2={ 255 255 255 }
 
 			capital = 1719# udmurtia
 
 			c_votyaki = {
-				color={ 197 162 67 }
+				color={ 232 94 79 }
 				color2={ 255 255 255 }
 			
 				b_achit = {
