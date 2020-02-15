@@ -27,7 +27,7 @@ e_pirates = {
 # SPECIAL TITLES
 
 e_finnic = {
-	color={ 75 176 170}
+	color={ 85 116 158 }
 	color={ 255 255 255 }
 	capital = 378 #kaleva
 
@@ -1317,7 +1317,7 @@ e_finnic = {
 		}
 	}
 	k_vepsia = {
-		color={ 50 177 127 }
+		color={ 50 177 130 }
 		color2={ 255 255 255 }
 		
 		capital = 404
@@ -1329,7 +1329,7 @@ e_finnic = {
 		culture = vepsian
 		
 		d_beloozero = {		#Veps
-			color={ 120 155 80 }
+			color={ 50 178 129 }
 			color2={ 255 255 255 }
 			
 			capital = 412 # Torzhok
@@ -1625,22 +1625,15 @@ e_finnic = {
 			}
 		}
 	}
-	k_bjarmia = 
-		color={ 44 96 100 }
+	k_bjarmia = {
+		color={ 45 91 103 }
 		color2={ 255 255 255 }
 
 		capital = 396 # Zavarot
 
-		allow = {
-			hidden_tooltip = {
-				OR = {
-					ai = no
-					culture = samoyed
-				}
-			}
-		}
+		
 		d_bjarmia = {
-			color={ 40 90 100 }
+			color={ 41 90 100 }
 			color2={ 255 255 255 }
 			
 			capital = 396 # Bjarmia
@@ -1705,7 +1698,7 @@ e_finnic = {
 				color2={ 255 255 255 }
 				
 				b_okladnikowa = {}
-				b_okulovsky = {				}
+				b_okulovsky = {}
 				b_kusnezowa = {}
 				b_kamenka_bj = {}
 				b_lampozhnya = {}
@@ -1745,11 +1738,20 @@ e_finnic = {
 				b_vilan = {}
 				b_nizhneye = {}
 			}
-		}		
+		}
 		d_hlynov = { # Ugra
 			color={ 54 74 105 }
 			color2={ 255 255 255 }
 			
+				finnish = "Karhunmäki"
+				lappish = "Karhunmäki"
+				ugricbaltic = "Karhunmäki"
+				komi = "Karhunmäki"
+				samoyed = "Karhunmäki"
+				mordvin = "Karhunmäki"
+				meshchera = "Karhunmäki"
+				bjarmian = "Karhunmäki"
+				
 			capital = 1826 # Ugra
 			
 			c_syrj = {
@@ -22984,9 +22986,8 @@ e_tartaria = {
 		}
 	}
 }
-
 e_idel_ural = {
-	color = { 89 175 30 }
+	color={ 248 118 45 }
 	color2={ 255 255 255 }
 
 	capital = 1715 # Käkshar
@@ -23429,7 +23430,7 @@ e_idel_ural = {
 		culture = mari
 		
 		d_mordvins = {
-			color = { 15 64 33 }
+		color={ 206 176 25 }
 			color2={ 255 255 255 }
 	
 			capital = 579 # Mordva
@@ -23521,7 +23522,7 @@ e_idel_ural = {
 			}
 		}
 		d_erzya = {
-				color={ 206 176 35 }
+				color={ 216 180 44 }
 				color2={ 255 255 255 }
 				
 				capital = 591# Erzya
@@ -23555,7 +23556,7 @@ e_idel_ural = {
 				}
 			}
 			c_nizhny_novgorod = {
-				color={ 196 210 152 }
+				color={ 230 188 25 }
 				color2={ 255 255 255 }
 				
 				komi="Obran Osh"
@@ -24129,6 +24130,9 @@ e_idel_ural = {
 			color2={ 255 255 255 }
 
 			capital = 612 # Votyaki
+			
+			komi="Keltma"
+			udmurt="Keltma"
 
 			c_komi = {
 				color={ 253 65 75 }
@@ -24183,6 +24187,10 @@ e_idel_ural = {
 		d_ustug = {
 			color={ 153 105 98 }
 			color2={ 255 255 255 }
+			
+				komi="Löckchim"
+				udmurt="Löckchim"
+				mari="Löckchim"
 
 			capital = 402 # Veliky Ustug
 
@@ -24229,7 +24237,10 @@ e_idel_ural = {
 		d_komi = {
 			color={ 242 162 132 }
 			color2={ 255 255 255 }
-
+			
+			komi="Pechöra"
+			udmurt="Pechöra"
+			
 			capital = 1827 # Lyzha
 
 			c_lyzha = {
@@ -24384,7 +24395,7 @@ e_idel_ural = {
 
 			c_udmurts = {
 				color={ 222 133 91 }
-				color2={ 255 255 255
+				color2={ 255 255 255 }
 
 				dalmatian = "Kyrikon"
 				german = "Vegl"
