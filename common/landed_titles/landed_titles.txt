@@ -23522,7 +23522,7 @@ e_idel_ural = {
 			}
 		}
 		d_erzya = {
-				color={ 216 180 44 }
+				color={ 229 185 50 }
 				color2={ 255 255 255 }
 				
 				capital = 591# Erzya

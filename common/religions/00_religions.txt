@@ -2775,3 +2775,94 @@ indian_group = {
 		intermarry = bon_reformed
 	}
 }
+
+estlamic = {
+	graphical_culture = muslimgfx
+	crusade_cb = crusade
+	playable = yes
+	hostile_within_group = yes
+	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 2 # try to convert if ai_zeal is high
+	ai_fabricate_claims = no
+	
+	color = { 0 0.5 0 }
+	
+	interface_skin = { pagan_interface }
+	
+	estlam = {
+		graphical_culture = muslimgfx
+		alternate_start = {
+			OR = {
+				year < 1100
+				has_alternate_start_parameter = { key = religion value = full_random }
+			}
+		}
+
+		icon = 4
+		heresy_icon = 9
+		
+		color = { 125 194 213  }
+		crusade_name = RYSELUS
+		scripture_name = RUNO
+		priest_title = NOITA
+		
+		high_god_name = GOD_UKKO
+		
+		god_names = {
+			GOD_UKKO GOD_PERKELE GOD_JUMI GOD_THE_GREAT_BEAR GOD_KUU GOD_TAPIO GOD_TAARA GOD_OMOL GOD_MASTOR_AVA
+		}
+		evil_god_names = {
+			TUONI TUONETAR
+		}
+		
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 1			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = no
+		defensive_attrition = yes
+		allow_looting = yes
+		seafarer = yes
+		allow_rivermovement = yes
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		
+		pc_marriage = yes # Parent/child marriage allowed
+		bs_marriage = yes # Brother/sister marriage allowed
+		
+		max_wives = 100
+		uses_decadence = yes
+		uses_jizya_tax = yes
+		
+		short_reign_opinion_year_mult = 2
+		
+		aggression = 2.0 #AI 0.2 aggression factor
+		
+		religious_clothing_head = 5
+		religious_clothing_priest = 5
+		
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = yes
+
+		intermarry = baltic_pagan
+		intermarry = finnish_pagan
+		intermarry = sunni
+		intermarry = zikri
+		intermarry = yazidi
+		intermarry = ibadi
+		intermarry = kharijite
+		intermarry = shiite
+		intermarry = druze
+		intermarry = hurufi
+		intermarry = qarmatian
+	}
+}
