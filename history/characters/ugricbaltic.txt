@@ -1,17 +1,3 @@
-6830 = {
-	name="Neeme"
-	dynasty=829
-	religion="finnish_pagan"
-	culture="ugricbaltic"
-	trait=content
-	857.1.1={
-		birth=yes
-	}
-	937.1.1={
-		death=yes
-	}
-}
-
 144640 = {
 	name="Vililemb"
 	dynasty=100376
@@ -537,7 +523,7 @@
 }
 170338 = {
 	name="Ahti"
-	dynasty=1040223
+	dynasty=829
 	religion="finnish_pagan"
 	culture="ugricbaltic"
 	738.1.1={
@@ -547,6 +533,21 @@
 		death=yes
 	}
 }
+
+6830 = {
+	name="Neeme"
+	dynasty=829
+	religion="finnish_pagan"
+	culture="ugricbaltic"
+	trait=content
+	857.1.1={
+		birth=yes
+	}
+	937.1.1={
+		death=yes
+	}
+}
+
 #d_sakala
 256005 = {				#Historical, DoB unrecorded
 	name = "Lembitu"

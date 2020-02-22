@@ -5,7 +5,7 @@ title = c_turaida
 
 # Settlements
 max_settlements = 3
-b_turaida = tribal
+b_toraida = tribal
 #b_metsapoul = temple
 #b_venden = castle
 #b_salaspils = city

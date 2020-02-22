@@ -7,22 +7,27 @@
 9990117 = {
 	name="Yura"
 	culture = khanty
+	religion = "finnish_pagan"
 }
 9990116 = {
 	name="Sheshkin"
 	culture = samoyed
+	religion = "finnish_pagan"
 }
 9990115 = {
 	name="Varnek"
 	culture = samoyed
+		religion = "finnish_pagan"
 }
 9990114 = {
 	name="Pienijoke"
 	culture = bjarmian
+		religion = "finnish_pagan"
 }
 9990113 = {
 	name="Toimit"
 	culture = bjarmian
+		religion = "finnish_pagan"
 }
 9990112 = {
 	name="Karhunpuoli"   
@@ -22410,20 +22415,12 @@
 	name="Guoládat"
 	culture="lappish"
 	religion="finnish_pagan"
-	coat_of_arms=
-	{
-		religion="finnish_pagan"
-	}
 }
 100388=
 {
 	name="Karjalainen"
-	culture="finnish"
+	culture="vepsian"
 	religion="finnish_pagan"
-	coat_of_arms=
-	{
-		religion="finnish_pagan"
-	}
 }
 100389=
 {

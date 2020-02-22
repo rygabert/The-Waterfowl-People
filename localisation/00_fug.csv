@@ -17,6 +17,7 @@ PROV591;Jov;;;;;;;;;x
 PROV584;Obran Osh;;;;;;;;;x
 PROV588;Vytla;;;;;;;;;x
 PROV1718;Chupchy;;;;;;;;;;;;;x
+PROV405;Uglovaya;x
 c_kola;Kuelnegk;x
 PROV2026;Jend-Jaha;x
 d_khanty;Owsen;x
@@ -27,22 +28,22 @@ c_kolvavis;Labaheito;x
 c_varkut;Varkuta;x
 c_tambov;Tombaks;;;;;;;;;x
 c_arzamas;Erzjamas;;;;;;;;;x
-d_maris;Turnaran;;;;;;;;;x
+#d_maris;Turnaran;;;;;;;;;x
 d_vytla;Vytla;;;;;;;;;x
 c_zyriane;Jakshan;;;;;;;;;x
 c_udmurts;Chupchy;;;;;;;;;x
 c_zaozerye;Shusht;x
-c_tikhvine;Pakshajoki;x
+#c_tikhvine;Pakshajoki;x
 c_uglich;Shyi-Ola;x
-c_yaroslavl;Shopsha;x
-c_rostov;Merja;x #
-c_suzdal;Susudal;x
+#c_yaroslavl;Shopsha;x
+#c_rostov;Merja;x #
+#c_suzdal;Susudal;x
 c_kostroma;Koshtra;x
-c_yuryev;Koloksha;x
+#c_yuryev;Koloksha;x
 c_pereyaslavl_zalessky;Voksa;x
-c_orekhovo_zouievo;Kerzhi;x
+#c_orekhovo_zouievo;Kerzhi;x
 c_vologda;Valgeda;x
-c_galich_mersky;Turnaran;x
+#c_galich_mersky;Turnaran;x
 c_veliky_ustug;Ju;x
 c_velsk;Vaga;x
 c_yezhuga;Karhunmäki;x
@@ -91,10 +92,59 @@ d_zavarot;Jend-Jaha;x
 d_yugra;Polum;x
 d_vasyugan;Numen;x
 d_om;Skewbald Horde;x
-d_votyak;Keltma;x
-c_chud;Vesolaya;x
+d_votyaki;Keltma;x
+c_chud;Uglovaya;x
 k_perm;Great Perm;x
+b_ainazi;Ainazi;x
+b_aloja;Aloja;x
+b_limbazi;Limbazi;x
+b_surguts;Surgut;x
 estlamic;Estlamic;x
 estlam;Estlam;x
 b_iru;Iru;x
 b_avinurme;Avinurme;x
+PROV387;Kuelnegk;x
+PROV1719;Chupchy;x
+PROV404;Shusht;x
+#PROV1664;Pakshajoki;x
+#PROV572;Shopsha;x
+#PROV574;Merja;x
+#PROV583;Susudal;x
+PROV407;Koshtra;x
+#PROV1680;Koloksha;x
+PROV406;Valgeda;x
+PROV586;Turnaran;x
+PROV402;Ju;x
+PROV1826;Vaga;x
+#PROV1824;Karhunmäki;x
+PROV1820;Sojanaja;x
+PROV1823;Moshang;x
+c_mezen;Moshang;x #
+PROV397;Chosha;x
+PROV1830;Jend-Jaha;x
+PROV2026;Iq-ta;x #
+PROV1828;Suhaja Neruta;x
+PROV1829;Holngow;x
+PROV889;Iz;x
+#PROV1678;Kerzhi;x
+PROV1843;Chusva;X
+PROV1840;Sedju;x
+PROV1839;Syktyv;x
+PROV1835;Izva;x
+PROV1833;Chilim;x
+PROV398;Sula;x
+#PROV401;Kuiva;x
+PROV399;Kalmova;x
+PROV593;Savala;x
+PROV592;Burtas;x
+PROV892;Polum;x
+PROV890;Kont;x
+PROV1858;Taut;x
+PROV1865;Salym;x
+PROV1859;Jogan;x
+PROV893;Sogom;x
+PROV1860;At-Jogan;x
+PROV887;Tungpoh-Wosh;x
+PROV1862;Taren;x
+PROV888;Pilva;x
+c_lettigalians;Sakala;x

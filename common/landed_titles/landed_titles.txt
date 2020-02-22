@@ -27,8 +27,8 @@ e_pirates = {
 # SPECIAL TITLES
 
 e_finnic = {
-	color={ 89 119 155 }
-	color={ 255 255 255 }
+	color={ 8 125 171 }
+	color2={ 255 255 255 }
 	capital = 378 #kaleva
 
 	k_estonia = {			#new with HF
@@ -45,6 +45,25 @@ e_finnic = {
         finnish_pagan_reformed = 300 # Crusade target weight
         baltic_pagan_reformed = 250 # Crusade target weight
 		
+		ugricbaltic = "Maavald"
+		bjarmian = "Maavald"
+		vepsian = "Maavald"
+		muroma = "Maavald"
+		mari = Maavald
+		finnish = "Maavald"
+		lappish = "Maavald"
+		komi = "Maavald"
+		udmurt = "Maavald"
+		samoyed = "Maavald"
+		mordvin = "Maavald"
+		meshchera = "Maavald"
+		khanty = "Maavald"
+		german = "Estland"
+		norse = "Estland"
+		lettigallish = "Igaunia"
+		lithuanian = "Igaunia"
+		
+		
 		d_esthonia = {
 			color={ 27 90 165 }
 			
@@ -53,6 +72,22 @@ e_finnic = {
 			capital = 378 # Kalevan
 			
 			culture = ugricbaltic
+			
+		ugricbaltic = "Rävala"
+		bjarmian = "Rävala"
+		vepsian = "Rävala"
+		muroma = "Rävala"
+		mari = Rävala
+		finnish = "Rävala"
+		lappish = "Rävala"
+		komi = "Rävala"
+		udmurt = "Rävala"
+		samoyed = "Rävala"
+		mordvin = "Rävala"
+		meshchera = "Rävala"
+		khanty = "Rävala"
+		german = "Estland"
+		norse = "Estland"
 		
 			c_reval = {
 				color={ 24 87 155 }
@@ -64,6 +99,19 @@ e_finnic = {
 				norwegian = "Reval"
 				german = "Reval"
 				norse = "Reval"
+				
+				ugricbaltic=Rävala
+				finnish=Rävala
+				komi=Rävala
+				mordvin=Rävala
+				udmurt=Rävala
+				mari = Rävala
+				samoyed=Rävala
+				lappish=Rävala
+				bjarmian=Rävala
+				meshchera=Rävala
+				muroma=Rävala
+				selkup=Rävala
 			
 				b_reval = { # Kalevan
 					swedish = "Reval"
@@ -79,7 +127,7 @@ e_finnic = {
 					german = "Domberg"
 					norse = "Domberg"
 				}
-								b_iru = {
+				b_iru = {
 				}
 				b_leal = { # Lihula
 					swedish = "Lehal"
@@ -162,6 +210,7 @@ e_finnic = {
 				norwegian = "Øsel"
 				german = "Ösel"
 
+				holy_site = estlam
 				holy_site = finnish_pagan
 				holy_site = finnish_pagan_reformed
 				
@@ -474,8 +523,6 @@ e_finnic = {
 				}
 				b_ikskile = {
 				}
-				b_turaida = {
-				}
 				b_ropazi = {
 				}
 			}
@@ -491,11 +538,12 @@ e_finnic = {
 				}
 				b_metsapoul = {
 				}
-				b_sigulda = {
+				b_ainazi = {				
+				ugricbaltic="Heinaste"				
 				}
-				b_ikskile = {
+				b_aloja = {
 				}
-				b_ropazi = {
+				b_limbazi = {
 				}
 			}
 			c_tukums = {
@@ -1396,6 +1444,21 @@ e_finnic = {
 				color={ 46 174 123 }
 				color2={ 255 255 255 }
 				
+				ugricbaltic = "Pakshajoki"
+				bjarmian = "Pakshajoki"
+				vepsian = "Pakshajoki"
+				muroma = "Pakshajoki"
+				mari = Pakshajoki
+				finnish = "Pakshajoki"
+				lappish = "Pakshajoki"
+				komi = "Pakshajoki"
+				udmurt = "Pakshajoki"
+				samoyed = "Pakshajoki"
+				mordvin = "Pakshajoki"
+				meshchera = "Pakshajoki"
+				khanty = "Pakshajoki"			
+				
+				
 				b_tikhvine = {
 				}
 				b_babayevo = {
@@ -1421,6 +1484,18 @@ e_finnic = {
 			c_vologda = {
 				color={ 31 152 98 }
 				color2={ 255 255 255 }
+				
+				komi=Valgeda
+				mordvin=Valgeda
+				udmurt=Valgeda
+				mari = Valgeda
+				samoyed=Valgeda
+				finnish=Valgeda
+				lappish=Valgeda
+				bjarmian=Valgeda
+				khanty=Valgeda
+				meshchera=Valgeda
+				muroma=Valgeda
 					
 				b_vologda = {
 				}
@@ -1443,19 +1518,18 @@ e_finnic = {
 				color={ 4 121 83 }
 				color2={ 255 255 255 }
 				
-				ugricbaltic = "Totma"
-				finnish = "Totma"
+				ugricbaltic = "Todma"
 				bjarmian = "Totma"
 				vepsian = "Totma"
-				muroma = "Totma"
-				mari = "Totma"
-				finnish = "Totma"
+				muroma = "Todma"
+				mari = Todma
+				finnish = "Todma"
 				lappish = "Totma"
-				ugricbaltic = "Totma"
-				komi = "Totma"
-				samoyed = "Totma"
+				komi = "Todma"
+				udmurt = "Todma"
+				samoyed = "Todma"
 				mordvin = "Totma"
-				meshchera = "Totma"
+				meshchera = "Todma"
 				khanty = "Totma"
 				
 				b_hlynov = {
@@ -1671,6 +1745,7 @@ e_finnic = {
 				bjarmian = "Kalmonmäke"
 
 				holy_site = finnish_pagan
+				holy_site = estlam
 				holy_site = finnish_pagan_reformed
 
 				}
@@ -1781,6 +1856,21 @@ e_finnic = {
 			c_yezhuga = {
 				color={ 23 50 67 }
 				color2={ 255 255 255 }
+				
+				
+				ugricbaltic = "Todma"
+				bjarmian = "Totma"
+				vepsian = "Totma"
+				muroma = "Todma"
+				mari = Todma
+				finnish = "Todma"
+				lappish = "Totma"
+				komi = "Todma"
+				udmurt = "Todma"
+				samoyed = "Todma"
+				mordvin = "Totma"
+				meshchera = "Todma"
+				khanty = "Totma"
 
 				b_pinega = {}
 				b_yula = {}
@@ -18338,13 +18428,13 @@ e_russia = {
 		}
 	}
 	
-	finnish = Suomi
-	lappish = Suomi
-	ugricbaltic = Suomi
-	komi = Suomi
-	samoyed = Suomi
-	mordvin = Suomi
-	meshchera = Suomi
+	finnish = Venemaa
+	lappish = Venemaa
+	ugricbaltic = Venemaa
+	komi = Venemaa
+	samoyed = Venemaa
+	mordvin = Venemaa
+	meshchera = Venemaa
 	
 	k_galicia-volhynia = {
 		color={ 50 150 130 }
@@ -19727,6 +19817,7 @@ e_russia = {
 						
 				holy_site = slavic_pagan
 				holy_site = slavic_pagan_reformed
+				holy_site = estlam
 				holy_site = finnish_pagan
 				holy_site = finnish_pagan_reformed								
 
@@ -19814,10 +19905,39 @@ e_russia = {
 			capital = 413 # Pskov
 			
 			german = "Pleskau"
+				ugricbaltic = "Pikva"
+				bjarmian = "Pikva"
+				vepsian = "Pikva"
+				muroma = "Pikva"
+				mari = "Pikva"
+				finnish = "Pikva"
+				lappish = "Pikva"
+				komi = "Pikva"
+				udmurt = "Pikva"
+				samoyed = "Pikva"
+				mordvin = "Pikva"
+				meshchera = "Pikva"
+				khanty = "Pikva"
+				selkup = "Pikva"
 
 			c_pskov = {
 				color={ 151 167 107 }
 				color2={ 255 255 255 }
+				
+				ugricbaltic = "Pikva"
+				bjarmian = "Pikva"
+				vepsian = "Pikva"
+				muroma = "Pikva"
+				mari = "Pikva"
+				finnish = "Pikva"
+				lappish = "Pikva"
+				komi = "Pikva"
+				udmurt = "Pikva"
+				samoyed = "Pikva"
+				mordvin = "Pikva"
+				meshchera = "Pikva"
+				khanty = "Pikva"
+				selkup = "Pikva"
 				
 				german = "Pleskau"
 						
@@ -19939,16 +20059,16 @@ e_russia = {
 				norse = "Sursdalar"
 				danish = "Sursdalar"
 				norwegian = "Sursdalar"
-				komi=Suzhbal
-				mordvin=Suzhbal
-				udmurt=Suzhbal
-				mari = Suzhbal
-				samoyed=Suzhbal
-				finnish=Suzhbal
-				lappish=Suzhbal
-				bjarmian=Suzhbal
-				meshchera=Suzhbal
-				muroma=Suzhbal
+				komi=Susudal
+				mordvin=Susudal
+				udmurt=Susudal
+				mari = Susudal
+				samoyed=Susudal
+				finnish=Susudal
+				lappish=Susudal
+				bjarmian=Susudal
+				meshchera=Susudal
+				muroma=Susudal
 						
 				b_suzdal = {
 					swedish = "Sursdalar"
@@ -19984,16 +20104,20 @@ e_russia = {
 				color={ 173 189 129 }
 				color2={ 255 255 255 }
 				
-				komi=Mosino
-				mordvin=Mosino
-				udmurt=Mosino
-				mari = Mosino
-				samoyed=Mosino
-				finnish=Mosino
-				lappish=Mosino
-				bjarmian=Mosino
-				meshchera=Mosino
-				muroma=Mosino
+				ugricbaltic = "Koloksha"
+				finnish = "Koloksha"
+				bjarmian = "Koloksha"
+				vepsian = "Koloksha"
+				muroma = "Koloksha"
+				mari = "Koloksha"
+				finnish = "Koloksha"
+				lappish = "Koloksha"
+				ugricbaltic = "Koloksha"
+				komi = "Koloksha"
+				samoyed = "Koloksha"
+				mordvin = "Koloksha"
+				meshchera = "Koloksha"
+				khanty = "Koloksha"
 				
 				b_yuryev = {
 				}
@@ -20014,16 +20138,17 @@ e_russia = {
 				color={ 163 179 119 }
 				color2={ 255 255 255 }
 					
-				komi=Iskobela
-				mordvin=Iskobela
-				udmurt=Iskobela
-				mari = Iskobela
-				samoyed=Iskobela
-				finnish=Iskobela
-				lappish=Iskobela
-				bjarmian=Iskobela
-				meshchera=Iskobela
-				muroma=Iskobela
+				komi=Voksa
+				mordvin=Voksa
+				udmurt=Voksa
+				mari = Voksa
+				samoyed=Voksa
+				finnish=Voksa
+				lappish=Voksa
+				bjarmian=Voksa
+				khanty=Voksa
+				meshchera=Voksa
+				muroma=Voksa
 					
 				b_pereyaslavlzalessky = {
 				}
@@ -20159,6 +20284,21 @@ e_russia = {
 			c_uglich = {
 				color={ 169 183 125 }
 				color2={ 255 255 255 }
+				
+				ugricbaltic = "Shüi-Ola"
+				finnish = "Shüi-Ola"
+				bjarmian = "Shüi-Ola"
+				vepsian = "Shüi-Ola"
+				muroma = "Shüi-Ola"
+				mari = "Shüi-Ola"
+				finnish = "Shüi-Ola"
+				lappish = "Shüi-Ola"
+				ugricbaltic = "Shüi-Ola"
+				komi = "Shüi-Ola"
+				samoyed = "Shüi-Ola"
+				mordvin = "Shüi-Ola"
+				meshchera = "Shüi-Ola"
+				khanty = "Shüi-Ola"				
 					
 				b_uglich = {
 				}
@@ -20187,7 +20327,7 @@ e_russia = {
 				finnish=Mero
 				lappish=Mero
 				meshchera=Mero
-				murom=Mero
+				muroma=Mero
 				
 				b_timerevo = {
 				}
@@ -21663,24 +21803,7 @@ e_tartaria = {
 				b_naryk = {}
 				b_belogorsk = {}
 			}
-			c_erchis = {
-				color = { 130 128 230 }
-				
-				b_erchis = {
-				}
-				b_korya = {
-				}#Pavlodar
-				b_semey = {
-				}
-				b_aqsw = {
-				}
-				b_ekibastuz = {
-				}
-				b_ertis = {
-				}
-				b_koktobe = {
-				}
-			}
+
 		}
 		d_otuken = {
 			color = { 110 150 220 }
@@ -22657,7 +22780,7 @@ e_tartaria = {
 				color={ 227 174 31 }
 				color2={ 255 255 255 }
 			
-				b_surgut = {
+				b_surguts = {
 				}
 				b_belyyyar = {
 				}
@@ -23737,16 +23860,20 @@ e_idel_ural = {
 				color={ 125 130 40 }
 				color2={ 255 255 255 }
 				
-				komi=Zuevo
-				mordvin=Zuevo
-				udmurt=Zuevo
-				mari = Zuevo
-				samoyed=Zuevo
-				finnish=Zuevo
-				lappish=Zuevo
-				bjarmian=Zuevo
-				meshchera=Zuevo
-				muroma=Zuevo
+				ugricbaltic = "Kerzhi"
+				finnish = "Kerzhi"
+				bjarmian = "Kerzhi"
+				vepsian = "Kerzhi"
+				muroma = "Kerzhi"
+				mari = "Kerzhi"
+				finnish = "Kerzhi"
+				lappish = "Kerzhi"
+				ugricbaltic = "Kerzhi"
+				komi = "Kerzhi"
+				samoyed = "Kerzhi"
+				mordvin = "Kerzhi"
+				meshchera = "Kerzhi"
+				khanty = "Kerzhi"
 				
 				b_orekhovo-zouievo = {
 				}
@@ -23892,6 +24019,7 @@ e_idel_ural = {
 				color={ 240 115 41 }
 				color2={ 255 255 255 }
 				
+				holy_site = estlam
 				holy_site = finnish_pagan
 				holy_site = finnish_pagan_reformed
 						
@@ -23932,25 +24060,38 @@ e_idel_ural = {
 			capital = 588 # Mari
 			
 			culture = mari
+			
+				ugricbaltic = "Turnaran"
+				bjarmian = "Turnaran"
+				vepsian = "Turnaran"
+				muroma = "Turnaran"
+				mari = "Turnaran"
+				finnish = "Turnaran"
+				lappish = "Turnaran"
+				komi = "Turnaran"
+				udmurt = "Turnaran"
+				samoyed = "Turnaran"
+				mordvin = "Turnaran"
+				meshchera = "Turnaran"
+				khanty = "Turnaran"	
 
 			c_kostroma = {
 				color={ 202 211 49 }
 				color2={ 255 255 255 }
 				
-				ugricbaltic = "Kostromoka"
-				finnish = "Kostromoka"
-				bjarmian = "Kostromoka"
-				vepsian = "Kostromoka"
-				muroma = "Kostromoka"
-				mari = "Kostromoka"
-				finnish = "Kostromoka"
-				lappish = "Kostromoka"
-				ugricbaltic = "Kostromoka"
-				komi = "Kostromoka"
-				samoyed = "Kostromoka"
-				mordvin = "Kostromoka"
-				meshchera = "Kostromoka"
-				khanty = "Kostromoka"
+				ugricbaltic = "Koshtra"
+				bjarmian = "Koshtra"
+				vepsian = "Koshtra"
+				muroma = "Koshtra"
+				mari = "Koshtra"
+				finnish = "Koshtra"
+				lappish = "Koshtra"
+				komi = "Koshtra"
+				udmurt = "Koshtra"
+				samoyed = "Koshtra"
+				mordvin = "Koshtra"
+				meshchera = "Koshtra"
+				khanty = "Koshtra"	
 
 						
 				b_kostroma = {
@@ -23974,20 +24115,20 @@ e_idel_ural = {
 				color={ 229 219 104 }
 				color2={ 255 255 255 }
 				
-				ugricbaltic = "Chukhloma"
-				finnish = "Chukhloma"
-				bjarmian = "Chukhloma"
-				vepsian = "Chukhloma"
-				muroma = "Chukhloma"
-				mari = Chukhloma
-				finnish = "Chukhloma"
-				lappish = "Chukhloma"
-				ugricbaltic = "Chukhloma"
-				komi = "Chukhloma"
-				samoyed = "Chukhloma"
-				mordvin = "Chukhloma"
-				meshchera = "Chukhloma"
-				khanty = "Chukhloma"
+				ugricbaltic = "Turnaran"
+				bjarmian = "Turnaran"
+				vepsian = "Turnaran"
+				muroma = "Turnaran"
+				mari = "Turnaran"
+				finnish = "Turnaran"
+				lappish = "Turnaran"
+				komi = "Turnaran"
+				udmurt = "Turnaran"
+				samoyed = "Turnaran"
+				mordvin = "Turnaran"
+				meshchera = "Turnaran"
+				khanty = "Turnaran"	
+				russian = "Galich Mersky"
 						
 				b_galichmersky = {
 				}
@@ -24114,7 +24255,8 @@ e_idel_ural = {
 			c_perm = {
 				color={ 202 67 48}
 				color2={ 255 255 255 }
-
+				
+				holy_site = estlam
 				holy_site = finnish_pagan
 				holy_site = finnish_pagan_reformed
 
@@ -24561,20 +24703,6 @@ e_idel_ural = {
 				color={ 222 160 124 }
 				color2={ 255 255 255 }
 				
-				ugricbaltic = "Totma"
-				finnish = "Totma"
-				bjarmian = "Totma"
-				vepsian = "Totma"
-				muroma = "Totma"
-				mari = Totma
-				finnish = "Totma"
-				lappish = "Totma"
-				ugricbaltic = "Totma"
-				komi = "Totma"
-				samoyed = "Totma"
-				mordvin = "Totma"
-				meshchera = "Totma"
-				khanty = "Totma"
 				
 				b_khlynov = {
 				}
