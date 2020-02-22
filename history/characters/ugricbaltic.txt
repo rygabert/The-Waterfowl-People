@@ -555,6 +555,7 @@
 	culture = ugricbaltic
 	father = 256007
 	trait = brave
+	trait = strong
 	trait = skilled_tactician
 	1176.3.20 = {
 		birth = yes
@@ -572,6 +573,7 @@
 	dynasty = 1061003
 	religion = finnish_pagan
 	culture = ugricbaltic
+	trait = strong
 	father = 256007
 	1167.7.4 = {
 		birth = yes
@@ -737,6 +739,7 @@
 	culture = ugricbaltic
 	1068.7.1 = {
 		birth = yes
+		capital= c_osel
 	}
 	1145.8.12 = {
 		death = yes
@@ -750,6 +753,7 @@
 	father = 256017
 	1095.7.25 = {
 		birth = yes
+		capital= c_osel
 	}
 	1158.2.15 = {
 		death = yes
@@ -763,6 +767,8 @@
 	father = 256018
 	1121.8.9 = {
 		birth = yes
+		capital= c_osel
+
 	}
 	1200.4.14 = {
 		death = yes
@@ -776,6 +782,7 @@
 	father = 256019
 	1165.1.29 = {
 		birth = yes
+		capital= c_osel
 	}
 	1228.1.25 = {
 		death = yes

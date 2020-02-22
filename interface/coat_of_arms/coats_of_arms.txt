@@ -832,12 +832,16 @@ culture =
 	}
 	
 	color = {
-		{ 250 190 0 }	#0 		Or
-		{ 220 220 220 } #1  	Argent
-		{ 0 80 170 } 	#2  	Bleu du nord
-		{ 150 0 30 } 	#3  	De sang 
-		{ 70 120 40 }	#4  	Vert
-		{ 20 20 20 }	#5  	Sable
+		{ 250 190 0 }	#0 		Kuldne
+		{ 220 220 220 } #1  	valge
+		{ 0 80 170 } 	#2  	sinine
+		{ 150 0 30 } 	#3  	tumepunane
+		{ 70 120 40 }	#4  	roheline
+		{ 20 20 20 }	#5  	must
+		{ 216 176 25 }	#0 		Kaka kollane
+		{ 153 104 98 }	#0 		Puidu kakane
+		{ 70 124 142 }	#0 		tumesinine
+		
 	}
 	
 	rebel_colors = { 1 2 5 }

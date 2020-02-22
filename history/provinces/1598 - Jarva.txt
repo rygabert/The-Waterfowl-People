@@ -1,0 +1,29 @@
+# 1595 - Jarva
+
+# County Title
+title = c_jarva
+
+# Settlements
+max_settlements = 3
+b_alempois = tribal
+#b_vaiga = temple
+
+#b_mohu = castle
+#b_jogentagana = castle
+#b_sackal = castle		#fictional
+
+# Misc
+culture = ugricbaltic
+religion = finnish_pagan
+
+# History
+1290.1.1 = {
+	religion = catholic
+	b_alempois  = castle
+	b_alempois = temple
+	b_alempois = ca_keep_1
+	b_alempois = ca_militia_barracks_1
+	b_alempois  = ca_wall_1
+	b_alempois  = ca_wall_q_1
+	b_vaiga = tp_barracks_1
+}

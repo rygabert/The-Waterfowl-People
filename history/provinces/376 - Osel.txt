@@ -5,12 +5,13 @@ title = c_osel
 
 # Settlements
 max_settlements = 3
-b_muhu = tribal
-#b_kuressare = city
-b_hiiumaa = temple
 
-#b_valjala = castle
-#b_poide = castle
+
+b_valjala = tribal
+b_poide = temple
+#b_muhu = tribal
+#b_kuressare = city
+#b_hiiumaa = temple
 #b_leisi = castle
 #b_orisaare = castle
 #b_kaarma = castle

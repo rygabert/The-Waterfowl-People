@@ -35,7 +35,7 @@ c_zaozerye;Shusht;x
 c_tikhvine;Pakshajoki;x
 c_uglich;Shyi-Ola;x
 c_yaroslavl;Shopsha;x
-c_rostov;Merja;x
+c_rostov;Merja;x #
 c_suzdal;Susudal;x
 c_kostroma;Koshtra;x
 c_yuryev;Koloksha;x
@@ -91,6 +91,10 @@ d_zavarot;Jend-Jaha;x
 d_yugra;Polum;x
 d_vasyugan;Numen;x
 d_om;Skewbald Horde;x
+d_votyak;Keltma;x
+c_chud;Vesolaya;x
 k_perm;Great Perm;x
 estlamic;Estlamic;x
 estlam;Estlam;x
+b_iru;Iru;x
+b_avinurme;Avinurme;x
