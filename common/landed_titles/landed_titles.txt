@@ -1858,19 +1858,19 @@ e_finnic = {
 				color2={ 255 255 255 }
 				
 				
-				ugricbaltic = "Todma"
-				bjarmian = "Totma"
-				vepsian = "Totma"
-				muroma = "Todma"
-				mari = Todma
-				finnish = "Todma"
-				lappish = "Totma"
-				komi = "Todma"
-				udmurt = "Todma"
-				samoyed = "Todma"
-				mordvin = "Totma"
-				meshchera = "Todma"
-				khanty = "Totma"
+				ugricbaltic = "Karhunmäki"
+				bjarmian = "Karhunmäki"
+				vepsian = "Karhunmäki"
+				muroma = "Karhunmäki"
+				mari = Karhunmäki
+				finnish = "Karhunmäki"
+				lappish = "Karhunmäki"
+				komi = "Karhunmäki"
+				udmurt = "Karhunmäki"
+				samoyed = "Karhunmäki"
+				mordvin = "Karhunmäki"
+				meshchera = "Karhunmäki"
+				khanty = "Karhunmäki"
 
 				b_pinega = {}
 				b_yula = {}

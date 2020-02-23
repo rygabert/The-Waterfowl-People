@@ -16,7 +16,7 @@ PROV589;Kugu Kakshan;;;;;;;;;x
 PROV591;Jov;;;;;;;;;x
 PROV584;Obran Osh;;;;;;;;;x
 PROV588;Vytla;;;;;;;;;x
-PROV1718;Chupchy;;;;;;;;;;;;;x
+#PROV1718;Chupchy;;;;;;;;;;;;;x
 PROV405;Uglovaya;x
 c_kola;Kuelnegk;x
 PROV2026;Jend-Jaha;x
@@ -31,7 +31,7 @@ c_arzamas;Erzjamas;;;;;;;;;x
 #d_maris;Turnaran;;;;;;;;;x
 d_vytla;Vytla;;;;;;;;;x
 c_zyriane;Jakshan;;;;;;;;;x
-c_udmurts;Chupchy;;;;;;;;;x
+#c_udmurts;Chupchy;;;;;;;;;x
 c_zaozerye;Shusht;x
 #c_tikhvine;Pakshajoki;x
 c_uglich;Shyi-Ola;x
@@ -104,7 +104,7 @@ estlam;Estlam;x
 b_iru;Iru;x
 b_avinurme;Avinurme;x
 PROV387;Kuelnegk;x
-PROV1719;Chupchy;x
+#PROV1719;Chupchy;x
 PROV404;Shusht;x
 #PROV1664;Pakshajoki;x
 #PROV572;Shopsha;x

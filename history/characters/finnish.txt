@@ -1112,7 +1112,7 @@
 	dynasty=100384
 	religion="finnish_pagan"
 	culture="finnish"
-	father=1000012
+	father=1000013
 	738.1.1={
 		birth=yes
 		capital = c_satakunta
@@ -1213,7 +1213,7 @@
 	dynasty=100383
 	religion="finnish_pagan"
 	culture="finnish"
-	father=1000012
+	father=1000013
 	737.1.1={
 		birth=yes
 

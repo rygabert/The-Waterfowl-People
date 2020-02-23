@@ -16,7 +16,7 @@
 1063.1.1 = {
 	holder = 8880075
 }
-1118.1.1 = {
+1181.1.1 = {
 	holder = 8880076 # Chumbylat 1181 kotelnichti vallutus
 }
 

@@ -25,7 +25,7 @@
 }
 8880202 = {
 	name="Yamashan"
-	dynasty=9990010 #Yuma eratlem
+	dynasty=9990010 #Yuma_eratlem
 	religion="finnish_pagan"
 	culture="mari"
 	father=8880201
@@ -37,7 +37,7 @@
 	}
 }
 8880203 = {
-	name="Ursa""
+	name="Ursa"
 	dynasty=9990010 #Yuma eratlem
 	religion="finnish_pagan"
 	culture="mari"
@@ -63,7 +63,7 @@
 	}
 }
 8880205 = {
-	name=""Yamashan"
+	name="Yamashan"
 	dynasty=9990010 #Yuma eratlem
 	religion="finnish_pagan"
 	culture="mari"

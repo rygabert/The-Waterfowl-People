@@ -127,7 +127,7 @@ k_bjarmia;Bjarmia;;;;;;;;;x
 c_zyriane;Yakshan;;;;;;;;;x
 c_tsepel;Tshepel;Tsepel;Tsepel;Tsepel;;;;;;;;;x
 c_selikasa;Selikasa;Ingriens;Ingrier;Ingrians;;;;;;;;;x
-c_udmurts;Chupci;;;;;;;;;x
+c_udmurts;Kilmez;;;;;;;;;x
 e_finnic;Kaleva;;;;;;;;;x
 e_idel_ural;Volga-Perm;;;;;;;;;x
 b_toraida;Toraida;;;;;;;;;x
@@ -185,16 +185,16 @@ PROV589;Kerzhenets;Kerjenets;Kerschenez;;Kerzhenets;;;;;;;;;x
 PROV591;Cheremisa;Tchérémisse;Tscheremiss;;Cheremisa;;;;;;;;;x
 ERA_FUG1; Tyushten of Murunza;;;;;;;;;x
 ERA_CHAR_INFO_9194152; Tyushten was a legendary Mokshan king. Folk tales tell that he united the lands of the Moksha, Erzya and Mescheran people. Some even say that during his rule, Mokshan land stretched from Volga to Dnieper and from the Oka to the Black Sea.;;;;;;;;;x
-ERA_FUG2; Kaupo of Iru;;;;;;;;;x
+ERA_FUG2;Kaupo of Iru;;;;;;;;;x
 ERA_CHAR_INFO_170347; Fictional high Chief of Iru and great-grandsons of Kalev. His ancestors established Rävala after the great calamity centuries ago. ;;;;;;;;;x
 ERA_FUG3; Ihala of Eura;;;;;;;;;x
-ERA_FUG4; Lembitu of Lehola;x
-ERA_CHAR_INFO_256005;Lembitu is a king of Sakala and leader of Estonians in the struggle against the christian crusaders. He is destined to become a king of Estonia, just like Kalev was centuries ago, but first you have to defeat the Germans and their allies. ;x
+ERA_FUG4;Lembitu of Lehola;x
+ERA_CHAR_INFO_256005;Lembitu was a king of Sakala and leader of the Estonians in the struggle against the Christian crusaders. He was destined to become a king of Estonia, just like Kalev centuries ago, but first but that won't happen unless the crusading Germans and their ilk are defeated;x
 ERA_FUG5; Chumbylat of Kokshar;x
-ERA_CHAR_INFO_8880076; Chumbylat was a ruler of the northern Mari and country of Kokshar. Later, the Mari people considered Chumbylat their king. Before going to battle, Chumbylat and his companions prayed in the sacred groves accompanied by a zither ensemble. ;x
+ERA_CHAR_INFO_8880076;Chumbylat was a ruler of the northern Mari and country of Kokshar. Later, the Mari people considered Chumbylat their king. Before going to battle, Chumbylat and his companions prayed in the sacred groves accompanied by a zither ensemble. ;x
 ERA_CHAR_INFO_170306; Fictional high Chief of Eura and great-grandson of Kalev who established Kaukamieli clan after great calamity struck the Baltic sea peoples;;;;;;;;;x
 ERA_FUG6; King Valdemar II of Denmark ;;;;;;;;;x
-ERA_CHAR_INFO_201501; The Teutonic Knights, who had been attempting to Christianize the peoples of the eastern Baltic, were being hard pressed and turned to Valdemar for help. Pope Honorius III elevated Valdemar's invasion of Estonia into a crusade. Valdemar raised an army and called all of Denmark's ships to gather to transport the army eastward.;;;;;;;;;x
+ERA_CHAR_INFO_201501; The Teutonic Knights, who had been attempting to Christianize the peoples of the eastern Baltic, were being hard-pressed and turned to Valdemar for help. Pope Honorius III elevated Valdemar's invasion of Estonia into a crusade. Valdemar raised an army and called all of Denmark's ships to gather to transport the army eastward.;;;;;;;;;x
 BM_THE_NORTHERN_CRUSADES;The Northern Crusades;;;;;;;;;x
 BM_THE_NORTHERN_CRUSADES_DESC;By the year 1208, the German crusaders subjugated Livonians, Latgalians,  Selonians and prepared the invasion against the Estonian kings, whom of Lembitu was most well known. Most vicious of the crusaders was the Livonian king Kaupo, who had a bloody history with Sakalian Estonians. At the same time, Swedish and Danish rulers also set their eyes on the Baltic lands. Further to the east, King Chymbylat had united the fractured Mari lands into one, but their people still face existential threat against foreign invaders,  just like Estonians and Finns.;;;;;;;;;x
 warrior_lodge_finnishw_real;The Knitting Lodge;Fidèles d'Otso;Anhänger von Otso;;los Seguidores de Otso;;;;;;;;;x
@@ -202,27 +202,27 @@ warrior_lodge_finnishw_desc_real;The Finno-Ugric women dedicate themselves to kn
 warrior_lodge_finnishw_leader_desc;[GetSocietyLeaderDesc];[GetSocietyLeaderDesc];[GetSocietyLeaderDesc];;[GetSocietyLeaderDesc];;;;;;;;;x
 warrior_lodge_finnishw;The Knitting Lodge;[GetFinnishWarriorSocietyName];[GetFinnishWarriorSocietyName];;[GetFinnishWarriorSocietyName];;;;;;;;x
 warrior_lodge_finnishw_desc;The Finno-Ugric women dedicate themselves to knitting, leatherworking, weaving, wool spinning, and many other creative endeavors. Make a name of yourself and bring honor to your clan by creating stunning art and equipment. ;Les adeptes suomenuskos d'Otso tirent leur force de l'adoration de l'ours, qu'ils appellent « le roi de la forêt ». Ils ne prononcent même pas son nom tant l'animal est sacré. Après en avoir chassé un, un rituel complexe doit avoir lieu visant à convaincre l'ours qu'il n'a pas été tué, mais qu'il est mort par sa propre faute, de sorte que ses chasseurs puissent revêtir sa fourrure.;Die suomenuskoischen Anhänger von Otso sprechen nicht einmal den Namen des heiligen Tieres aus, sondern schöpfen ihre Kraft aus der Verehrung des Bären und nennen ihn "den König des Waldes". Nach der Jagd muss ein komplexes Ritual durchgeführt werden, bei dem der Bär davon überzeugt wird, dass er nicht getötet wurde, sondern aufgrund des eigenen Verschuldens starb, damit sich seine Jäger selbst mit dem Fell bekleiden können.;;Los seguidores suomenuskos de Otso ni siquiera pronuncian el nombre del animal sagrado, sino que sacan la fuerza de adorar al oso, llamándolo "el Rey del Bosque". Tras cazar uno, debe tener lugar un complejo ritual, en el que se convence al oso de que no fue asesinado, sino que murió por su propia culpa, de modo que sus cazadores pueden ponerse su pelaje.;;;;;;;;;x
-LOADING_TIP_0; People back then didn't know much, but they undestood everything. Today we know alot but don't understand anything.;;;;;;;;;x
-LOADING_TIP_1; Paska on talonpojan kultaa - Shit is peasant's gold.;;;;;;;;;x
-LOADING_TIP_2; Mikä laulaen tulee, se viheltäen menee - What comes singing, leaves whistling.;;;;;;;;;x
-LOADING_TIP_3; Joutsen on ihmisestä rikottu linnuksi - A swan has been broken from man into a bird.;;;;;;;;;x
-LOADING_TIP_4; It's not exactly a good idea to heat your home with logs taken from the walls of your own house.;;;;;;;;;x
-LOADING_TIP_5; People back then didn't know much, but they undestood everything. Today we know alot but don't understand anything.;;;;;;;;;x
-LOADING_TIP_6; Ei parta pahoille kasva, turpajouhet joutaville.Joka kuuseen kurkottaa, se katajaan kapsahtaa.Vesi vanhin voitehista.Ei vara venettä kaada.;;;;;;;;;x
+LOADING_TIP_0; People back then didn't know much, but they understood everything. Nowadays we know a lot, but don't understand anything.;;;;;;;;;x
+LOADING_TIP_1; Paska on talonpojan kultaa - Shit is a peasant's gold.;;;;;;;;;x
+LOADING_TIP_2; Mikä laulaen tulee, se viheltäen menee - What comes singing, will leave whistling.;;;;;;;;;x
+LOADING_TIP_3; Joutsen on ihmisestä rikottu linnuksi - The swan is a human broken into a bird..;;;;;;;;;x
+LOADING_TIP_4; It's not exactly a good idea to heat your home with logs taken from the walls of your own home.;;;;;;;;;x
+LOADING_TIP_5; People back then didn't know much, but they understood everything. Nowadays we know a lot, but don't understand anything.;;;;;;;;;x
+LOADING_TIP_6; Ei parta pahoille kasva, turpajouhet joutaville. Joka kuuseen kurkottaa, se katajaan kapsahtaa. Vesi vanhin voitehista. Ei vara venettä kaada.;;;;;;;;;x
 LOADING_TIP_7; Isamaa ilu hoieldes, võõraste vastu võideldes. Varisesid vaprad vallad, kolletasid kihelkonnad muistse põlve mulla alla.;;;;;;;;;x
 LOADING_TIP_8; Olukord on sitt, kuid see on meie tuleviku väetis.;;;;;;;;;x
-LOADING_TIP_9; People back then didn't know much, but they undestood everything. Today we know alot but don't understand anything.;;;;;;;;;x
-LOADING_TIP_10; Paska on talonpojan kultaa - Shit is peasant's gold.;;;;;;;;;x
-LOADING_TIP_11; Mikä laulaen tulee, se viheltäen menee - What comes singing, leaves whistling.;;;;;;;;;x
-LOADING_TIP_12; Don't sell the skin till you have caught the bear;;;;;;;;;x
-LOADING_TIP_13; The Jew cried when the Mulk was born;;;;;;;;x
-LOADING_TIP_14; People back then didn't know much, but they undestood everything. Today we know alot but don't understand anything.;;;;;;;;;x
-LOADING_TIP_15; It's not exactly a good idea to heat your home with logs taken from the walls of your own house.;;;;;;;;;x
+LOADING_TIP_9; People back then didn't know much, but they understood everything. Nowadays we know a lot, but don't understand anything.;;;;;;;;;x
+LOADING_TIP_10; Paska on talonpojan kultaa - Shit is a peasant's gold.;;;;;;;;;x
+LOADING_TIP_11; Mikä laulaen tulee, se viheltäen menee - What comes singing, will leave whistling.;;;;;;;;;x
+LOADING_TIP_12; Don't sell the pelt until you have caught the bear.;;;;;;;;;x
+LOADING_TIP_13; The Jew cried when the Mulk was born.;;;;;;;;x
+LOADING_TIP_14; People back then didn't know much, but they understood everything. Nowadays we know a lot, but don't understand anything.;;;;;;;;;x
+LOADING_TIP_15; It's not exactly a good idea to heat your home with logs taken from the walls of your own home.;;;;;;;;;x
 LOADING_TIP_16; Isamaa ilu hoieldes, võõraste vastu võideldes. Varisesid vaprad vallad, kolletasid kihelkonnad muistse põlve mulla alla.;;;;;;;;;x
-LOADING_TIP_17; The situation is shit, but thats the fertilizer for our future.;;;;;;;;;x
-LOADING_TIP_18; Homesick for a time that never came;;;;;;;;;x
-LOADING_TIP_19; Pelmeni are from Udmurtia;;;;;;;;;x
-LOADING_TIP_20; Skiis are Finno-Ugric;;;;;;;;;x
-LOADING_TIP_21; Finno-Ugric and Baltic people believe that the world came to be from an egg of the waterfowl;;;;;;;;;x
-LOADING_TIP_21; Udmurts believe that humans descend from bears;;;;;;;;;x
-LOADING_TIP_22; Forbade the old Väinämöinen, denied the groom of quiet waters: "do not bow before gold, waver over silver";;;;;;;;;x
+LOADING_TIP_17; The situation is shit, but that is the fertiliser of our future.;;;;;;;;;x
+LOADING_TIP_18; Homesick for a time that never came.;;;;;;;;;x
+LOADING_TIP_19; Pelmeni are from Udmurtia.;;;;;;;;;x
+LOADING_TIP_20; Skis are Finno-Ugric.;;;;;;;;;x
+LOADING_TIP_21; The Finno-Ugric and Baltic peoples believe that the world came to be from an egg of the Waterfowl.;;;;;;;;;x
+LOADING_TIP_21; Udmurts believe that humans descend from bears.;;;;;;;;;x
+LOADING_TIP_22; Forbade the old Väinämöinen, denied the groom of quiet waters: "do not bow before gold, waver over silver.";;;;;;;;;x
