@@ -1,0 +1,6 @@
+spriteTypes = {
+  spriteType = {
+    name = "GFX_icon_fug_theocracy_g"
+    texturefile = "gfx\\interface\\governments\\government_icon_theocracy.dds"
+  }
+}

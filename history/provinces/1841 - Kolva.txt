@@ -6,8 +6,9 @@ title = c_kolva
 terrain = forest
 
 # Settlements
-max_settlements = 2
-b_kolva = tribal
+max_settlements = 3
+b_kolva = temple
+b_seleya = tribal
 
 # Misc
 culture = komi

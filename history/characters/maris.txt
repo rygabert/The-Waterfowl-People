@@ -1,5 +1,5 @@
 8880011 = {
-	name="Putyayka"
+	name="Chemkei"
 	dynasty=9990003 #Tsepelid(suvakad)
 	religion="finnish_pagan"
 	culture="mari"
@@ -11,7 +11,7 @@
 	}
 }
 8880012 = {
-	name="Chipaz"
+	name="Marzhan"
 	dynasty=9990003
 	religion="finnish_pagan"
 	father=8880011 
@@ -24,7 +24,7 @@
 	}
 }
 8880013 = {
-	name="Tylze"
+	name="Patyi"
 	dynasty=9990003
 	religion="finnish_pagan"
 	father=8880012
@@ -50,7 +50,7 @@
 	}
 }
 8880015 = {
-	name="Nishkepaz"
+	name="Aigelde"
 	dynasty=9990003
 	religion="finnish_pagan"
 	father=8880014
@@ -281,7 +281,7 @@
 	}
 }
 8880070 = {
-	name="Kugyza"
+	name="Aigobek"
 	dynasty =9990008 #kugyza
 	religion="finnish_pagan"
 	culture="mari"
@@ -297,7 +297,7 @@
 	}
 }
 8880071 = {
-	name="Pakshova"
+	name="Rosh"
 	dynasty=9990008
 	religion="finnish_pagan"
 	culture="mari"
@@ -310,7 +310,7 @@
 	}
 }
 8880072 = {
-	name="Cimale"
+	name="Kyvar"
 	dynasty=9990008
 	religion="finnish_pagan"
 	culture="mari"
@@ -336,7 +336,7 @@
 	}
 }
 8880074 = {
-	name="Cimale"
+	name="Aimak"
 	dynasty=9990008
 	religion="finnish_pagan"
 	culture="mari"
@@ -380,7 +380,7 @@
 	}
 }
 8880077 = {
-	name="Eolman "
+	name="Eolman"
 	dynasty=9990016
 	religion="finnish_pagan"
 	father=8880076
@@ -398,7 +398,7 @@
 	}
 }
 8880078 = {
-	name="Eolman "
+	name="Ponjai"
 	dynasty=9990016
 	religion="finnish_pagan"
 	father=8880077

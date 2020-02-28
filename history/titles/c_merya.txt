@@ -33,6 +33,10 @@ liege = 0
 {
 holder=8880217
 }
+1237.1.1=
+{
+liege="d_bulgar"
+}
 1285.1.1=
 {
 holder=8880218

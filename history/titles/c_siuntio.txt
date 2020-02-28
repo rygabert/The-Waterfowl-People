@@ -1,6 +1,5 @@
 767.1.1={
 	holder=170313
-	liege = "d_tavastia"
 }
 792.1.1={
 	holder=170314
@@ -32,12 +31,21 @@
 1170.1.1={
 	holder=228003
 }
-1200.1.1={
-	holder=144627
-}
-1200.1.1={
-	holder=144627
+1187.1.1={
+	holder=228002
 }
 1236.1.1={
 	liege = "k_sweden"
+}
+1250.1.1={
+	holder=450506 # Valdemar Birgersson
+}
+1302.12.26={
+	holder=450504 # Birger Magnusson
+}
+1320.1.1={
+	holder=450841
+}
+1334.1.2={
+	holder=450840
 }

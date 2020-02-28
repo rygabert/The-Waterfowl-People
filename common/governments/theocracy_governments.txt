@@ -1,0 +1,75 @@
+theocracy_governments = {
+
+	theocracy_government = {
+		potential = {
+			ai = yes
+			is_patrician = no
+			is_landed = yes
+			NOT = {
+				religion_group = muslim
+			}
+			NOT = {
+				religion = finnish_pagan
+			}
+			OR = {
+				is_female = no
+				religion_allows_female_temple_holders = yes
+			}
+			OR = {
+				is_female = yes
+				religion_allows_male_temple_holders = yes
+			}
+		}
+
+		preferred_holdings = {
+			TEMPLE
+		}
+
+		allowed_holdings = {
+			TEMPLE
+			FORT
+			HOSPITAL
+		}
+
+		builds_with_piety = {
+			TEMPLE
+		}
+
+		accepts_liege_governments_religion = {
+			feudal_government
+			muslim_government
+			theocratic_feudal_government
+			order_government
+			merchant_republic_government
+			republic_government
+			tribal_government
+			nomadic_government
+			chinese_imperial_government
+		}
+
+		vassal_call_to_arms = {
+			tribal_government
+		}
+
+		no_vassal_tax = {
+			order_government
+			rtp_baron_order_g
+			rtp_landless_order_g
+		}
+
+		color = { 220 220 220 }
+		frame_suffix = "_theocracy"
+		title_prefix = "temple_"
+		capital_move_delay = 600
+		can_build_tribal = no
+		aggression = 0.75
+
+		character_modifier = {
+			learning = 1
+			global_levy_size = -0.05
+		}
+		
+		have_gender_laws = no
+		men_can_take_consorts = no
+	}
+}

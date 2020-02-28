@@ -22697,7 +22697,7 @@
 100411=
 {
 	name="Saar"
-	culture="finnish"
+	culture="ugricbaltic"
 	religion="finnish_pagan"
 }
 100412=
