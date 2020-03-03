@@ -1,3 +1,18 @@
+polum = {
+	khanty_opinion = 10
+	combat_rating = 5
+	monthly_character_prestige = 0.1
+	inheritance = patrilineal
+	picture = GFX_bloodlines_symbol_finnish_bearpaw
+	flags = { historical_bloodline }
+}
+ostjas = {
+	komi_opinion = 10
+	monthly_character_piety = 0.3
+	inheritance = patrilineal
+	picture = GFX_bloodlines_symbol_finnish_bearpaw
+	flags = { historical_bloodline }
+}
 tyushten = {
 	combat_rating = 8
 	finno_ugric_opinion = 5
@@ -16,7 +31,6 @@ kugyza = {
 	picture = GFX_bloodlines_symbol_finnish_bearpaw
 	flags = { historical_bloodline }
 }
-
 kalev = {
 	combat_rating = 7
 	finno_ugric_opinion = 5

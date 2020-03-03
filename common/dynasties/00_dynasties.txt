@@ -6,7 +6,7 @@
 }
 9990117 = {
 	name="Yura"
-	culture = khanty
+	culture = "khanty"
 	religion = "finnish_pagan"
 }
 9990116 = {
@@ -34927,21 +34927,21 @@
 }
 1029125=
 {
-	name="Permyakid"
+	name="Burmort"
 	culture="komi"
 	religion="finnish_pagan"
 	coat_of_arms=
 	{
 		data=
 		{
-0 0 0 15 1 5 5 			}
+0 0 0 14 1 5 5 			}
 		religion="finnish_pagan"
 	}
 }
 1029126=
 {
-	name="Yugra"
-	culture="komi"
+	name="Toorum"
+	culture="khanty"
 	religion="finnish_pagan"
 }
 1042040=
@@ -48464,7 +48464,7 @@
 	culture = komi
 	religion = finnish_pagan
 }
-1062064 = {
+1062064 = { #disabled
 	name = "Nylogid"
 	culture = komi
 	religion = finnish_pagan

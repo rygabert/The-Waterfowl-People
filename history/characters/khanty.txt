@@ -1,93 +1,56 @@
-159735 = {
-	name="Torum" # fictional
+1000045 = {
+	name="Polum" # fictional
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1029126
-	father=188794
-	839.1.1={
+	598.1.1={
 		birth=yes
+			create_bloodline = {
+			type = polum
+			has_dlc = "Holy Fury"
+		}
 	}
-	909.1.1={
+	689.1.1={
 		death=yes
 	}
 }
-161720 = {
-	name="Pyera"
-	#placeholder
-	dynasty = 1051137
+1000046 = {
+	name="Taut" # fictional
 	religion="finnish_pagan"
-	culture=komi
-	1050.1.1={
+	culture=khanty
+	dynasty=1029126
+	father=1000045
+	634.1.1={
 		birth=yes
+		
 	}
-	1110.1.1={
+	701.1.1={
 		death=yes
 	}
 }
-
-
-161721 = {
-	name="Azeg"	#placeholder
-	dynasty = 1051137
+1000047 = {
+	name="Asyka" # fictional
 	religion="finnish_pagan"
-	culture=komi
-	father=161720
-	1080.1.1={
+	culture=khanty
+	dynasty=1029126
+	father=1000046
+	661.1.1={
 		birth=yes
+		
 	}
-	1140.1.1={
-		death=yes
-	}
-}
-
-161722 = {
-	name="Arti"	#placeholder
-	dynasty = 1051137
-	religion="finnish_pagan"
-	culture=komi
-	father=161721
-	1110.1.1={
-		birth=yes
-	}
-	1170.1.1={
-		death=yes
-	}
-}
-
-161723 = {
-	name="Zarny" #placeholder
-	dynasty = 1051137
-	religion="finnish_pagan"
-	culture=komi
-	father=161722
-	1140.1.1={
-		birth=yes
-	}
-	1200.1.1={
-		death=yes
-	}
-}
-
-161724 = {
-	name="Parush" #placeholder
-	dynasty = 1051137
-	religion="finnish_pagan"
-	culture=komi
-	father=161723
-	1170.1.1={
-		birth=yes
-	}
-	1230.1.1={
+	735.1.1={
 		death=yes
 	}
 }
 188791 = {
-	name="Nalka" # fictional
+	name="Techik" # fictional
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1029126
+	father=1000047
 	730.1.1={
 		birth=yes
+		
 	}
 	780.1.1={
 		death=yes
@@ -135,7 +98,86 @@
 		death=yes
 	}
 }
+159735 = {
+	name="Torum" # fictional
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1029126
+	father=188794
+	839.1.1={
+		birth=yes
+	}
+	909.1.1={
+		death=yes
+	}
+}
+261075 = {
+	name = "Uchva"
+	religion = finnish_pagan
+	culture = khanty
+	dynasty = 1029126
+	father=159735
+	908.1.1 = {
+		birth = yes
+	}
+	956.1.1 = {
+		death = yes
+	}
+}
+1000043 = {
+	name = "Zyryan"
+	religion = finnish_pagan
+	culture = khanty
+	dynasty = 1029126
+	father = 261075
+	952.1.1 = {
+		birth = yes
+	}
+	1040.1.1 = {
+		death = yes
+	}
+}
+260346 = {
+	name = "Kya"
+	dynasty = 1029126
+	religion = finnish_pagan
+	culture = khanty
+	father = 1000043
+	1039.1.1 = {
+		birth = yes
+	}
+	1119.1.1 = {
+		death = yes
+	}
+}
+260347 = {
+	name = "Kyldasin"
+	dynasty = 1029126
+	religion = finnish_pagan
+	culture = khanty
+	father = 260346
+	1102.1.1 = {
+		birth = yes
+	}
+	1178.1.1 = {
+		death = yes
+	}
+}
+260348 = {
+	name = "Koksha"
+	dynasty = 1029126
+	religion = finnish_pagan
+	culture = khanty
+	father = 260347
+	1149.1.1 = {
+		birth = yes
+	}
+	1227.1.1 = {
+		death = yes
+	}
+}
 
+#############################
 188795 = {
 	name="Meltsayka" # fictional
 	religion="finnish_pagan"
@@ -514,18 +556,6 @@
 		death = yes
 	}
 }
-261075 = {
-	name = "Uchva"
-	religion = finnish_pagan
-	culture = khanty
-	dynasty = 1062513
-	912.1.1 = {
-		birth = yes
-	}
-	956.1.1 = {
-		death = yes
-	}
-}
 261076 = {
 	name = "Sarin"
 	religion = finnish_pagan
@@ -810,3 +840,10 @@
 		death=yes
 	}
 }
+
+
+#name: Polum
+#dynasty: Toorum 1029126
+#title: Muty-Kok of the high chiefdom of Polum
+#years: 598-689
+#sons: 634-701 Taut, 661-735 Asyka, 688-749 Kalpik, 727 Techik (playable)

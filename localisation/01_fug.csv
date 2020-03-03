@@ -177,9 +177,13 @@ RYSELUS;Pühasõda;;;;;;;;;x
 austvegr_trade_route;Austvegr;;;;;;;;;x
 finno_ugric_opinion;Finno-Ugric Opinion;;;;;;;;;x
 k_sibir;Yugra;;;;;;;;;x
-tyushten;Blood of This.GetFirstNameWithNick];Sang de [This.GetFirstNameWithNick];Blut von [This.GetFirstNameWithNick];;Sangre de [This.GetFirstNameWithNick];;;;;;;;;x
+tyushten;Blood of [This.GetFirstNameWithNick];Sang de [This.GetFirstNameWithNick];Blut von [This.GetFirstNameWithNick];;Sangre de [This.GetFirstNameWithNick];;;;;;;;;x
 kalev;Blood of [This.GetFirstNameWithNick];Sang de [This.GetFirstNameWithNick];Blut von [This.GetFirstNameWithNick];;Sangre de [This.GetFirstNameWithNick];;;;;;;;;x
 kugyza;Blood of [This.GetFirstNameWithNick];Sang de [This.GetFirstNameWithNick];Blut von [This.GetFirstNameWithNick];;Sangre de [This.GetFirstNameWithNick];;;;;;;;;x
+ostjas;Blood of [This.GetFirstNameWithNick];x
+ostjas_desc;Ostjas is considered to be the ancestor of the Komi people. He was a powerful sorcerer, a religious leader and the forefather of the Permian pams.;x
+polum;Polum;x
+polum_desc;Polum is thought to be the the oldest son of the Yugran chief god Numi-Toorum. He fought with his brother, the war-god, over the title of god and came out as an equal. He settled on the Polum river and became the guardian and ancestor of the Polum people.;x
 c_grassland_cheremisa_adj;Kakðanian ;kerjenetsienne;Kerschenezisch;;Kerzhenetsiano;;;;;;;;;x
 c_mountain_cheremisa_adj;Purgazian;tchérémisse;Tscheremissisch;;Cheremisano;;;;;;;;;x
 PROV589;Kerzhenets;Kerjenets;Kerschenez;;Kerzhenets;;;;;;;;;x
