@@ -82,7 +82,7 @@
 	}
 }
 188791 = {
-	name="Techik" #Polum dynasty
+	name="Techik" #Polum dynasty at Polum
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1029126
@@ -176,7 +176,7 @@
 }
 
 260357 = {
-	name = "Alwali"
+	name = "Alwali" #Sap-Jah dynasty at Irtysh
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062066
@@ -298,7 +298,7 @@
 }
 
 260366 = {
-	name = "Aipoh"
+	name = "Aipoh" #Paster dynasty at Upper Ob
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062192
@@ -407,7 +407,7 @@
 }
 
 260374 = {
-	name = "Sagol"
+	name = "Sagol" #Narim dynasty at Narim
 	religion = finnish_pagan
 	culture = selkup
 	dynasty = 1062194
@@ -515,10 +515,10 @@
 	}
 }
 261075 = {
-	name = "Uchva" #replaces toorum dynasty for some reason, needs reworking
+	name = "Janyg-Kelp"
 	religion = finnish_pagan
 	culture = khanty
-	dynasty = 1062513
+	dynasty = 1029126
 	912.1.1 = {
 		birth = yes
 	}
@@ -527,7 +527,7 @@
 	}
 }
 261076 = {
-	name = "Sarin" #replaces sap-jah dynasty, needs reworking
+	name = "Sarin" #replaces sap-jah dynasty, to become their vassal
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062514
@@ -552,7 +552,7 @@
 }
 #########################################################################
 8880250 = {
-	name="Paltysh"
+	name="Paltysh" #Emtyr dynasty at Emtyr
 	dynasty=1062195
 	religion="finnish_pagan"
 	culture="khanty"
@@ -682,7 +682,7 @@
 }
 #####################
 8880270 = {
-	name="Yuvan"
+	name="Juwan" #Njor dynasty at Manpupuner
 	dynasty=9990117
 	religion="finnish_pagan"
 	culture="khanty"
@@ -694,7 +694,7 @@
 	}
 }
 8880271 = {
-	name="Maurizio"
+	name="Kutonja"
 	dynasty=9990117
 	religion="finnish_pagan"
 	father=8880270 
@@ -707,7 +707,7 @@
 	}
 }
 8880272 = {
-	name="Zlata"
+	name="Lach"
 	dynasty=9990117
 	father=8880271 
 	religion="finnish_pagan"
@@ -720,7 +720,7 @@
 	}
 }
 8880273 = {
-	name="Sheshkin"
+	name="Kelp"
 	dynasty=9990117
 	religion="finnish_pagan"
 	culture="khanty"
@@ -733,7 +733,7 @@
 	}
 }
 8880274 = {
-	name="Kyntsha"
+	name="Wasa"
 	dynasty=9990117
 	religion="finnish_pagan"
 	father=8880273 
@@ -746,7 +746,7 @@
 	}
 }
 8880275 = {
-	name="Kashlyk"
+	name="Roman"
 	dynasty=9990117
 	religion="finnish_pagan"
 	father=8880274 
@@ -759,7 +759,7 @@
 	}
 }
 8880276 = {
-	name="Kunkan"
+	name="Kirikori"
 	dynasty=9990117
 	religion="finnish_pagan"
 	culture="khanty"
@@ -772,7 +772,7 @@
 	}
 }
 8880277 = {
-	name="Tagil"
+	name="Poti"
 	dynasty=9990117
 	religion="finnish_pagan"
 	culture="khanty"
@@ -785,7 +785,7 @@
 	}
 }
 8880278 = {
-	name="Murza"
+	name="Aji"
 	dynasty=9990117
 	religion="finnish_pagan"
 	culture="khanty"
@@ -798,7 +798,7 @@
 	}
 }
 8880279 = {
-	name="Nahratsh"
+	name="Kuchum"
 	dynasty=9990117 
 	religion="finnish_pagan"
 	culture="khanty"
