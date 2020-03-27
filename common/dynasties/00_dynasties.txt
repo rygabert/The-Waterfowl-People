@@ -5,7 +5,7 @@
 
 }
 9990117 = {
-	name="Yura"
+	name="Njor"
 	culture = khanty
 	religion = "finnish_pagan"
 }
