@@ -1,5 +1,5 @@
 6855 = {
-	name="Parush"
+	name="Jaur"
 	religion=finnish_pagan
 	culture=komi
 	dynasty=1042196
@@ -13,7 +13,7 @@
 }
 
 161725 = {
-	name="Varaka"
+	name="Uzheg" #burmorts vvvvv
 	#placeholder
 	dynasty = 1051137
 	religion="finnish_pagan"
@@ -28,7 +28,7 @@
 }
 
 161726 = {
-	name="Chuga"
+	name="Cheran"
 	#placeholder
 	dynasty = 1051137
 	religion="finnish_pagan"
@@ -43,7 +43,7 @@
 }
 
 161727 = {
-	name="Tugan"
+	name="Chöt"
 	#placeholder
 	dynasty = 1051137
 	religion="finnish_pagan"
@@ -58,7 +58,7 @@
 }
 
 161728 = {
-	name="Nylog"
+	name="Kushman"
 	#placeholder
 	dynasty = 1051137
 	religion="finnish_pagan"
@@ -73,7 +73,7 @@
 }
 
 161729 = {
-	name="Sarin"
+	name="Sjuz"
 	#placeholder
 	dynasty = 1051137
 	religion="finnish_pagan"
@@ -88,8 +88,8 @@
 }
 
 159734 = {
-	name="Burmort"
-	dynasty=1029125
+	name="Oshkok"
+	dynasty=1051137
 	religion="finnish_pagan"
 	culture="komi"
 	father=188806
@@ -101,8 +101,8 @@
 	}
 }
 188803 = {
-	name="Omurtag" # fictitious
-	dynasty=1029125
+	name="Pama"
+	dynasty=1051137
 	religion="finnish_pagan"
 	culture="komi"
 	738.1.1={
@@ -114,8 +114,8 @@
 }
 
 188804 = {
-	name="Omurtag" # fictitious
-	dynasty=1029125
+	name="Kychi"
+	dynasty=1051137
 	religion="finnish_pagan"
 	culture="komi"
 	father=188803
@@ -128,8 +128,8 @@
 }
 
 188805 = {
-	name="Omurtag" # fictitious
-	dynasty=1029125
+	name="Koleg"
+	dynasty=1051137
 	religion="finnish_pagan"
 	culture="komi"
 	father=188804
@@ -142,9 +142,9 @@
 }
 
 188806 = {
-	name="Omurtag" # fictitious
-	dynasty=5062095
-	religion="tengri_pagan"
+	name="Voleg"
+	dynasty=1051137
+	religion="finnish_pagan"
 	culture="komi"
 	father=188805
 	812.1.1={
@@ -156,7 +156,7 @@
 }
 
 188861 = {
-	name="Nuyanza" # fictitious
+	name="Pors" # fictitious
 	dynasty=1042196
 	religion=finnish_pagan
 	culture=komi
@@ -169,7 +169,7 @@
 }
 
 188862 = {
-	name="Chipaz" # fictitious
+	name="Kyk" # fictitious
 	dynasty=1042196
 	religion=finnish_pagan
 	culture=komi
@@ -183,7 +183,7 @@
 }
 
 188863 = {
-	name="Setyamka" # fictitious
+	name="Kyrny" # fictitious
 	dynasty=1042196
 	religion=finnish_pagan
 	culture=komi
@@ -197,7 +197,7 @@
 }
 
 188864 = {
-	name="Varmanpaz" # fictitious
+	name="Kushpel" # fictitious
 	dynasty=1042196
 	religion=finnish_pagan
 	culture=komi
@@ -210,7 +210,7 @@
 	}
 }
 260228 = {
-	name = "Andyamo"
+	name = "Syrchik" #Saridz dynasty at Lyzha
 	dynasty = 1062152
 	religion = finnish_pagan
 	culture = komi
@@ -222,8 +222,8 @@
 	}
 }
 260229 = {
-	name = "Oshypel"
-	dynasty = 1062153
+	name = "Shudeg"
+	dynasty = 1062152
 	religion = finnish_pagan
 	culture = komi
 	825.1.1 = {
@@ -234,8 +234,8 @@
 	}
 }
 260230 = {
-	name = "Shypicha"
-	dynasty = 1062049
+	name = "Raka"
+	dynasty = 1062152
 	religion = finnish_pagan
 	culture = komi
 	1040.1.1 = {
@@ -246,8 +246,8 @@
 	}
 }
 260231 = {
-	name = "Kirdyava"
-	dynasty = 1062049
+	name = "Gut"
+	dynasty = 1062152
 	religion = finnish_pagan
 	culture = komi
 	father = 260230
@@ -259,8 +259,8 @@
 	}
 }
 260232 = {
-	name = "Osh"
-	dynasty = 1062049
+	name = "Katshös"
+	dynasty = 1062152
 	religion = finnish_pagan
 	culture = komi
 	father = 260231
@@ -272,8 +272,8 @@
 	}
 }
 260233 = {
-	name = "Parush"
-	dynasty = 1062049
+	name = "Viljog"
+	dynasty = 1062152
 	religion = finnish_pagan
 	culture = komi
 	father = 260232
@@ -285,8 +285,8 @@
 	}
 }
 260234 = {
-	name = "Paksyut"
-	dynasty = 1062049
+	name = "Viljos"
+	dynasty = 1062152
 	religion = finnish_pagan
 	culture = komi
 	father = 260233
