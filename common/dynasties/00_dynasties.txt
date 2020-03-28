@@ -140,7 +140,7 @@
 	}
 }
 9990002 = {
-	name="Erzya"   
+	name="Kadoma"   #purgaz dynasty
 	culture = "mordvin"
 	religion = "finnish_pagan"
 }
@@ -34940,8 +34940,8 @@
 }
 1029126=
 {
-	name="Yugra"
-	culture="komi"
+	name="Polum"
+	culture="khanty"
 	religion="finnish_pagan"
 }
 1042040=
@@ -42891,7 +42891,7 @@
 }
 1042196=
 {
-	name="Zyri"
+	name="Dzhedzhim"
 	culture="mordvin"
 	religion="finnish_pagan"
 }
@@ -43836,7 +43836,7 @@
 }
 1051137=
 {
-	name="Yermolai"
+	name="Burmort" #ostjas-pama-kudymosh-pjera dynasty
 	culture="komi"
 	religion="finnish_pagan"
 		coat_of_arms = {
@@ -49065,7 +49065,7 @@
 	religion = finnish_pagan
 }
 1062152 = {
-	name = "Kichayid"
+	name = "Saridz"
 	culture = komi
 	religion = finnish_pagan
 }
