@@ -527,10 +527,10 @@
 	}
 }
 261076 = {
-	name = "Sarin" #replaces sap-jah dynasty, to become their vassal
+	name = "Chetyrko"
 	religion = finnish_pagan
 	culture = khanty
-	dynasty = 1062514
+	dynasty = 1062066
 	904.1.1 ={
 		birth = yes
 	}
