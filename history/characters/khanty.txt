@@ -72,7 +72,7 @@
 }
 
 188793 = {
-	name="Nalka" # fictional
+	name="Alach" # fictional
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1029126
@@ -86,7 +86,7 @@
 }
 
 188794 = {
-	name="Velmayka" # fictional
+	name="Kolpu" # fictional
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1029126
@@ -99,7 +99,7 @@
 	}
 }
 159735 = {
-	name="Torum" # fictional
+	name="Agai" # fictional
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1029126
@@ -112,7 +112,7 @@
 	}
 }
 261075 = {
-	name = "Uchva"
+	name = "Kosalim"
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1029126
@@ -125,7 +125,7 @@
 	}
 }
 1000043 = {
-	name = "Zyryan"
+	name = "Kyncha"
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1029126
@@ -138,7 +138,7 @@
 	}
 }
 260346 = {
-	name = "Kya"
+	name = "Osip"
 	dynasty = 1029126
 	religion = finnish_pagan
 	culture = khanty
@@ -151,7 +151,7 @@
 	}
 }
 260347 = {
-	name = "Kyldasin"
+	name = "Jusor"
 	dynasty = 1029126
 	religion = finnish_pagan
 	culture = khanty
@@ -164,7 +164,7 @@
 	}
 }
 260348 = {
-	name = "Koksha"
+	name = "Kihek"
 	dynasty = 1029126
 	religion = finnish_pagan
 	culture = khanty
