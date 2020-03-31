@@ -14,10 +14,10 @@ tribal_duke_ugricbaltic;Maavanem;x
 tribal_king_ugricbaltic;Suur-Maavanem;x
 tribal_emperor_ugricbaltic;Ilmavanem;x
 baron_ugricbaltic;Linnapea;x
-tribal_count_female_ugricbaltic;Emand;x
-tribal_duke_female_ugricbaltic;Maaemand;x
-tribal_king_female_ugricbaltic;Suur-Maaemand;x
-tribal_emperor_female_ugricbaltic;Ilmaemand;x
+tribal_count_female_ugricbaltic;Vanem;x
+tribal_duke_female_ugricbaltic;Maavanem;x
+tribal_king_female_ugricbaltic;Suur-Maavanem;x
+tribal_emperor_female_ugricbaltic;Ilmavanem;x
 baron_female_ugricbaltic;Linnaemand;x
 #
 count_ugricbaltic;Vanem;x
@@ -25,9 +25,9 @@ duke_ugricbaltic;Maavanem;x
 king_ugricbaltic;Suur-Maavanem;x
 emperor_ugricbaltic;Ilmavanem;x
 baron_ugricbaltic;Linnapea;x
-count_female_ugricbaltic;Emand;x
-duke_female_ugricbaltic;Maaemand;x
-king_female_ugricbaltic;Suur-Maaemand;x
+count_female_ugricbaltic;Vanem;x
+duke_female_ugricbaltic;Maavanem;x
+king_female_ugricbaltic;Suur-Maavanem;x
 emperor_female_ugricbaltic;Ilmavanem;x
 #
 temple_emperor_ugricbaltic;Manatark;x
