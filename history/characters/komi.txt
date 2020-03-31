@@ -11,12 +11,8 @@
 		death=yes
 	}
 }
-
-<<<<<<< HEAD
-
-=======
 161725 = {
-	name="Uzheg" #burmorts vvvvv
+	name="Uzheg" #burmorts
 	#placeholder
 	dynasty = 1051137
 	religion="finnish_pagan"
@@ -157,7 +153,6 @@
 		death=yes
 	}
 }
->>>>>>> be60e225d66484c17849f5d9391283d383cddfdc
 
 188861 = {
 	name="Pors" # fictitious
@@ -1490,5 +1485,4 @@
 		death="1375.1.1"
 	}
 }
-=======
->>>>>>> be60e225d66484c17849f5d9391283d383cddfdc
+
