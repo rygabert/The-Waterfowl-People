@@ -1,5 +1,5 @@
 8880001 = {
-	name="Arazamas"
+	name="Paksjai"
 	dynasty=9990002
 	religion="finnish_pagan"
 	culture="mordvin"
@@ -11,7 +11,7 @@
 	}
 }
 8880002 = {
-	name="Varaka"
+	name="Paksjut"
 	dynasty=9990002
 	religion="finnish_pagan"
 	father=8880001 
@@ -24,7 +24,7 @@
 	}
 }
 8880003 = {
-	name="Kardaz"
+	name="Kirdjai"
 	dynasty=9990002
 	father=8880002
 	religion="finnish_pagan"
@@ -37,7 +37,7 @@
 	}
 }
 8880004 = {
-	name="Surt"
+	name="Ovtai"
 	dynasty=9990002
 	religion="finnish_pagan"
 	culture="mordvin"
@@ -50,7 +50,7 @@
 	}
 }
 8880005 = {
-	name="Varaka"
+	name="Kargai"
 	dynasty=9990002
 	religion="finnish_pagan"
 	father=8880004
@@ -63,7 +63,7 @@
 	}
 }
 8880006 = {
-	name="Puzhara"
+	name="Kargash"
 	dynasty=9990002
 	religion="finnish_pagan"
 	father=8880005
@@ -76,7 +76,7 @@
 	}
 }
 8880007 = {
-	name="Arazamas"
+	name="Parush"
 	dynasty=9990002
 	religion="finnish_pagan"
 	culture="mordvin"
@@ -102,7 +102,7 @@
 	}
 }
 8880009 = {
-	name="Varaka"
+	name="Pakstjan"
 	dynasty=9990002
 	religion="finnish_pagan"
 	culture="mordvin"

@@ -1,15 +1,68 @@
+<<<<<<< HEAD
 1000045 = {
 	name="Polum" # fictional
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1029126
 	598.1.1={
+=======
+159735 = {
+	name="Soter"
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1029126
+	father=188794
+	839.1.1={
+		birth=yes
+	}
+	909.1.1={
+		death=yes
+	}
+}
+161720 = {
+	name="Kudym-Osh" #Burmort dynasty
+	#placeholder
+	dynasty = 1051137
+	religion="finnish_pagan"
+	culture=komi
+	1042.1.1={
+		birth=yes
+	}
+	1115.1.1={
+		death=yes
+	}
+}
+
+
+161721 = {
+	name="Pjera"	
+	dynasty = 1051137
+	religion="finnish_pagan"
+	culture=komi
+	father=161720
+	1065.1.1={
+		birth=yes
+	}
+	1145.1.1={
+		death=yes
+	}
+}
+
+161722 = {
+	name="Biur"	
+	dynasty = 1051137
+	religion="finnish_pagan"
+	culture=komi
+	father=161721
+	1101.1.1={
+>>>>>>> be60e225d66484c17849f5d9391283d383cddfdc
 		birth=yes
 			create_bloodline = {
 			type = polum
 			has_dlc = "Holy Fury"
 		}
 	}
+<<<<<<< HEAD
 	689.1.1={
 		death=yes
 	}
@@ -21,9 +74,24 @@
 	dynasty=1029126
 	father=1000045
 	634.1.1={
+=======
+	1156.1.1={
+		death=yes
+	}
+}
+
+161723 = {
+	name="Kya"
+	dynasty = 1051137
+	religion="finnish_pagan"
+	culture=komi
+	father=161722
+	1136.1.1={
+>>>>>>> be60e225d66484c17849f5d9391283d383cddfdc
 		birth=yes
 		
 	}
+<<<<<<< HEAD
 	701.1.1={
 		death=yes
 	}
@@ -35,30 +103,56 @@
 	dynasty=1029126
 	father=1000046
 	661.1.1={
+=======
+	1208.1.1={
+		death=yes
+	}
+}
+
+161724 = {
+	name="Shudamort"
+	dynasty = 1051137
+	religion="finnish_pagan"
+	culture=komi
+	father=161723
+	1171.1.1={
+>>>>>>> be60e225d66484c17849f5d9391283d383cddfdc
 		birth=yes
 		
 	}
+<<<<<<< HEAD
 	735.1.1={
+=======
+	1226.1.1={
+>>>>>>> be60e225d66484c17849f5d9391283d383cddfdc
 		death=yes
 	}
 }
 188791 = {
+<<<<<<< HEAD
 	name="Techik" # fictional
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1029126
 	father=1000047
 	730.1.1={
+=======
+	name="Techik" #Polum dynasty at Polum
+	religion="finnish_pagan"
+	culture=khanty
+	dynasty=1029126
+	727.1.1={
+>>>>>>> be60e225d66484c17849f5d9391283d383cddfdc
 		birth=yes
 		
 	}
-	780.1.1={
+	789.1.1={
 		death=yes
 	}
 }
 
 188792 = {
-	name="Setyamka" # fictional
+	name="Aplegirim" # fictional
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1029126
@@ -72,7 +166,11 @@
 }
 
 188793 = {
+<<<<<<< HEAD
 	name="Alach" # fictional
+=======
+	name="Sorup" # fictional
+>>>>>>> be60e225d66484c17849f5d9391283d383cddfdc
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1029126
@@ -86,7 +184,11 @@
 }
 
 188794 = {
+<<<<<<< HEAD
 	name="Kolpu" # fictional
+=======
+	name="Oloko" # fictional
+>>>>>>> be60e225d66484c17849f5d9391283d383cddfdc
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1029126
@@ -179,7 +281,7 @@
 
 #############################
 188795 = {
-	name="Meltsayka" # fictional
+	name="Jiny" # cant find this guy
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1042191
@@ -192,7 +294,7 @@
 }
 
 188796 = {
-	name="Nydog" # fictional
+	name="Urt" # cant find this guy
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1042192
@@ -205,7 +307,7 @@
 }
 
 188797 = {
-	name="Zyryan" # fictional
+	name="Zyryan" # cant find this guy
 	religion="finnish_pagan"
 	culture=khanty
 	dynasty=1042194
@@ -218,7 +320,7 @@
 }
 
 260357 = {
-	name = "Kyldysin"
+	name = "Alwali" #Sap-Jah dynasty at Irtysh
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062066
@@ -231,7 +333,7 @@
 }
 
 260358 = {
-	name = "Kya"
+	name = "Njaroh"
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062066
@@ -244,7 +346,7 @@
 }
 
 260359 = {
-	name = "Pyera"
+	name = "Perki"
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062066
@@ -257,7 +359,7 @@
 }
 
 260360 = {
-	name = "Dondy"
+	name = "Unhu"
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062066
@@ -271,7 +373,7 @@
 }
 
 260361 = {
-	name = "Onika"
+	name = "Kusha"
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062066
@@ -284,7 +386,7 @@
 	}
 }
 260362 = {
-	name = "Osh"
+	name = "Kanta"
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062066
@@ -298,7 +400,7 @@
 }
 
 260363 = {
-	name = "Lyneg"
+	name = "Sertush"
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062066
@@ -312,7 +414,7 @@
 }
 
 260364 = {
-	name = "Ovtay"
+	name = "Ulja"
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062066
@@ -326,7 +428,7 @@
 }
 
 260365 = {
-	name = "Azeg"
+	name = "Aptja"
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062066
@@ -340,7 +442,7 @@
 }
 
 260366 = {
-	name = "Biur"
+	name = "Aipoh" #Paster dynasty at Upper Ob
 	religion = finnish_pagan
 	culture = khanty
 	dynasty = 1062192
@@ -353,10 +455,10 @@
 }
 
 260367 = {
-	name = "Inzhay"
+	name = "Kulkatli"
 	religion = finnish_pagan
 	culture = khanty
-	dynasty = 1062193
+	dynasty = 1062192
 	842.1.1 = {
 		birth = yes
 	}
@@ -366,10 +468,10 @@
 }
 
 260368 = {
-	name = "Kezhapa"
+	name = "Sorup"
 	religion = finnish_pagan
 	culture = khanty
-	dynasty = 1062067
+	dynasty = 1062192
 	1039.1.1 = {
 		birth = yes
 	}
@@ -379,10 +481,10 @@
 }
 
 260369 = {
-	name = "Tuhan"
+	name = "Tal"
 	religion = finnish_pagan
 	culture = khanty
-	dynasty = 1062067
+	dynasty = 1062192
 	father = 260368
 	1089.1.1 = {
 		birth = yes
@@ -393,10 +495,10 @@
 }
 
 260370 = {
-	name = "Chichayka"
+	name = "Iki"
 	religion = finnish_pagan
 	culture = khanty
-	dynasty = 1062067
+	dynasty = 1062192
 	father = 260369
 	1130.1.1 = {
 		birth = yes
@@ -407,10 +509,10 @@
 }
 
 260371 = {
-	name = "Chuga"
+	name = "Moipar"
 	religion = finnish_pagan
 	culture = khanty
-	dynasty = 1062067
+	dynasty = 1062192
 	father = 260370
 	1184.1.1 = {
 		birth = yes
@@ -421,10 +523,10 @@
 }
 
 260372 = {
-	name = "Azeg"
+	name = "Pyres"
 	religion = finnish_pagan
 	culture = khanty
-	dynasty = 1062067
+	dynasty = 1062192
 	father = 260371
 	1227.1.1 = {
 		birth = yes
@@ -435,10 +537,10 @@
 }
 
 260373 = {
-	name = "Osh"
+	name = "Kacheta"
 	religion = finnish_pagan
 	culture = khanty
-	dynasty = 1062067
+	dynasty = 1062192
 	father = 260372
 	1280.1.1 = {
 		birth = yes
@@ -449,7 +551,7 @@
 }
 
 260374 = {
-	name = "Aymort"
+	name = "Sagol" #Narim dynasty at Narim
 	religion = finnish_pagan
 	culture = selkup
 	dynasty = 1062194
@@ -462,10 +564,10 @@
 }
 
 260375 = {
-	name = "Nylog"
+	name = "Kacha"
 	religion = finnish_pagan
 	culture = selkup
-	dynasty = 1062195
+	dynasty = 1062194
 	805.1.1 = {
 		birth = yes
 	}
@@ -475,10 +577,10 @@
 }
 
 260376 = {
-	name = "Ovtay"
+	name = "Pjakkana"
 	religion = finnish_pagan
 	culture = selkup
-	dynasty = 1062196
+	dynasty = 1062194
 	1051.1.1 = {
 		birth = yes
 	}
@@ -488,10 +590,10 @@
 }
 
 260377 = {
-	name = "Ohmeg"
+	name = "Sjakol"
 	religion = finnish_pagan
 	culture = selkup
-	dynasty = 1062196
+	dynasty = 1062194
 	father = 260376
 	1100.1.1 = {
 		birth = yes
@@ -502,10 +604,10 @@
 }
 
 260378 = {
-	name = "Parush"
+	name = "Kolka-Ira"
 	religion = finnish_pagan
 	culture = selkup
-	dynasty = 1062196
+	dynasty = 1062194
 	father = 260377
 	1150.1.1 = {
 		birth = yes
@@ -516,10 +618,10 @@
 }
 
 260379 = {
-	name = "Irter"
+	name = "Njutika"
 	religion = finnish_pagan
 	culture = selkup
-	dynasty = 1062196
+	dynasty = 1062194
 	father = 260378
 	1198.1.1 = {
 		birth = yes
@@ -530,10 +632,10 @@
 }
 
 260380 = {
-	name = "Hulyen"
+	name = "Merkum"
 	religion = finnish_pagan
 	culture = selkup
-	dynasty = 1062196
+	dynasty = 1062194
 	father = 260379
 	1240.1.1 = {
 		birth = yes
@@ -544,10 +646,10 @@
 }
 
 260381 = {
-	name = "Biyar"
+	name = "Karja"
 	religion = finnish_pagan
 	culture = selkup
-	dynasty = 1062196
+	dynasty = 1062194
 	father = 260380
 	1280.1.1 = {
 		birth = yes
@@ -556,11 +658,26 @@
 		death = yes
 	}
 }
-261076 = {
-	name = "Sarin"
+<<<<<<< HEAD
+=======
+261075 = {
+	name = "Janyg-Kelp"
 	religion = finnish_pagan
 	culture = khanty
-	dynasty = 1062514
+	dynasty = 1029126
+	912.1.1 = {
+		birth = yes
+	}
+	956.1.1 = {
+		death = yes
+	}
+}
+>>>>>>> be60e225d66484c17849f5d9391283d383cddfdc
+261076 = {
+	name = "Chetyrko"
+	religion = finnish_pagan
+	culture = khanty
+	dynasty = 1062066
 	904.1.1 ={
 		birth = yes
 	}
@@ -569,10 +686,10 @@
 	}
 }
 261077 = {
-	name = "Velmyaka"
+	name = "Taibohta"
 	religion = finnish_pagan
 	culture = selkup
-	dynasty = 1062515
+	dynasty = 1062194
 	919.1.1 = {
 		birth = yes
 	}
@@ -582,8 +699,8 @@
 }
 #########################################################################
 8880250 = {
-	name="Syudbya"
-	dynasty=9990115 
+	name="Paltysh" #Emtyr dynasty at Emtyr
+	dynasty=1062195
 	religion="finnish_pagan"
 	culture="khanty"
 	745.1.1={
@@ -594,125 +711,125 @@
 	}
 }
 8880251 = {
-	name="Yadne"
-	dynasty=9990115 
+	name="Alach"
+	dynasty=1062195
 	religion="finnish_pagan"
 	father=8880250 
 	culture="khanty"
-	800.7.5={
+	801.7.5={
 		birth=yes
 	}
-	855.1.1={
+	865.1.1={
 		death=yes
 	}
 }
 8880252 = {
-	name="Tatva"
-	dynasty=9990115 
+	name="Igichei"
+	dynasty=1062195
 	father=8880251 
 	religion="finnish_pagan"
 	culture="khanty"
-	850.7.5={
+	851.7.5={
 		birth=yes
 	}
-	940.1.1={
+	936.1.1={
 		death=yes
 	}
 }
 8880253 = {
-	name="Samu"
-	dynasty=9990115 
+	name="Onsha"
+	dynasty=1062195
 	religion="finnish_pagan"
 	culture="khanty"
 	father=8880252 
-	925.7.5={
+	906.7.5={
 		birth=yes
 	}
-	1000.1.1={
+	998.1.1={
 		death=yes
 	}
 }
 8880254 = {
-	name="Varaka"
-	dynasty=9990115 
+	name="Paiduk"
+	dynasty=1062195
 	religion="finnish_pagan"
 	father=8880253 
 	culture="khanty"
-	980.7.5={
+	962.7.5={
 		birth=yes
 	}
-	1060.1.1={
+	1040.1.1={
 		death=yes
 	}
 }
 8880255 = {
-	name="Noumea"
-	dynasty=9990115 
+	name="Jangui"
+	dynasty=1062195
 	religion="finnish_pagan"
 	father=8880254 
 	culture="khanty"
-	1050.5.1={
+	1012.5.1={
 		birth=yes
 	}
-	1120.1.1={
+	1101.1.1={
 		death=yes
 	}
 }
 8880256 = {
-	name="Somatu"
-	dynasty=9990115 
+	name="Agna"
+	dynasty=1062195
 	religion="finnish_pagan"
 	culture="khanty"
 	father=8880255 
-	1100.5.1={
+	1075.5.1={
 		birth=yes
 	}
-	1190.1.1={
+	1162.1.1={
 		death=yes
 	}
 }
 8880257 = {
-	name="Vesei"
-	dynasty=9990115 
+	name="Taw-Urt"
+	dynasty=1062195
 	religion="finnish_pagan"
 	culture="khanty"
 	father=8880256 
-	1188.1.1={
+	1127.1.1={
 		birth=yes
 	}
-	1250.1.1={
+	1211.1.1={
 		death=yes
 	}
 }
 8880258 = {
-	name="Kekei"
-	dynasty=9990115 
+	name="Jag"
+	dynasty=1062195
 	religion="finnish_pagan"
 	culture="khanty"
 	father=8880257 
-	1230.5.1={
+	1178.5.1={
 		birth=yes
 	}
-	1300.1.2={
+	1249.1.2={
 		death=yes
 	}
 }
 8880259 = {
-	name="Kolik"
-	dynasty=9990115 
+	name="Argin"
+	dynasty=1062195
 	religion="finnish_pagan"
 	culture="khanty"
 	father=8880258 
-	1270.5.1={
+	1213.5.1={
 		birth=yes
 	}
-	1337.1.2={
+	1301.1.2={
 		death=yes
 	}
 }
 #####################
 8880270 = {
-	name="Yuvan"
+	name="Juwan" #Njor dynasty at Manpupuner
 	dynasty=9990117
 	religion="finnish_pagan"
 	culture="khanty"
@@ -724,7 +841,7 @@
 	}
 }
 8880271 = {
-	name="Maurizio"
+	name="Kutonja"
 	dynasty=9990117
 	religion="finnish_pagan"
 	father=8880270 
@@ -737,7 +854,7 @@
 	}
 }
 8880272 = {
-	name="Zlata"
+	name="Lach"
 	dynasty=9990117
 	father=8880271 
 	religion="finnish_pagan"
@@ -750,7 +867,7 @@
 	}
 }
 8880273 = {
-	name="Sheshkin"
+	name="Kelp"
 	dynasty=9990117
 	religion="finnish_pagan"
 	culture="khanty"
@@ -763,7 +880,7 @@
 	}
 }
 8880274 = {
-	name="Kyntsha"
+	name="Wasa"
 	dynasty=9990117
 	religion="finnish_pagan"
 	father=8880273 
@@ -776,7 +893,7 @@
 	}
 }
 8880275 = {
-	name="Kashlyk"
+	name="Roman"
 	dynasty=9990117
 	religion="finnish_pagan"
 	father=8880274 
@@ -789,7 +906,7 @@
 	}
 }
 8880276 = {
-	name="Kunkan"
+	name="Kirikori"
 	dynasty=9990117
 	religion="finnish_pagan"
 	culture="khanty"
@@ -802,7 +919,7 @@
 	}
 }
 8880277 = {
-	name="Tagil"
+	name="Poti"
 	dynasty=9990117
 	religion="finnish_pagan"
 	culture="khanty"
@@ -815,7 +932,7 @@
 	}
 }
 8880278 = {
-	name="Murza"
+	name="Aji"
 	dynasty=9990117
 	religion="finnish_pagan"
 	culture="khanty"
@@ -828,7 +945,7 @@
 	}
 }
 8880279 = {
-	name="Nahratsh"
+	name="Kuchum"
 	dynasty=9990117 
 	religion="finnish_pagan"
 	culture="khanty"
@@ -840,6 +957,7 @@
 		death=yes
 	}
 }
+<<<<<<< HEAD
 
 
 #name: Polum
@@ -847,3 +965,5 @@
 #title: Muty-Kok of the high chiefdom of Polum
 #years: 598-689
 #sons: 634-701 Taut, 661-735 Asyka, 688-749 Kalpik, 727 Techik (playable)
+=======
+>>>>>>> be60e225d66484c17849f5d9391283d383cddfdc
