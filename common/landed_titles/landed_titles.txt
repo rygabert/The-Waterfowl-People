@@ -23623,11 +23623,8 @@ e_idel_ural = {
 		culture = mordvins
 		
 		d_mordvins = {
-<<<<<<< HEAD
-		color={ 229 202 50 }
-=======
-		color={ 206 176 25 }
->>>>>>> 2931d8314601e159f875e3984844dff050ebf933
+		
+			color={ 229 202 50 }
 			color2={ 255 255 255 }
 	
 			capital = 579 # 
@@ -23719,11 +23716,7 @@ e_idel_ural = {
 			}
 		}
 		d_erzya = {
-<<<<<<< HEAD
 				color={ 229 185 50 }
-=======
-				color={ 216 180 44 }
->>>>>>> 2931d8314601e159f875e3984844dff050ebf933
 				color2={ 255 255 255 }
 				
 				capital = 591# Erzya
@@ -24460,15 +24453,10 @@ e_idel_ural = {
 			color={ 153 105 98 }
 			color2={ 255 255 255 }
 			
-<<<<<<< HEAD
 			komi = Löckchim
 			udmurt = Löckchim
 			mari = Löckchim
-=======
-				komi="Löckchim"
-				udmurt="Löckchim"
-				mari="Löckchim"
->>>>>>> 2931d8314601e159f875e3984844dff050ebf933
+
 
 			capital = 402 # Veliky Ustug
 

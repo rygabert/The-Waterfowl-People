@@ -1341,7 +1341,7 @@
 		death = yes
 	}
 }
-<<<<<<< HEAD
+
 161720 = {
 	name="Pyera"
 	#placeholder
