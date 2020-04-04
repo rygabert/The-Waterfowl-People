@@ -27,13 +27,10 @@ e_pirates = {
 # SPECIAL TITLES
 
 e_finnic = {
-<<<<<<< HEAD
+
 	color={ 8 125 171 }
 	color2={ 255 255 255 }
-=======
-	color={ 85 116 158 }
-	color={ 255 255 255 }
->>>>>>> 2931d8314601e159f875e3984844dff050ebf933
+
 	capital = 378 #kaleva
 
 	k_estonia = {			#new with HF
