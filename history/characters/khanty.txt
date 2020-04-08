@@ -420,12 +420,24 @@
 	}
 }
 
-
+260374 = {
+	name = "Sjakol"
+	religion = finnish_pagan
+	culture = selkup
+	dynasty = 1062194
+	754.1.1 = {
+		birth = yes
+	}
+	830.1.1 = {
+		death = yes
+	}
+}
 260375 = {
 	name = "Kacha"
 	religion = finnish_pagan
 	culture = selkup
 	dynasty = 1062194
+	father = 260374
 	805.1.1 = {
 		birth = yes
 	}
@@ -439,6 +451,7 @@
 	religion = finnish_pagan
 	culture = selkup
 	dynasty = 1062194
+	father = 260375
 	1051.1.1 = {
 		birth = yes
 	}
@@ -520,8 +533,9 @@
 	name = "Janyg-Kelp"
 	religion = finnish_pagan
 	culture = khanty
-	dynasty = 1062513
-	912.1.1 = {
+	dynasty = 1029126
+	father = 159735
+	908.1.1 = {
 		birth = yes
 	}
 	956.1.1 = {

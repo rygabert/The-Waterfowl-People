@@ -43107,6 +43107,11 @@ d_kimak = {
 	color2={ 255 255 255 }
 }
 
+k_eastern_magyar = {
+	color={ 36 154 89 }
+	color2={ 255 255 255 }
+}
+
 d_kirghiz  = {
 	color={ 155 140 78 }
 	color2={ 255 255 255 }

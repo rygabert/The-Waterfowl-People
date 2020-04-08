@@ -1,0 +1,142 @@
+8880401 = {
+	name="Csįk"
+	dynasty=9990119
+	religion="finnish_pagan"
+	culture="hungarian"
+	751.1.1={
+		birth=yes
+	}
+	835.1.1={
+		death=yes
+	}
+}
+8880402 = {
+	name="Csaba"
+	dynasty=9990119
+	religion="finnish_pagan"
+	father=8880401 
+	culture="hungarian"
+	800.7.5={
+		birth=yes
+	}
+	855.1.1={
+		death=yes
+	}
+}
+8880403 = {
+	name="Alajos"
+	dynasty=9990119
+	religion="finnish_pagan"
+	father=8880402
+	culture="hungarian"
+	850.7.5={
+		birth=yes
+	}
+	940.1.1={
+		death=yes
+	}
+}
+8880404 = {
+	name="Tivadar"
+	dynasty=9990119
+	religion="finnish_pagan"
+	father=8880403
+	culture="hungarian"
+	925.7.5={
+		birth=yes
+	}
+	1000.1.1={
+		death=yes
+	}
+}
+8880405 = {
+	name="Įrpįd"
+	dynasty=9990119
+	religion="finnish_pagan"
+	father=8880404
+	culture="hungarian"
+	980.7.5={
+		birth=yes
+	}
+	1055.1.1={
+		death=yes
+	}
+}
+8880406 = {
+	name="Syrk"
+	dynasty=9990119
+	religion="finnish_pagan"
+	father=8880405
+	culture="hungarian"
+	1049.1.1={
+		birth=yes
+	}
+	1120.1.1={
+		death=yes
+	}
+}
+8880407 = {
+	name="Géza"
+	dynasty=9990119
+	religion="finnish_pagan"
+	father=8880016
+	culture="hungarian"
+	1106.1.1={
+		birth=yes
+	}
+	1170.1.1={
+		death=yes
+	}
+}
+8880408 = {
+	name="Gazsi"
+	dynasty=9990119
+	religion="finnish_pagan"
+	father=8880407
+	culture="hungarian"
+	1150.1.1={
+		birth=yes
+	}
+	1230.1.1={
+		death=yes
+	}
+}
+8880409 = {
+	name="Csongor"
+	dynasty=9990119
+	religion="finnish_pagan"
+	father=8880408
+	culture="hungarian"
+	1215.1.1={
+		birth=yes
+	}
+	1270.1.1={
+		death=yes
+	}
+}
+8880410 = {
+	name="Zoltįn"
+	dynasty=9990119
+	religion="finnish_pagan"
+	father=8880409
+	culture="hungarian"
+	1255.1.1={
+		birth=yes
+	}
+	1330.1.1={
+		death=yes
+	}
+}
+8880411 = {
+	name="Zsolt"
+	dynasty=9990119
+	religion="finnish_pagan"
+	father=8880410
+	culture="hungarian"
+	1305.1.1={
+		birth=yes
+	}
+	1338.1.1={
+		death=yes
+	}
+}
