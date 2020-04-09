@@ -22534,6 +22534,19 @@ e_tartaria = {
 			color2={ 255 255 255 }
 
 			capital = 1873 # Ob
+			
+			c_om = {
+				color={ 210 170 130 }
+				color2={ 255 255 255 }
+
+				b_om = {}
+				b_butovka = {}
+				b_omskiy = {}
+				b_stepnoy = {}
+				b_rostovka = {}
+				b_zotino = {}
+				b_borodinka = {}
+			}
 
 			c_ob = {
 				color={ 135 125 45 }
@@ -22919,16 +22932,30 @@ e_tartaria = {
 			}
 		}
 		d_yugra = {
-			color={ 250 250 180 }
+			color={ 117 183 65 }
 			color2={ 255 255 255 }
 			
 			capital = 892 # Mansia
 			
 			c_mansia = {
-				color={ 223 170 27 }
+				color={ 228 234 96 }
 				color2={ 255 255 255 }
 				
-				khanty = "Pelym"
+				ugricbaltic = "Polum"
+				finnish = "Polum"
+				bjarmian = "Polum"
+				vepsian = "Polum"
+				muroma = "Polum"
+				mari = "Polum"
+				finnish = "Polum"
+				lappish = "Polum"
+				ugricbaltic = "Polum"
+				komi = "Polum"
+				samoyed = "Polum"
+				mordvin = "Polum"
+				meshchera = "Polum"
+				khanty = "Polum"	
+				selkup = "Polum"
 			
 				b_mansiysk = {
 				}
@@ -22948,10 +22975,24 @@ e_tartaria = {
 				}
 			}
 			c_khantia = {
-				color={ 249 223 152 }
+				color={ 195 214 57 }
 				color2={ 255 255 255 }
 				
-				khanty="Konda"
+				ugricbaltic = "Kont"
+				finnish = "Kont"
+				bjarmian = "Kont"
+				vepsian = "Kont"
+				muroma = "Kont"
+				mari = "Kont"
+				finnish = "Kont"
+				lappish = "Kont"
+				ugricbaltic = "Kont"
+				komi = "Kont"
+				samoyed = "Kont"
+				mordvin = "Kont"
+				meshchera = "Kont"
+				khanty = "Kont"	
+				selkup = "Kont"
 			
 				b_chanty = {
 				}
@@ -22971,21 +23012,20 @@ e_tartaria = {
 				}
 			}
 			c_sosva = {
-				color={ 214 215 145 }
+				color={ 193 235 54 }
 				color2={ 255 255 255 }
-			
-				b_narykary = {
-				}
+				
+				b_narykary = {}
 			}
 			c_koda = {
-				color={ 254 210 147 }
+				color={ 140 185 35 }
 				color2={ 255 255 255 }
 			
 				b_sukhorukova = {
 				}
 			}
 			c_lyapin = {
-				color={ 254 220 155 }
+				color={ 145 201 56 }
 				color2={ 255 255 255 }
 			
 				b_sumgut-vosh = {
@@ -22993,13 +23033,13 @@ e_tartaria = {
 			}
 		}
 		d_khanty = {
-			color={ 240 240 150 }
+			color={ 169 237 97 }
 			color2={ 255 255 255 }
 
 			capital = 2035# Om
 
 			c_surgut= {
-				color={ 212 179 110 }
+				color={ 143 188 124 }
 				color2={ 255 255 255 }
 
 				b_surgut = {}
@@ -23007,7 +23047,7 @@ e_tartaria = {
 				b_tromagan = {}
 			}
 			c_altym= {
-				color={ 218 160 130 }
+				color={ 153 205 101 }
 				color2={ 255 255 255 }
 
 				b_altym = {}
@@ -23016,7 +23056,7 @@ e_tartaria = {
 
 			}
 			c_kazym= {
-				color={ 238 170 144 }
+				color={ 128 201 110 }
 				color2={ 255 255 255 }
 
 				b_kunovat = {}
@@ -23027,16 +23067,30 @@ e_tartaria = {
 			
 				khanty="Polnovat-Vozh"
 				
-				color={ 201 124 80 }
+				color={ 143 221 97 }
 				color2={ 255 255 255 }
 
 				b_polnovat-vozh = {}
 			}
 			c_yamalia = {
-				color={ 240 214 143 }
+				color={ 181 226 140 }
 				color2={ 255 255 255 }
 				
-				khanty= "Yugan"
+				ugricbaltic = "Tungpoh-Wosh"
+				finnish = "Tungpoh-Wosh"
+				bjarmian = "Tungpoh-Wosh"
+				vepsian = "Tungpoh-Wosh"
+				muroma = "Tungpoh-Wosh"
+				mari = "Tungpoh-Wosh"
+				finnish = "Tungpoh-Wosh"
+				lappish = "Tungpoh-Wosh"
+				ugricbaltic = "Tungpoh-Wosh"
+				komi = "Tungpoh-Wosh"
+				samoyed = "Tungpoh-Wosh"
+				mordvin = "Tungpoh-Wosh"
+				meshchera = "Tungpoh-Wosh"
+				khanty = "Tungpoh-Wosh"	
+				selkup = "Tungpoh-Wosh"
 			
 				b_polnovatvozh = {
 				}
@@ -23057,25 +23111,13 @@ e_tartaria = {
 			}
 		}
 		d_om = {
-			color={ 240 240 150 }
+			color={ 153 175 149 }
 			color2={ 255 255 255 }
 
 			capital = 1861 # Om
 
-			c_om = {
-				color={ 210 170 130 }
-				color2={ 255 255 255 }
-
-				b_om = {}
-				b_butovka = {}
-				b_omskiy = {}
-				b_stepnoy = {}
-				b_rostovka = {}
-				b_zotino = {}
-				b_borodinka = {}
-			}
 			c_tara = {
-				color={ 205 165 120 }
+				color={ 117 136 158 }
 				color2={ 255 255 255 }
 
 				b_tara = {}
@@ -23087,7 +23129,7 @@ e_tartaria = {
 				b_chernovka = {}
 			}
 			c_narim = {
-				color={ 216 175 140 }
+				color={ 123 151 171 }
 				color2={ 255 255 255 }
 			
 				b_narim = {}
@@ -23098,7 +23140,7 @@ e_tartaria = {
 				b_aruz = {} #Fictional, for prosperity
 				b_uros = {} #Fictional, for prosperity
 			}
-			c_erchis = {
+			c_erchis = { #on ket
 				color = { 130 128 230 }
 				
 				b_erchis = {
@@ -23118,13 +23160,29 @@ e_tartaria = {
 			}
 		}
 		d_vasyugan = {
-			color={ 220 220 120 }
+			color={ 144 167 128 }
 			color2={ 255 255 255 }
 
 			capital = 1860 # Vasyugan
-
+			
+				ugricbaltic = "Numen"
+				finnish = "Numen"
+				bjarmian = "Numen"
+				vepsian = "Numen"
+				muroma = "Numen"
+				mari = "Numen"
+				finnish = "Numen"
+				lappish = "Numen"
+				ugricbaltic = "Numen"
+				komi = "Numen"
+				samoyed = "Numen"
+				mordvin = "Numen"
+				meshchera = "Numen"
+				khanty = "Numen"	
+				selkup = "Numen"
+				
 			c_vasyugan = {
-				color={ 200 150 150 }
+				color={ 113 157 134 }
 				color2={ 255 255 255 }
 
 				b_vasyugan = {}
@@ -23137,10 +23195,24 @@ e_tartaria = {
 			}
 
 			c_bolshoy = {
-				color={ 210 160 160 }
+				color={ 115 175 134 }
 				color2={ 255 255 255 }
 				
-				khanty = "Urgut"
+				ugricbaltic = "Jogan"
+				finnish = "Jogan"
+				bjarmian = "Jogan"
+				vepsian = "Jogan"
+				muroma = "Jogan"
+				mari = "Jogan"
+				finnish = "Jogan"
+				lappish = "Jogan"
+				ugricbaltic = "Jogan"
+				komi = "Jogan"
+				samoyed = "Jogan"
+				mordvin = "Jogan"
+				meshchera = "Jogan"
+				khanty = "Jogan"	
+				selkup = "Jogan"
 
 				b_bolshoy = {}
 				b_lempino = {}
@@ -23152,8 +23224,8 @@ e_tartaria = {
 			}
 
 			c_tui = {
-				color={ 210 170 170 }
-				color={ 255 255 255 }
+				color={ 192 230 118 }
+				color2={ 255 255 255 }
 
 				b_tui = {}
 				b_aksurka = {}
@@ -23165,7 +23237,7 @@ e_tartaria = {
 			}
 
 			c_shish = {
-				color={ 230 180 180 }
+				color={ 162 190 123 }
 				color2={ 255 255 255 }
 
 				b_shish = {}
@@ -43108,7 +43180,7 @@ d_kimak = {
 }
 
 k_eastern_magyar = {
-	color={ 36 154 89 }
+	color={ 160 185 125 }
 	color2={ 255 255 255 }
 }
 

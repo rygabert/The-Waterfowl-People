@@ -1,7 +1,12 @@
-9990119={
-	name="Ménrót"
+9990120={
+	name="Sheshkin"
 	culture="khanty"
 	religion="tengri_pagan"
+}
+9990119={
+	name="Ménrót"
+	culture="hungarian"
+	religion="finnish_pagan"
 }
 9990118 = {
 	name="Tervete"
@@ -48684,7 +48689,7 @@
 	religion = finnish_pagan
 }
 1062067 = {
-	name = "Sheshkin"
+	name = "Pukol"
 	culture = khanty
 	religion = finnish_pagan
 }
