@@ -1,7 +1,12 @@
+9990121={
+	name="Leushi"
+	culture="khanty"
+	religion="finnish_pagan"
+}
 9990120={
 	name="Sheshkin"
 	culture="khanty"
-	religion="tengri_pagan"
+	religion="finnish_pagan"
 }
 9990119={
 	name="Ménrót"
@@ -48684,7 +48689,7 @@
 	religion="sunni"
 }
 1062066 = {
-	name = "Serotetto"
+	name = "Pasteri"
 	culture = khanty
 	religion = finnish_pagan
 }
@@ -49286,7 +49291,7 @@
 	religion = finnish_pagan
 }
 1062195 = {
-	name = "Raydasid"
+	name = "Samar"
 	culture = khanty
 	religion = finnish_pagan
 }
